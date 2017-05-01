@@ -1,9 +1,33 @@
 # -*- coding: utf-8 -*-
 import re
+pre_org_dict = []
+pre_per_dict = []
+sub_per_dict = []
+common_dict = []
+
+# Load dict #
+with open('dict_pre_per.txt') as f:
+	for line in f:
+		pre_per_dict.append(line)
+	f.close()
+with open('dict_pre_org.txt') as f:
+	for line in f:
+		pre_org_dict.append(line)
+	f.close()
+with open('dict_sub_per.txt') as f:
+	for line in f:
+		sub_per_dict.append(line)
+	f.close()
+with open('dict_common.txt') as f:
+	for line in f:
+		common_dict.append(line)
+	f.close()
+	
+# easy pattern #
 filename = ['untagged.out']
+data = []
 for fn in filename:
 	with open(fn) as f:
-		data = []
 		for line in f:
 			data.append(line)
 		for i in range(len(data)):
@@ -68,5 +92,49 @@ for fn in filename:
 										data[i+k] += '(org_start)\n'
 									else:
 										data[i+k] += '(org_cont)\n'
-						
-			print data[i],
+			if(data[i] == 'นาย\n' or data[i] == 'นาง\n' or data[i] == 'นางสาว\n' or data[i] == 'เด็กชาย\n' or data[i] == 'เด็กหญิง\n' or data[i] == 'ด.ช.\n' or data[i] == 'ด.ญ.\n'):
+				if(data[i+2] == ' \n' and (data[i+4] == ' \n' or data[i+4]== ',\n' or data[i+4] == 'และ\n')):
+					for k in range(4):
+						if(k>0):
+							data[i+k] = re.split('\n',data[i+k])[0]
+							if(k==1):
+								data[i+k] += '(per_start)\n'
+							elif(k==3):
+								data[i+k] += '(per_end)\n'
+							else:
+								data[i+k] += '(per_cont)\n'
+				else:
+					data[i+1] = re.split('\n',data[i+1])[0]
+					data[i+1] += '(per)\n'
+			#print data[i],
+
+# make word feature #
+word_feature = []
+for i in range(len(data)):
+	test = re.search('(.*)(?=\(per|\(org)',data[i])
+	if(test):
+		word = test.group(0) + '\n'
+	else :
+		word = data[i]
+	test = re.search('(?<=\()[po].*(?=\))',data[i])
+	if(test):
+		tagged = test.group(0)
+	else :
+		tagged = 'O'
+	dict_pre_org = (word in pre_org_dict)
+	dict_pre_per = (word in pre_per_dict)
+	dict_sub_per = (word in sub_per_dict)
+	dict_common = (word in common_dict)
+	word_feature.append((word,tagged,dict_pre_org,dict_pre_per,dict_sub_per,dict_common))
+	
+useful_feature = []
+useless_word = ('-','-','-','-','-','-')
+for i in range(len(word_feature)):
+	feature = ()
+	for j in range(13):
+		if(i+j-6 < 0 or i+j-6 >= len(word_feature)):
+			feature += useless_word
+		else:
+			feature += word_feature[i+j-6]
+	useful_feature.append(feature)
+#print useful_feature
