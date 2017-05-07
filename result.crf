@@ -1,0 +1,13240 @@
+ประธาน	O	O
+ธนาคาร	O	O
+กลาง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+แถลง	O	O
+นโยบาย	O	O
+การเงิน	O	O
+ต่อ	O	O
+วุฒิสภา	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ยัง	O	O
+อยู่	O	O
+ใน	O	O
+ภาวะ	O	O
+ที่	O	O
+น่า	O	O
+พอใจ	O	O
+/s	O	O
+การ	O	O
+แถลง	O	O
+พาดพิง	O	O
+ถึง	O	O
+วิกฤต	O	O
+เอเชีย	O	O
+ว่า	O	O
+อาจ	O	O
+ขยายตัว	O	O
+มาก	O	O
+กว่า	O	O
+ที่	O	O
+เป็นอยู่	O	O
+นโยบาย	O	O
+การเงิน	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+อาจ	O	O
+ซ้ำเติม	O	O
+ภาวะ	O	O
+วิกฤต	O	O
+ของ	O	O
+เอเชีย	O	O
+อลัน	O	O
+/s	O	O
+กรีนสแปน	O	O
+/s	O	O
+ประธาน	O	O
+ธนาคาร	O	O
+กลาง	org_start	O
+แห่ง	org_cont	O
+สหรัฐอเมริกา	org_end	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+เฟด	O	O
+/s	O	O
+แถลง	O	O
+นโยบาย	O	O
+การเงิน	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+ประจำ	O	O
+รอบ	O	O
+ครึ่ง	O	O
+ปี	O	O
+/s	O	O
+ต่อ	O	O
+กรรมาธิการ	O	O
+ด้าน	O	O
+การ	O	O
+ธนาคาร	O	O
+แห่ง	org_start	O
+วุฒิสภา	org_end	O
+/s	O	O
+เมื่อ	O	O
+วัน	O	O
+อังคาร	O	O
+ว่า	O	O
+เฟด	O	O
+ยัง	O	O
+จับตา	O	O
+การ	O	O
+เติบโต	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+สำนัก	O	O
+ข่าว	O	O
+รอยเตอร์	O	O
+และ	O	O
+ดาวโจนส์	O	O
+ตีความ	O	O
+ว่า	O	O
+เฟด	O	O
+ยัง	O	O
+ไม่	O	O
+ส่ง	O	O
+สัญญาณ	O	O
+ว่า	O	O
+จะ	O	O
+รีบร้อน	O	O
+ปรับ	O	O
+เปลี่ยน	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+ใน	O	O
+ระยะ	O	O
+นี้	O	O
+/s	O	O
+ขณะที่	O	O
+/s	O	O
+หนังสือพิมพ์	O	O
+ไฟแนนเชียล	O	O
+/s	O	O
+ไทมส์	O	O
+/s	O	O
+ลง	O	O
+ความเห็น	O	O
+ว่า	O	O
+/s	O	O
+ประธาน	O	O
+เฟด	O	O
+เตือน	O	O
+ว่า	O	O
+อาจ	O	O
+จำเป็นต้อง	O	O
+ขยับ	O	O
+ขึ้น	O	O
+ดอกเบี้ย	O	O
+การ	O	O
+ขยายตัว	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+จะ	O	O
+ชะลอ	O	O
+ความ	O	O
+ร้อนแรง	O	O
+โดย	O	O
+อิง	O	O
+บน	O	O
+คำพูด	O	O
+ของ	O	O
+กรีนสแปน	O	O
+/s	O	O
+ส่วน	O	O
+ที่	O	O
+พูด	O	O
+ว่า	O	O
+/s	O	O
+ใน	O	O
+การ	O	O
+แถลง	O	O
+ของ	O	O
+ประธาน	O	O
+เฟด	O	O
+ต่อ	O	O
+รัฐสภา	O	O
+ที่	O	O
+เรียก	O	O
+กัน	O	O
+ว่า	O	O
+ฮัมฟรีย์	O	O
+-	O	O
+ฮอว์กินส์	O	O
+/s	O	O
+ราย	O	O
+ครึ่ง	O	O
+ปี	O	O
+นี้	O	O
+/s	O	O
+ประธาน	O	O
+เฟด	O	O
+ยืนยัน	O	O
+กับ	O	O
+กรรมาธิการ	O	O
+ว่า	O	O
+/s	O	O
+การ	O	O
+เคลื่อนไหว	O	O
+ภายใน	O	O
+ระบบ	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ยัง	O	O
+คง	O	O
+น่า	O	O
+ประทับใจ	O	O
+อย่างไรก็ตาม	O	O
+/s	O	O
+กรีนสแปน	O	O
+ได้	O	O
+สะท้อน	O	O
+ความ	O	O
+กังวล	O	O
+ใจ	O	O
+มี	O	O
+สัญญาณ	O	O
+ชี้	O	O
+ออก	O	O
+มา	O	O
+แล้ว	O	O
+ว่า	O	O
+เศรษฐกิจ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ชะลอ	O	O
+ตัว	O	O
+ลง	O	O
+กรีนสแปน	O	O
+ใช้	O	O
+คำ	O	O
+ว่า	O	O
+/s	O	O
+"	O	O
+เพ้อ	O	O
+ฝัน	O	O
+"	O	O
+/s	O	O
+ให้	O	O
+ความ	O	O
+หวัง	O	O
+แก่	O	O
+ตลาด	O	O
+การเงิน	O	O
+ว่า	O	O
+เฟด	O	O
+อาจ	O	O
+ไป	O	O
+ไกล	O	O
+หาก	O	O
+ผลกระทบ	O	O
+จาก	O	O
+วิกฤต	O	O
+เอเชีย	O	O
+กดดัน	O	O
+ให้	O	O
+เศรษฐกิจ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+หด	O	O
+ตัว	O	O
+อย่าง	O	O
+รุนแรง	O	O
+/s	O	O
+การ	O	O
+หด	O	O
+ตัว	O	O
+ใน	O	O
+เศรษฐกิจ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ของ	O	O
+กรีนสแปน	O	O
+ครั้ง	O	O
+นี้	O	O
+/s	O	O
+ทาง	O	O
+หนังสือพิมพ์	O	O
+ไฟแนนเชียล	O	O
+/s	O	O
+ไทมส์	O	O
+/s	O	O
+วิเคราะห์	O	O
+ว่า	O	O
+/s	O	O
+ปฏิกิริยา	O	O
+ของ	O	O
+ตลาดหุ้น	O	O
+ใน	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+ออก	O	O
+ใน	O	O
+ทาง	O	O
+ลบ	O	O
+วิตก	O	O
+กับ	O	O
+คำพูด	O	O
+ของ	O	O
+กรีนสแปน	O	O
+ที่	O	O
+ชี้	O	O
+ว่า	O	O
+/s	O	O
+เมื่อ	O	O
+ตลาดหุ้น	O	O
+นิวยอร์ก	O	O
+ปิด	O	O
+ทำการ	O	O
+/s	O	O
+ดัชนี	O	O
+ดาวโจนส์	O	O
+ทรุด	O	O
+ตัว	O	O
+/s	O	O
+1.1	O	O
+%	O	O
+กรีนสแปน	O	O
+กล่าวถึง	O	O
+หลาย	O	O
+พื้นที่	O	O
+อันตราย	O	O
+ต่อ	O	O
+สถานการณ์	O	O
+เศรษฐกิจ	O	O
+โลก	O	O
+ระบบ	O	O
+เศรษฐกิจ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+โดย	O	O
+รวม	O	O
+กรีนสแปน	O	O
+เตือน	O	O
+ว่า	O	O
+วิกฤต	O	O
+การเงิน	O	O
+ใน	O	O
+เอเชีย	O	O
+/s	O	O
+อาจ	O	O
+จะ	O	O
+ทวี	O	O
+ความ	O	O
+รุนแรง	O	O
+และ	O	O
+อาจ	O	O
+ขยาย	O	O
+ตัว	O	O
+ไป	O	O
+มาก	O	O
+กว่า	O	O
+ที่	O	O
+เป็นอยู่	O	O
+/s	O	O
+นโยบาย	O	O
+ทาง	O	O
+การเงิน	O	O
+ที่	O	O
+เข้มงวด	O	O
+มาก	O	O
+ขึ้น	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+อาจ	O	O
+ส่ง	O	O
+ผลกระทบ	O	O
+อย่าง	O	O
+มากมาย	O	O
+ต่อ	O	O
+ตลาด	O	O
+การเงิน	O	O
+ของ	O	O
+เอเชีย	O	O
+ที่	O	O
+แสน	O	O
+จะ	O	O
+อ่อนไหว	O	O
+ตลาด	O	O
+การเงิน	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ได้	O	O
+/s	O	O
+ระบบ	O	O
+เศรษฐกิจ	O	O
+โดย	O	O
+รวม	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+ด้วย	O	O
+/s	O	O
+แต่	O	O
+กรีนสแปน	O	O
+ก็	O	O
+ไม่	O	O
+ลืม	O	O
+ที่	O	O
+จะ	O	O
+ย้ำ	O	O
+ภายใน	O	O
+ระบบ	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+"	O	O
+ประธาน	O	O
+เฟด	O	O
+กล่าวถึง	O	O
+ประมาณ	O	O
+การ	O	O
+ภาวะ	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ใน	O	O
+ระหว่าง	O	O
+การ	O	O
+แถลง	O	O
+นโยบาย	O	O
+การเงิน	O	O
+ต่อ	O	O
+วุฒิสภา	O	O
+ว่า	O	O
+/s	O	O
+ทาง	O	O
+เฟด	O	O
+คาด	O	O
+ว่า	O	O
+ทาง	O	O
+เฟด	O	O
+ประเมิน	O	O
+ว่า	O	O
+/s	O	O
+เฟด	O	O
+คาด	O	O
+ว่า	O	O
+จะ	O	O
+รักษา	O	O
+ระดับ	O	O
+/s	O	O
+4.5-4.75	O	O
+%	O	O
+/s	O	O
+ไป	O	O
+ตลอด	O	O
+ปี	O	O
+นี้	O	O
+จนถึง	O	O
+ปี	O	O
+หน้า	O	O
+การ	O	O
+แถลง	O	O
+นโยบาย	O	O
+การเงิน	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ต่อ	O	O
+วุฒิสภา	O	O
+เมื่อ	O	O
+วัน	O	O
+อังคาร	O	O
+จะ	O	O
+ถูก	O	O
+แถลง	O	O
+อีก	O	O
+รอบ	O	O
+หนึ่ง	O	O
+ต่อ	O	O
+สภา	O	O
+ผู้แทนราษฎร	O	O
+ใน	O	O
+วัน	O	O
+พุธ	O	O
+รายการ	O	O
+ต่อไป	O	O
+ของ	O	O
+ธนาคาร	O	O
+กลาง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+จะ	O	O
+มี	O	O
+ขึ้น	O	O
+เมื่อ	O	O
+คณะ	O	O
+กรรมการ	O	O
+กำหนด	O	O
+นโยบาย	O	O
+ของ	O	O
+เฟด	O	O
+จะ	O	O
+พบปะ	O	O
+ประชุม	O	O
+กัน	O	O
+ญี่ปุ่น	O	O
+รับ	O	O
+ข่าว	O	O
+ร้าย	O	O
+วัน	O	O
+สุกดิบ	O	O
+ก่อน	O	O
+การ	O	O
+ลง	O	O
+คะแนนเสียง	O	O
+ใน	O	O
+พรรค	O	O
+เจดีพี	O	O
+เพื่อ	O	O
+เลือก	O	O
+หัวหน้า	O	O
+ใหม่	O	O
+ที่	O	O
+จะ	O	O
+กลายเป็น	O	O
+นายกรัฐมนตรี	O	O
+ญี่ปุ่น	O	O
+โดย	O	O
+อัตโนมัติ	O	O
+/s	O	O
+มูดดี้ส์	O	O
+ประกาศ	O	O
+จับตา	O	O
+เตรียม	O	O
+ลด	O	O
+ความ	O	O
+น่า	O	O
+เชื่อถือ	O	O
+ตราสาร	O	O
+สกุล	O	O
+เงิน	O	O
+เยน	O	O
+ทั้งที่	O	O
+ออก	O	O
+ใน	O	O
+และ	O	O
+นอก	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+ขณะที่	O	O
+ประธาน	O	O
+เฟด	O	O
+แถลง	O	O
+ต่อ	O	O
+สภา	O	O
+ล่าง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ว่า	O	O
+วิกฤต	O	O
+เอเชีย	O	O
+ยัง	O	O
+ไม่	O	O
+หมด	O	O
+ม้วน	O	O
+วิกฤต	O	O
+ใน	O	O
+ญี่ปุ่น	O	O
+ด้วย	O	O
+เอสแอนด์พี	O	O
+ประกาศ	O	O
+ลด	O	O
+เกรด	O	O
+ไดวา	O	O
+/s	O	O
+ซีเคียวริตี้ส์	O	O
+/s	O	O
+โบรกเกอร์	O	O
+ยักษ์	O	O
+อันดับ	O	O
+สอง	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+ดัชนี	O	O
+หุ้น	O	O
+ใน	O	O
+ตลาด	O	O
+ญี่ปุ่น	O	O
+ตลอดจน	O	O
+ตลาด	O	O
+ต่างๆ	O	O
+/s	O	O
+ทั่ว	O	O
+เอเชีย	O	O
+ร่วง	O	O
+ดิ่ง	O	O
+อย่าง	O	O
+ทั่ว	O	O
+ถ้วน	O	O
+/s	O	O
+ตลาด	O	O
+การเงิน	O	O
+ใน	O	O
+ญี่ปุ่น	O	O
+รับ	O	O
+อรุณ	O	O
+ด้วย	O	O
+ข่าว	O	O
+ร้าย	O	O
+จาก	O	O
+ซีก	O	O
+โลก	O	O
+ตะวันตก	O	O
+/s	O	O
+เมื่อ	O	O
+อลัน	O	O
+/s	O	O
+กรีนสแปน	O	O
+/s	O	O
+ประธาน	O	O
+ธนาคาร	O	O
+กลาง	O	O
+สหรัฐอเมริกา	O	O
+/s	O	O
+(	O	O
+เฟด	O	O
+)	O	O
+/s	O	O
+กล่าว	O	O
+พาดพิง	O	O
+ถึง	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+เอเชีย	O	O
+ใน	O	O
+ระหว่าง	O	O
+การ	O	O
+แถลง	O	O
+นโยบาย	O	O
+การเงิน	O	O
+รอบ	O	O
+ครึ่ง	O	O
+ปี	O	O
+ต่อ	O	O
+คณะ	O	O
+อนุ	O	O
+กรรมาธิการ	O	O
+การ	O	O
+ธนาคาร	O	O
+แห่ง	org_start	O
+สภา	org_cont	O
+ผู้แทนราษฎร	org_end	O
+/s	O	O
+เมื่อ	O	O
+วัน	O	O
+พุธ	O	O
+วิกฤต	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+เอเชีย	O	O
+ยัง	O	O
+ไม่	O	O
+หมด	O	O
+สิ้น	O	O
+/s	O	O
+กรีนสแปน	O	O
+/s	O	O
+ยัง	O	O
+แถลง	O	O
+อย่าง	O	O
+ตรงๆ	O	O
+ปรากฏ	O	O
+วี่แวว	O	O
+ใน	O	O
+ภูมิภาค	O	O
+เอเชีย	O	O
+สถานการณ์	O	O
+เลว	O	O
+ร้าย	O	O
+ใน	O	O
+เอเชีย	O	O
+กรณี	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+ด้วยว่า	O	O
+สหรัฐ	O	O
+ฯ	O	O
+จะ	O	O
+ย้ำ	O	O
+เสมอ	O	O
+ถึง	O	O
+ผลกระทบ	O	O
+ที่	O	O
+ญี่ปุ่น	O	O
+มี	O	O
+ต่อ	O	O
+ภูมิภาค	O	O
+เอเชีย	O	O
+/s	O	O
+โดย	O	O
+รวม	O	O
+ใน	O	O
+กรุง	O	O
+โตเกียว	O	O
+ตลาด	O	O
+การเงิน	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+เผชิญ	O	O
+กับ	O	O
+ระเบิด	O	O
+สังหาร	O	O
+เป็น	O	O
+คำรบ	O	O
+สอง	O	O
+เมื่อ	O	O
+เพดาน	O	O
+เรตติ้ง	O	O
+/s	O	O
+Aaa	O	O
+/s	O	O
+ของ	O	O
+ตราสาร	O	O
+สกุล	O	O
+เงิน	O	O
+เยน	O	O
+ถูก	O	O
+สั่นคลอน	O	O
+หลังจาก	O	O
+สถาบัน	O	O
+จัด	O	O
+อันดับ	O	O
+ความ	O	O
+น่า	O	O
+เชื่อถือ	O	O
+ชั้นนำ	O	O
+ของ	O	O
+โลก	O	O
+นาม	O	O
+/s	O	O
+มูดดี้ส์	O	O
+/s	O	O
+อินเวสเตอรส์	O	O
+/s	O	O
+เซอร์วิส	O	O
+/s	O	O
+ประกาศ	O	O
+พิจารณา	O	O
+ทบทวน	O	O
+เรตติ้ง	O	O
+ดัง	O	O
+กล่าว	O	O
+/s	O	O
+หมุนเวียน	O	O
+ภายใน	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+และ	O	O
+ใน	O	O
+ประเทศ	O	O
+ต่างๆ	O	O
+ทั้งนี้	O	O
+/s	O	O
+ทาง	O	O
+มูดดี้ส์	O	O
+อธิบาย	O	O
+สาเหตุ	O	O
+ระบบ	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+ที่	O	O
+ดื้อดึง	O	O
+ขัดขืน	O	O
+กับ	O	O
+วิธี	O	O
+เยียวยา	O	O
+ระดับ	O	O
+นโยบาย	O	O
+แบบ	O	O
+ที่	O	O
+ใช้	O	O
+กัน	O	O
+อยู่	O	O
+ทั่วไป	O	O
+ความ	O	O
+อ่อนแอ	O	O
+ใน	O	O
+ฐานะ	O	O
+ของ	O	O
+ฮ่องกง	O	O
+บน	O	O
+เวที	O	O
+นอก	O	O
+ประเทศ	O	O
+ด้วย	O	O
+นอกจากนั้น	O	O
+มูดดี้ส์	O	O
+ชี้	O	O
+ไป	O	O
+ที่	O	O
+ปัญหา	O	O
+การคลัง	O	O
+ของ	O	O
+ภาค	O	O
+รัฐ	O	O
+ว่า	O	O
+มี	O	O
+แนวโน้ม	O	O
+ไม่	O	O
+ดี	O	O
+ต่อ	O	O
+ฐานะ	O	O
+ของ	O	O
+ค่า	O	O
+เงิน	O	O
+เยน	O	O
+เพราะ	O	O
+ญี่ปุ่น	O	O
+ประสบ	O	O
+ปัญหา	O	O
+การ	O	O
+ขาด	O	O
+ดุล	O	O
+งบประมาณ	O	O
+อย่าง	O	O
+หนัก	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+ที่	O	O
+จะ	O	O
+ส่ง	O	O
+ผลกระทบ	O	O
+ต่อ	O	O
+ฐานะ	O	O
+ของ	O	O
+เงิน	O	O
+เยน	O	O
+ทั้งนี้	O	O
+/s	O	O
+งบประมาณ	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+ขาด	O	O
+ดุล	O	O
+มาก	O	O
+ถึง	O	O
+ระดับ	O	O
+ผลิตภัณฑ์	O	O
+มวล	O	O
+รวม	O	O
+ภายใน	O	O
+ประเทศ	O	O
+/s	O	O
+หรือ	O	O
+จีดีพี	O	O
+ขณะที่	O	O
+บรรดา	O	O
+ประเทศ	O	O
+อุตสาหกรรม	O	O
+ใน	O	O
+ประชาคม	O	O
+ยุโรป	O	O
+/s	O	O
+(	O	O
+อียู	O	O
+)	O	O
+/s	O	O
+ที่	O	O
+จะ	O	O
+เข้า	O	O
+สู่	O	O
+ระบบ	O	O
+เงิน	O	O
+สกุล	O	O
+เดียว	O	O
+ของ	O	O
+อียู	O	O
+ได้	O	O
+/s	O	O
+สามารถ	O	O
+ตัด	O	O
+ลด	O	O
+การ	O	O
+ขาด	O	O
+ดุล	O	O
+งบประมาณ	O	O
+ลง	O	O
+ไป	O	O
+ต่ำ	O	O
+กว่า	O	O
+ระดับ	O	O
+/s	O	O
+3%	O	O
+/s	O	O
+ของ	O	O
+จีดีพี	O	O
+กัน	O	O
+แล้ว	O	O
+ทางการ	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+ตอบโต้	O	O
+ด้วย	O	O
+การ	O	O
+ส่ง	O	O
+รมช.	O	O
+ด้าน	O	O
+การค้า	O	O
+/s	O	O
+โอซามุ	O	O
+/s	O	O
+วาตานาเบ้	O	O
+/s	O	O
+ออก	O	O
+มา	O	O
+แย้ง	O	O
+ว่า	O	O
+ไม่ใช่	O	O
+ทุก	O	O
+อย่างที่	O	O
+จะ	O	O
+เลว	O	O
+ร้าย	O	O
+ขนาด	O	O
+ที่	O	O
+มูดดี้ส์	O	O
+วิจารณ์	O	O
+ตลาด	O	O
+การเงิน	O	O
+ญี่ปุ่น	O	O
+ยัง	O	O
+ไม่	O	O
+คลาย	O	O
+จาก	O	O
+ความ	O	O
+กดดัน	O	O
+สถาบัน	O	O
+จัด	O	O
+อันดับ	O	O
+ความ	O	O
+น่า	O	O
+เชื่อถือ	O	O
+ชั้นนำ	O	O
+ของ	O	O
+โลก	O	O
+อีกราย	O	O
+หนึ่ง	O	O
+คือ	O	O
+/s	O	O
+สแตนดาร์ด	O	O
+แอนด์	O	O
+พัวร์ส์	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+เอสแอนด์พี	O	O
+/s	O	O
+ประกาศ	O	O
+ลด	O	O
+เรตติ้ง	O	O
+ของ	O	O
+บริษัท	O	O
+โบรกเกอร์	O	O
+อันดับ	O	O
+สอง	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+ไดวาซีเคียวริตี้ส์	O	O
+/s	O	O
+จาก	O	O
+ระดับ	O	O
+ปานกลาง	O	O
+/s	O	O
+BBB+	O	O
+/s	O	O
+เป็น	O	O
+ระดับ	O	O
+แนวโน้ม	O	O
+ติดลบ	O	O
+/s	O	O
+BBB-	O	O
+/s	O	O
+ทาง	O	O
+เอสแอนด์พี	O	O
+ให้	O	O
+เหตุผล	O	O
+ว่า	O	O
+แนวโน้ม	O	O
+อนาคต	O	O
+ของ	O	O
+ไดวา	O	O
+น่า	O	O
+หดหู่	O	O
+ข่าว	O	O
+ร้าย	O	O
+ทั้งหลาย	O	O
+ที่	O	O
+กระหน่ำ	O	O
+เข้า	O	O
+สู่	O	O
+ญี่ปุ่น	O	O
+มี	O	O
+อิทธิฤทธิ์	O	O
+รุนแรง	O	O
+เป็น	O	O
+พิเศษ	O	O
+การ	O	O
+ลง	O	O
+คะแนน	O	O
+เลือก	O	O
+หัวหน้า	O	O
+ใหม่	O	O
+ของ	O	O
+พรรค	O	O
+ลิเบอรัล	O	O
+/s	O	O
+เดโมแครติก	O	O
+/s	O	O
+ปาร์ตี้	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+แอลดีพี	O	O
+/s	O	O
+นายกรัฐมนตรี	O	O
+คน	O	O
+ใหม่	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+แทนที่	O	O
+ริวทาโร	O	O
+/s	O	O
+ฮาชิโมโต	O	O
+/s	O	O
+ที่	O	O
+ประกาศ	O	O
+ลา	O	O
+ออก	O	O
+เมื่อ	O	O
+ปิด	O	O
+ตลาด	O	O
+ค้า	O	O
+เงิน	O	O
+ใน	O	O
+โตเกียว	O	O
+วาน	O	O
+นี้	O	O
+ตลาด	O	O
+ค้า	O	O
+เงิน	O	O
+โตเกียว	O	O
+แล้ว	O	O
+ตลาด	O	O
+ค้า	O	O
+เงิน	O	O
+อื่นๆ	O	O
+/s	O	O
+ของ	O	O
+เอเชีย	O	O
+ก็	O	O
+กระทบ	O	O
+ไป	O	O
+ด้วย	O	O
+ค่า	O	O
+เงิน	O	O
+สกุล	O	O
+เอเชีย	O	O
+ปิด	O	O
+ตลาด	O	O
+อินโดนีเซีย	O	O
+รูเปียห์	O	O
+อ่อน	O	O
+ค่า	O	O
+เป็น	O	O
+/s	O	O
+14,150	O	O
+/s	O	O
+รูเปียห์	O	O
+ต่อ	O	O
+ดอลลาร์	O	O
+จาก	O	O
+/s	O	O
+40.90	O	O
+/s	O	O
+ฟิลิปปินส์	O	O
+/s	O	O
+เปโซ	O	O
+เป็น	O	O
+/s	O	O
+42.10	O	O
+/s	O	O
+เปโซ	O	O
+ต่อ	O	O
+ดอลลาร์	O	O
+ดอลลาร์	O	O
+ไต้หวัน	O	O
+เป็น	O	O
+/s	O	O
+34.388	O	O
+/s	O	O
+จาก	O	O
+/s	O	O
+34.350	O	O
+ดัชนี	O	O
+หุ้น	O	O
+นิกเคอิ	O	O
+ทรุด	O	O
+ลง	O	O
+/s	O	O
+0.6	O	O
+%	O	O
+/s	O	O
+ดัชนี	O	O
+ฮั่งเส็ง	O	O
+ร่วง	O	O
+หนัก	O	O
+/s	O	O
+2.9	O	O
+%	O	O
+/s	O	O
+ดัชนี	O	O
+คอมโพสิต	O	O
+ของ	O	O
+ตลาดหุ้น	O	O
+มะนิลา	O	O
+หาย	O	O
+ไป	O	O
+/s	O	O
+2	O	O
+%	O	O
+/s	O	O
+ดัชนี	O	O
+ของ	O	O
+ตลาดหุ้น	O	O
+กัวลาลัมเปอร์	O	O
+ร่วง	O	O
+/s	O	O
+1.5	O	O
+%	O	O
+/s	O	O
+ดัชนี	O	O
+ของ	O	O
+ตลาดหุ้น	O	O
+ไทย	O	O
+ทรุด	O	O
+หนัก	O	O
+/s	O	O
+3.6	O	O
+%	O	O
+ดัชนี	O	O
+ของ	O	O
+ตลาดหุ้น	O	O
+จาการ์ตา	O	O
+ร่วง	O	O
+ไป	O	O
+/s	O	O
+2	O	O
+%	O	O
+"	O	O
+ชวน	O	per_start
+/s	O	O
+หลีกภัย	O	O
+"	O	O
+/s	O	O
+โชว์	O	O
+วิสัยทัศน์	O	O
+โลก	O	O
+ยุค	O	O
+ดิจิตอล	O	O
+คำ	O	O
+ชี้แจง	O	O
+เรื่อง	O	O
+/s	O	O
+SDH	O	O
+/s	O	O
+จาก	O	O
+สุเทพ	O	O
+/s	O	O
+เทือกสุบรรณ	O	O
+/s	O	O
+พล.ท.	O	O
+กิตติศักดิ์	O	O
+/s	O	O
+รัฐประเสริฐ	O	O
+/s	O	O
+ที่ปรึกษา	O	O
+/s	O	O
+รัฐมนตรีว่าการ	O	O
+กระทรวง	O	O
+กลาโหม	O	O
+/s	O	O
+ใน	O	O
+ฐานะ	O	O
+ผู้	O	O
+ควบคุม	O	O
+ดูแล	O	O
+โฮมเพจ	O	O
+/s	O	O
+"	O	O
+สาย	O	O
+ตรง	O	O
+นายก	O	O
+ฯ	O	O
+ชวน	O	O
+"	O	O
+/s	O	O
+เปิดเผย	O	O
+ถึง	O	O
+การ	O	O
+เปิด	O	O
+ให้	O	O
+บริการ	O	O
+โฮมเพจ	O	O
+ของ	O	O
+นาย	O	O
+ชวน	per_start	per_start
+/s	per_cont	O
+หลีกภัย	per_end	per_end
+/s	O	O
+นายกรัฐมนตรี	O	O
+/s	O	O
+ว่า	O	O
+โดย	O	O
+มี	O	O
+จุดประสงค์	O	O
+ให้	O	O
+ประชาชน	O	O
+ไทย	O	O
+/s	O	O
+ได้	O	O
+ร่วม	O	O
+แสดง	O	O
+ทัศนะ	O	O
+วัน	O	O
+เกิด	O	O
+ของ	O	O
+นายก	O	O
+ฯ	O	O
+โทนี่	O	O
+โฮมเพจ	O	O
+/s	O	O
+"	O	O
+สาย	O	O
+ตรง	O	O
+/s	O	O
+นายก	O	O
+ฯ	O	O
+ชวน	O	O
+"	O	O
+/s	O	O
+แบ่ง	O	O
+ออก	O	O
+เป็น	O	O
+หลาย	O	O
+ส่วน	O	O
+รายชื่อ	O	O
+และ	O	O
+ข้อมูล	O	O
+คณะ	O	O
+รัฐมนตรี	O	O
+/s	O	O
+ภารกิจ	O	O
+นายก	O	O
+ฯ	O	O
+/s	O	O
+รวม	O	O
+สุนทรพจน์	O	O
+นายก	O	O
+ฯ	O	O
+/s	O	O
+มติ	O	O
+คณะ	O	O
+รัฐมนตรี	O	O
+/s	O	O
+เป็นต้น	O	O
+รายงาน	O	O
+สถานะ	O	O
+การคลัง	O	O
+ส่วน	O	O
+สาย	O	O
+ตรง	O	O
+ถึง	O	O
+นายก	O	O
+ฯ	O	O
+เปรม	O	O
+/s	O	O
+ประกอบไปด้วย	O	O
+นายก	O	O
+ฯ	O	O
+ชลิต	O	O
+ตอบ	O	O
+จม.	O	O
+ประวัติ	O	O
+นายก	O	O
+ฯ	O	O
+อานันท์	O	O
+พรรค	O	O
+ประชาธิปัตย์	O	org
+/s	O	O
+และ	O	O
+เยี่ยม	O	O
+บ้าน	O	O
+ซอย	O	O
+หมอเหล็ง	O	O
+/s	O	O
+เรื่อง	O	O
+ของ	O	O
+โครงการ	O	O
+ขยาย	O	O
+เครือข่าย	O	O
+/s	O	O
+SDH	O	O
+/s	O	O
+เป็น	O	O
+คำ	O	O
+ชี้แจง	O	O
+ของ	O	O
+นาย	O	O
+สุเทพ	per_start	O
+/s	per_cont	O
+เทือกสุบรรณ	per_end	O
+/s	O	O
+บทความ	O	O
+พิเศษ	O	O
+จาก	O	O
+นิตยสาร	O	O
+ไทม์	O	O
+/s	O	O
+โดย	O	O
+มี	O	O
+รูป	O	O
+นิตยสาร	O	O
+เล่ม	O	O
+ที่	O	O
+นายก	O	O
+ฯ	O	O
+ชวน	O	O
+ได้	O	O
+ขึ้น	O	O
+ปก	O	O
+เป็น	O	O
+ครั้ง	O	O
+แรก	O	O
+ที่	O	O
+ผู้นำ	O	O
+ไทย	O	O
+ได้รับ	O	O
+ความ	O	O
+ชื่นชม	O	O
+พล.ท.	O	O
+กิตติศักดิ์	O	O
+/s	O	O
+ยัง	O	O
+กล่าว	O	O
+อีกด้วย	O	O
+ว่า	O	O
+"	O	O
+/s	O	O
+พล.ท.	O	O
+กิตติศักดิ์	O	O
+กล่าว	O	O
+พล.ท.	O	O
+วิจารณ์	O	O
+กล่าว	O	O
+ว่า	O	O
+นาย	O	O
+ชวน	per	per_start
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+ตอบ	O	O
+เอง	O	O
+ทุก	O	O
+ฉบับ	O	O
+ส่ง	O	O
+เป็น	O	O
+รายงาน	O	O
+ใส่	O	O
+แฟ้ม	O	O
+ให้	O	O
+นายก	O	O
+ชาติชาย	O	O
+รับทราบ	O	O
+/s	O	O
+จากนั้น	O	O
+นาย	O	O
+อภิสิทธิ์	per	O
+ก็	O	O
+จะ	O	O
+ตอบ	O	O
+โฮมเพจ	O	O
+/s	O	O
+"	O	O
+สาย	O	O
+ตรง	O	O
+/s	O	O
+นายก	O	O
+ฯ	O	O
+ปุระชัย	O	O
+"	O	O
+/s	O	O
+ตั้งแต่	O	O
+เริ่ม	O	O
+เปิด	O	O
+ใช้	O	O
+งาน	O	O
+จนถึง	O	O
+ปัจจุบัน	O	O
+กทม.	O	O
+จับ	O	O
+มือ	O	O
+สจร.	O	O
+แจง	O	O
+ข้อมูล	O	O
+ความ	O	O
+สำคัญ	O	O
+โครงการ	O	O
+รถ	O	O
+ราง	O	O
+พระราม/s3	O	O
+/s	O	O
+โต้	O	O
+กลับ	O	O
+ความเห็น	O	O
+สภาพัฒน์	O	O
+ที่	O	O
+หา	O	O
+ว่า	O	O
+โครงการ	O	O
+ไม่	O	O
+มี	O	O
+ความ	O	O
+คุ้ม	O	O
+ทุน	O	O
+/s	O	O
+ระบุ	O	O
+/s	O	O
+สภาพัฒน์	O	O
+มอง	O	O
+ใน	O	O
+มุม	O	O
+แคบ	O	O
+เกินไป	O	O
+กรุงเทพมหานคร	O	O
+/s	O	O
+(	O	O
+กทม.	O	O
+)	O	O
+ได้	O	O
+ร่วม	O	O
+กับ	O	O
+สำนักงาน	O	O
+คณะ	O	O
+กรรมการ	O	O
+จัด	O	O
+ระบบ	O	O
+การจราจร	O	O
+ทางบก	O	O
+/s	O	O
+(	O	O
+สจร.	O	O
+)	O	O
+/s	O	O
+เพื่อ	O	O
+ชี้แจง	O	O
+ความ	O	O
+จำเป็น	O	O
+โครงการ	O	O
+ระบบ	O	O
+ขนส่ง	O	O
+ขนาด	O	O
+รอง	O	O
+สาย	O	O
+พระราม/s3	O	O
+/s	O	O
+ซึ่ง	O	O
+กทม.	O	O
+เป็น	O	O
+ผู้	O	O
+รับผิดชอบ	O	O
+หลังจากที่	O	O
+สำนักงาน	O	O
+คณะ	O	org_start
+กรรมการ	O	org_cont
+พัฒนาการ	O	org_cont
+เศรษฐกิจ	O	org_cont
+และ	O	org_cont
+สังคม	O	org_cont
+แห่ง	O	org_cont
+ชาติ	O	org_end
+/s	O	O
+(	O	O
+สศช.	O	O
+)	O	O
+/s	O	O
+ได้	O	O
+พิจารณา	O	O
+โครงการ	O	O
+และ	O	O
+มี	O	O
+มติ	O	O
+ไม่	O	O
+เห็นด้วย	O	O
+ต่อ	O	O
+การ	O	O
+ดำเนิน	O	O
+โครงการ	O	O
+ดังกล่าว	O	O
+พ.ต.ต.	O	O
+ยงยุทธ	O	O
+/s	O	O
+สาระสมบัติ	O	O
+/s	O	O
+เลขาธิการ	O	O
+คณะ	O	O
+กรรมการ	O	O
+จัด	O	O
+ระบบ	O	O
+การจราจร	O	O
+ทางบก	O	O
+/s	O	O
+(	O	O
+สจร.	O	O
+)	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+โครงการ	O	O
+รถ	O	O
+ไฟฟ้า	O	O
+สาย	O	O
+รอง	O	O
+พระราม/s3	O	O
+ใน	O	O
+แผน	O	O
+แม่บท	O	O
+ของ	O	O
+สจร.	O	O
+ที่	O	O
+มี	O	O
+ความ	O	O
+เป็นไป	O	O
+ได้	O	O
+มาก	O	O
+ที่สุด	O	O
+โดย	O	O
+บริเวณ	O	O
+สาธร	O	O
+จะ	O	O
+มี	O	O
+ศักยภาพ	O	O
+ใน	O	O
+การ	O	O
+พัฒนา	O	O
+ให้	O	O
+เป็น	O	O
+ศูนย์กลาง	O	O
+ของ	O	O
+ธุรกิจ	O	O
+ใน	O	O
+อนาคต	O	O
+ได้	O	O
+ต่อ	O	O
+เชื่อม	O	O
+โครงการ	O	O
+เข้า	O	O
+กับ	O	O
+โครงการ	O	O
+รถ	O	O
+ไฟฟ้า	O	O
+ธนายง	O	O
+และ	O	O
+โครงการ	O	O
+ถนน	O	O
+วงแหวน	O	O
+อุตสาหกรรม	O	O
+/s	O	O
+ทั้งนี้	O	O
+จาก	O	O
+การ	O	O
+ศึกษา	O	O
+เมื่อ	O	O
+รถ	O	O
+ไฟฟ้า	O	O
+ธนายง	O	O
+เปิด	O	O
+ใช้	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+2543	O	O
+/s	O	O
+รถ	O	O
+ของ	O	O
+องค์การ	O	O
+ขนส่ง	O	O
+มวลชน	O	O
+กรุงเทพ	O	O
+/s	O	O
+(	O	O
+ขสมก.	O	O
+)	O	O
+/s	O	O
+รองรับ	O	O
+ได้	O	O
+ไม่	O	O
+เพียงพอ	O	O
+สภาพัฒน์	O	O
+วิสัยทัศน์	O	O
+แคบ	O	O
+นาย	O	O
+สมใจ	per_start	O
+/s	per_cont	O
+นิลสิทธานุเคราะห์	per_end	O
+/s	O	O
+รอง	O	O
+ผู้	O	O
+ว่า	O	O
+ฯ	O	O
+กทม.	O	O
+/s	O	O
+กล่าวถึง	O	O
+กระแส	O	O
+ที่	O	O
+ออก	O	O
+มา	O	O
+ว่า	O	O
+/s	O	O
+กทม.	O	O
+ได้รับ	O	O
+ผลกระทบ	O	O
+โดยเฉพาะ	O	O
+ใน	O	O
+แง่	O	O
+ผู้	O	O
+ลงทุน	O	O
+อย่าง	O	O
+มาก	O	O
+ที่	O	O
+กทม.	O	O
+ได้	O	O
+ทำการ	O	O
+ขึ้น	O	O
+ทะเบียน	O	O
+ผู้	O	O
+ลงทุน	O	O
+ไว้	O	O
+แล้ว	O	O
+เช่น	O	O
+/s	O	O
+กลุ่ม	O	O
+มิตซูบิชิ	O	O
+/s	O	O
+บอมบาดิเอร์	O	O
+/s	O	O
+และ	O	O
+กลุ่ม	O	O
+จีอีซี	O	O
+/s	O	O
+ที่	O	O
+ผ่าน	O	O
+มา	O	O
+/s	O	O
+สศช.	O	O
+เคย	O	O
+ให้	O	O
+ความ	O	O
+เห็นชอบ	O	O
+โครงการ	O	O
+พัฒนา	O	O
+พื้นที่	O	O
+ถนน	O	O
+พระราม/s3	O	O
+/s	O	O
+ไป	O	O
+แล้ว	O	O
+ซึ่ง	O	O
+กทม.	O	O
+ได้	O	O
+ดำเนินการ	O	O
+แผนการ	O	O
+พัฒนา	O	O
+มา	O	O
+โดย	O	O
+ตลอด	O	O
+การ	O	O
+พัฒนา	O	O
+พื้นที่	O	O
+พระราม/s3	O	O
+กทม.	O	O
+/s	O	O
+ก็ได้	O	O
+ลงมือ	O	O
+วาง	O	O
+รากฐาน	O	O
+ของ	O	O
+ระบบ	O	O
+สาธารณูปโภค	O	O
+ไว้	O	O
+อย่าง	O	O
+ต่อเนื่อง	O	O
+ด้าน	O	O
+บริษัท	O	O
+ที่ปรึกษา	O	O
+ขอ	O	O
+งกทม.	O	O
+/s	O	O
+ได้	O	O
+เปิดเผย	O	O
+ข้อมูล	O	O
+โครงการ	O	O
+รถ	O	O
+ไฟฟ้า	O	O
+พระราม/s3	O	O
+/s	O	O
+ระยะทาง	O	O
+/s	O	O
+11.83	O	O
+/s	O	O
+กม.	O	O
+ว่า	O	O
+/s	O	O
+จะ	O	O
+ทำให้	O	O
+ผลตอบแทน	O	O
+การ	O	O
+ลงทุน	O	O
+ของ	O	O
+เอกชน	O	O
+(	O	O
+IRR	O	O
+)	O	O
+/s	O	O
+18.75	O	O
+%	O	O
+การ	O	O
+พัฒนา	O	O
+อู่	O	O
+จอด	O	O
+ซ่อม	O	O
+ใน	O	O
+เชิง	O	O
+พาณิชย์	O	O
+ค่า	O	O
+ผ่าน	O	O
+เข้า	O	O
+พื้นที่	O	O
+ของ	O	O
+รถยนต์	O	O
+ส่วน	O	O
+บุคคล	O	O
+นาย	O	O
+สมหมาย	per_start	O
+/s	per_cont	O
+ภาษี	per_end	O
+/s	O	O
+ผู้อำนวยการ	O	O
+สำนักงาน	O	O
+เศรษฐกิจ	O	O
+การคลัง	O	O
+/s	O	O
+เปิดเผย	O	O
+ถึง	O	O
+ความ	O	O
+คืบหน้า	O	O
+ใน	O	O
+การ	O	O
+ดำเนินการ	O	O
+ของ	O	O
+โครงการ	O	O
+ลงทุน	O	O
+เพื่อ	O	O
+สังคม	O	O
+/s	O	O
+(	O	O
+Social	O	O
+/s	O	O
+Investment	O	O
+/s	O	O
+Project	O	O
+/s	O	O
+:	O	O
+/s	O	O
+SIP	O	O
+)	O	O
+/s	O	O
+ว่า	O	O
+/s	O	O
+กระทรวง	O	O
+การคลัง	O	org
+จะ	O	O
+สามารถ	O	O
+ทยอย	O	O
+เบิก	O	O
+จ่าย	O	O
+เงิน	O	O
+โดยเฉพาะ	O	O
+เงินกู้	O	O
+จาก	O	O
+ธนาคารโลก	O	O
+/s	O	O
+(	O	O
+เวิด์ลแบงก์	O	O
+)	O	O
+/s	O	O
+ที่	O	O
+ได้	O	O
+อนุมัติ	O	O
+เงินกู้	O	O
+จำนวน	O	O
+/s	O	O
+300	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+ส่วน	O	O
+เงินกู้	O	O
+จาก	O	O
+กองทุน	O	O
+ให้	O	O
+ความ	O	O
+ช่วยเหลือ	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+แก่	O	O
+ประเทศ	O	O
+โพ้นทะเล	O	O
+แห่ง	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+(	O	O
+OECF	O	O
+)	O	O
+/s	O	O
+จำนวน	O	O
+/s	O	O
+121	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+ที่	O	O
+ได้	O	O
+จัดสรร	O	O
+ให้	O	O
+แก่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+หน่วยงาน	O	O
+/s	O	O
+ได้แก่	O	O
+/s	O	O
+การ	O	O
+ท่องเที่ยว	O	org_start
+แห่ง	O	org_cont
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+(	O	O
+ททท.	O	org
+)	O	O
+/s	O	O
+และ	O	O
+กรม	O	O
+ชลประทาน	O	O
+นั้น	O	O
+ได้	O	O
+สรุป	O	O
+โครงการ	O	O
+เรียบร้อย	O	O
+แล้ว	O	O
+/s	O	O
+ทาง	O	O
+สำนักงาน	O	O
+งบประมาณ	O	O
+ได้	O	O
+ยืนยัน	O	O
+ความ	O	O
+พร้อม	O	O
+ใน	O	O
+การ	O	O
+จัดหา	O	O
+เงิน	O	O
+มี	O	O
+เพียง	O	O
+โครงการ	O	O
+ของ	O	O
+กรุงเทพมหานคร	O	O
+/s	O	O
+(	O	O
+กทม.	O	O
+)	O	O
+/s	O	O
+หน่วยงาน	O	O
+เดียว	O	O
+เท่านั้น	O	O
+"	O	O
+/s	O	O
+ผอ.	O	O
+สคค.	O	O
+/s	O	O
+กล่าว	O	O
+/s	O	O
+หน่วยงาน	O	O
+ต่างๆ	O	O
+/s	O	O
+ส่วนใหญ่	O	O
+ที่	O	O
+ได้	O	O
+ทำ	O	O
+แผน	O	O
+โครงการ	O	O
+เรียบร้อย	O	O
+แล้ว	O	O
+กระทรวง	O	O
+สาธารณสุข	O	O
+ที่	O	O
+มี	O	O
+โครงการ	O	O
+เกี่ยวกับ	O	O
+การ	O	O
+รักษา	O	O
+พยาบาล	O	O
+กรม	O	O
+ชลประทาน	O	org
+/s	O	O
+ที่	O	O
+มี	O	O
+โครงการ	O	O
+จะ	O	O
+ซ่อม	O	O
+อ่าง	O	O
+เก็บ	O	O
+น้ำ	O	O
+ขนาด	O	O
+เล็ก	O	O
+โครงการ	O	O
+กรม	O	O
+การปกครอง	O	O
+/s	O	O
+ที่	O	O
+จะ	O	O
+ก่อสร้าง	O	O
+ฝาย	O	O
+น้ำ	O	O
+ล้น	O	O
+วงเงิน	O	O
+/s	O	O
+1,001	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+กรม	O	O
+โยธาธิการ	O	O
+/s	O	O
+ที่	O	O
+จะ	O	O
+ก่อสร้าง	O	O
+ถนน	O	O
+ใน	O	O
+ชนบท	O	O
+เช่น	O	O
+กระทรวง	O	O
+แรงงาน	O	O
+/s	O	O
+กรม	O	O
+ประชาสัมพันธ์	O	O
+/s	O	O
+กระทรวง	O	O
+อุตสาหกรรม	O	O
+/s	O	O
+การ	O	O
+ท่องเที่ยว	O	org_start
+แห่ง	O	org_cont
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+จะ	O	O
+สามารถ	O	O
+เบิก	O	O
+จ่าย	O	O
+ได้	O	O
+ได้	O	O
+มี	O	O
+การ	O	O
+ตั้ง	O	O
+คณะ	O	O
+ทำงาน	O	O
+พิเศษ	O	O
+/s	O	O
+เพื่อ	O	O
+ติดตาม	O	O
+ประเมิน	O	O
+ผล	O	O
+การ	O	O
+ดำเนินงาน	O	O
+ตัวแทน	O	O
+จาก	O	O
+หน่วยงาน	O	O
+ที่	O	O
+ต่างๆ	O	O
+/s	O	O
+เช่น	O	O
+/s	O	O
+สตง.	O	O
+/s	O	O
+กระทรวง	O	O
+การคลัง	O	org
+/s	O	O
+สำนัก	O	O
+งบประมาณ	O	O
+/s	O	O
+สำนักงาน	O	O
+พัฒนา	O	O
+เศรษฐกิจ	O	O
+/s	O	O
+และ	O	O
+สภาพัฒน์	O	O
+/s	O	O
+และ	O	O
+ผู้	O	O
+แทน	O	O
+จาก	O	O
+หน่วยงาน	O	O
+ที่	O	O
+เกี่ยวข้อง	O	O
+/s	O	O
+นาย	O	O
+กรณ์	per_start	O
+/s	per_cont	O
+จาติกวณิช	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+/s	O	O
+บล.	O	O
+เจ	O	O
+/s	O	O
+เอฟ	O	O
+/s	O	O
+ธนาคม	O	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+กล่าว	O	O
+ใน	O	O
+การ	O	O
+บรรยาย	O	O
+พิเศษ	O	O
+เรื่อง	O	O
+/s	O	O
+"	O	O
+วิธีการ	O	O
+กระจาย	O	O
+หุ้น	O	O
+รัฐวิสาหกิจ	O	O
+"	O	O
+/s	O	O
+วาน	O	O
+นี้	O	O
+/s	O	O
+(	O	O
+23	O	O
+/s	O	O
+ก.ค.	O	O
+)	O	O
+/s	O	O
+ที่	O	O
+/s	O	O
+ร.ร.	O	O
+สยามซิตี้	O	O
+/s	O	O
+โดย	O	O
+ระบุ	O	O
+ว่า	O	O
+/s	O	O
+ขาย	O	O
+หุ้น	O	O
+ให้	O	O
+กับ	O	O
+บริษัท	O	O
+ใน	O	O
+กลุ่ม	O	O
+อุตสาหกรรม	O	O
+เดียวกัน	O	O
+กรณี	O	O
+การ	O	O
+ขาย	O	O
+หุ้น	O	O
+บริษัท	O	O
+/s	O	O
+ผลิต	org_start	O
+ไฟฟ้า	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+EGCOMP	O	O
+/s	O	O
+ที่	O	O
+การ	O	O
+ไฟฟ้า	O	O
+ฝ่าย	O	O
+ผลิต	O	O
+แห่ง	O	org_start
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+(	O	O
+กฟผ.	O	O
+)	O	O
+/s	O	O
+ขาย	O	O
+หุ้น	O	O
+จำนวน	O	O
+/s	O	O
+14.9	O	O
+%	O	O
+/s	O	O
+ให้	O	O
+กับ	O	O
+บริษัท	O	O
+/s	O	O
+ซีแอลพี	O	O
+/s	O	O
+เพาเวอร์	O	O
+/s	O	O
+อินเตอร์เนชั่นแนล	O	O
+/s	O	O
+จาก	O	O
+ฮ่องกง	O	O
+/s	O	O
+ใน	O	O
+ราคา	O	O
+หุ้น	O	O
+ละ	O	O
+/s	O	O
+126	O	O
+/s	O	O
+บาท	O	O
+/s	O	O
+ในขณะที่	O	O
+ราคา	O	O
+หุ้น	O	O
+/s	O	O
+EGCOMP	O	O
+/s	O	O
+ที่	O	O
+ซื้อขาย	O	O
+ใน	O	O
+ตลาดหลักทรัพย์	O	org_start
+แห่ง	O	org_cont
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+ณ	O	O
+/s	O	O
+วันที่	O	O
+/s	O	O
+30	O	O
+/s	O	O
+มิ.ย.	O	O
+ที่	O	O
+ผ่าน	O	O
+มา	O	O
+นาย	O	O
+กรณ์	per	O
+กล่าว	O	O
+ต่อว่า	O	O
+แม้	O	O
+การ	O	O
+ขาย	O	O
+หุ้น	O	O
+ด้วย	O	O
+วิธี	O	O
+ดังกล่าว	O	O
+จะ	O	O
+ได้	O	O
+ราคา	O	O
+ดี	O	O
+ที่สุด	O	O
+โดยเฉพาะ	O	O
+บริษัท	O	O
+ที่อยู่	O	O
+ใน	O	O
+ตลาดหลักทรัพย์	O	O
+ฯ	O	O
+ควร	O	O
+จะ	O	O
+ต้อง	O	O
+หัน	O	O
+มา	O	O
+ดู	O	O
+ผู้	O	O
+ถือ	O	O
+หุ้น	O	O
+ราย	O	O
+ย่อย	O	O
+ด้วย	O	O
+นาย	O	O
+กานต์	per	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+บางจากปิโตรเลียม	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+ซึ่ง	O	O
+เจ	O	O
+/s	O	O
+เอฟ	O	O
+ฯ	O	O
+เป็น	O	O
+ที่ปรึกษา	O	O
+ใน	O	O
+การ	O	O
+แปรรูป	O	O
+นั้น	O	O
+ธุรกิจ	O	O
+โรง	O	O
+กลั่น	O	O
+ของ	O	O
+บางจาก	O	O
+แต่	O	O
+อย่าง	O	O
+ใด	O	O
+สำหรับ	O	O
+การ	O	O
+แปรรูป	O	O
+บริษัท	O	O
+/s	O	O
+เอสโซ่	org_start	O
+/s	org_cont	O
+(	org_cont	O
+ประเทศไทย	org_cont	O
+)	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+นั้น	O	O
+/s	O	O
+ขณะนี้	O	O
+บริษัท	O	O
+กำลัง	O	O
+พิจารณา	O	O
+การ	O	O
+ดำเนิน	O	O
+/s	O	O
+การ	O	O
+/s	O	O
+3	O	O
+/s	O	O
+แนวทาง	O	O
+แนวทาง	O	O
+สัญญา	O	O
+ของ	O	O
+กระทรวง	O	O
+การคลัง	O	org
+ที่	O	O
+กำหนด	O	O
+ว่า	O	O
+จะ	O	O
+ต้อง	O	O
+นำ	O	O
+หุ้น	O	O
+เอสโซ่	O	O
+เข้า	O	O
+จดทะเบียน	O	O
+ใน	O	O
+ตลาดหลักทรัพย์	O	O
+ฯ	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+2543	O	O
+/s	O	O
+จำหน่าย	O	O
+หุ้น	O	O
+เอสโซ่	O	O
+ที่	O	O
+กระทรวง	O	O
+การคลัง	O	org
+ถือ	O	O
+อยู่	O	O
+/s	O	O
+12.5	O	O
+%	O	O
+/s	O	O
+ให้	O	O
+กับ	O	O
+บริษัท	O	O
+แม่	O	O
+ของ	O	O
+เอสโซ่	O	O
+/s	O	O
+คือ	O	O
+บริษัท	O	O
+/s	O	O
+เอ็กซอน	O	O
+/s	O	O
+ขาย	O	O
+หุ้น	O	O
+ให้	O	O
+/s	O	O
+Strategic	O	O
+/s	O	O
+Partner	O	O
+/s	O	O
+โดย	O	O
+สัปดาห์	O	O
+หน้า	O	O
+บริษัท	O	O
+จะ	O	O
+เริ่ม	O	O
+เจรจา	O	O
+กับ	O	O
+บริษัท	O	O
+/s	O	O
+เอ็กซอน	O	O
+/s	O	O
+ว่า	O	O
+จะ	O	O
+ให้	O	O
+ราคา	O	O
+หุ้น	O	O
+เอสโซ่	O	O
+เท่าใด	O	O
+/s	O	O
+"	O	O
+ผาแดง	O	O
+"	O	O
+/s	O	O
+เผย	O	O
+เม็ด	O	O
+เงิน	O	O
+ขาย	O	O
+หุ้น	O	O
+เพิ่ม	O	O
+ทุน	O	O
+จำนวน	O	O
+/s	O	O
+1,142	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+ส่ง	O	O
+ผล	O	O
+ให้	O	O
+บริษัท	O	O
+มี	O	O
+สภาพ	O	O
+คล่อง	O	O
+มหาศาล	O	O
+/s	O	O
+ล่าสุด	O	O
+/s	O	O
+เตรียม	O	O
+ปิด	O	O
+ผาแดงพุงซาน	O	O
+ลง	O	O
+อย่าง	O	O
+ถาวร	O	O
+ภายใน	O	O
+สิ้น	O	O
+ปี	O	O
+นาย	O	O
+อาสา	per_start	O
+/s	per_cont	O
+สารสิน	per_end	O
+/s	O	O
+ประธาน	O	O
+ผู้	O	O
+บริหาร	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+ผาแดง	org_start	O
+/s	org_cont	O
+อินดัสทรี้	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+กล่าว	O	O
+ภายหลัง	O	O
+ลงนาม	O	O
+ร่วม	O	O
+กับ	O	O
+บริษัท	O	O
+/s	O	O
+เวสเทิร์น	org_start	O
+/s	org_cont	O
+เมทัลส์	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+ใน	O	O
+สัญญา	O	O
+จอง	O	O
+ซื้อ	O	O
+หุ้น	O	O
+การ	O	O
+จำหน่าย	O	O
+หุ้น	O	O
+ของ	O	O
+ผาแดง	O	O
+ได้	O	O
+จำหน่าย	O	O
+ไป	O	O
+ใน	O	O
+ราคา	O	O
+หุ้น	O	O
+ละ	O	O
+/s	O	O
+14	O	O
+/s	O	O
+บาท	O	O
+/s	O	O
+เป็น	O	O
+ราคา	O	O
+ที่	O	O
+สูง	O	O
+กว่า	O	O
+ราคา	O	O
+หุ้น	O	O
+ใน	O	O
+ตลาดหลักทรัพย์	O	O
+เป็น	O	O
+เจ้าหนี้	O	O
+ทั้ง	O	O
+ไทย	O	O
+และ	O	O
+ต่าง	O	O
+ประเทศ	O	O
+คือ	O	O
+/s	O	O
+ธนาคาร	O	O
+กรุงเทพ	O	O
+/s	O	O
+ธนาคาร	O	O
+กรุงไทย	O	O
+/s	O	O
+ธนาคาร	O	O
+ออมสิน	org_start	org
+/s	org_cont	O
+และ	org_cont	O
+บรรษัท	org_cont	O
+เงิน	org_cont	O
+ทุน	org_cont	O
+อุตสาหกรรม	org_cont	org_start
+แห่ง	org_cont	org_cont
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+ส่วน	O	O
+เจ้าหนี้	O	O
+ต่าง	O	O
+ประเทศ	O	O
+คือ	O	O
+ธนาคาร	O	O
+เชสแมนฮัตตัน	O	O
+/s	O	O
+"	O	O
+เวสเทิร์น	O	O
+จะ	O	O
+รับผิดชอบ	O	O
+ใน	O	O
+ส่วน	O	O
+เงินต้น	O	O
+และ	O	O
+ดอกเบี้ย	O	O
+ด้วย	O	O
+หลังจาก	O	O
+หุ้น	O	O
+ผาแดง	O	O
+ทยอย	O	O
+ออก	O	O
+ให้	O	O
+/s	O	O
+เวสเทิร์น	O	O
+ฯ	O	O
+ก็	O	O
+จะ	O	O
+ส่ง	O	O
+เงินก้อน	O	O
+แรก	O	O
+ให้	O	O
+/s	O	O
+โดยที่	O	O
+เวสเทิร์น	O	O
+ฯ	O	O
+จะ	O	O
+รับ	O	O
+ภาระ	O	O
+หนี้สิน	O	O
+ทั้ง	O	O
+หมด	O	O
+นับจาก	O	O
+ผาแดง	O	O
+ทยอย	O	O
+ออก	O	O
+หุ้น	O	O
+ให้	O	O
+"	O	O
+ทั้งนี้	O	O
+/s	O	O
+ผาแดง	O	O
+มี	O	O
+หนี้สิน	O	O
+ระยะ	O	O
+สั้น	O	O
+ทำให้	O	O
+สภาพ	O	O
+คล่อง	O	O
+ของ	O	O
+บริษัท	O	O
+เพิ่ม	O	O
+ขึ้น	O	O
+นาย	O	O
+อาคม	per	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+ผล	O	O
+ของ	O	O
+การ	O	O
+ร่วม	O	O
+ทุน	O	O
+จะ	O	O
+ทำให้	O	O
+ผาแดง	O	O
+มี	O	O
+ศักยภาพ	O	O
+พร้อม	O	O
+ที่	O	O
+จะ	O	O
+เข้า	O	O
+ไป	O	O
+ดำเนินการ	O	O
+สำรวจ	O	O
+และ	O	O
+ผลิต	O	O
+แหล่ง	O	O
+แร่	O	O
+ใน	O	O
+ประเทศ	O	O
+เพื่อนบ้าน	O	O
+/s	O	O
+เช่น	O	O
+/s	O	O
+พม่า	O	O
+/s	O	O
+ลาว	O	O
+และ	O	O
+เวียดนาม	O	O
+/s	O	O
+การ	O	O
+ลงทุน	O	O
+ใน	O	O
+โรงงาน	O	O
+ผลิต	O	O
+สังกะสี	O	O
+คณะ	O	O
+บริษัท	O	O
+จะ	O	O
+เดินทาง	O	O
+ไป	O	O
+พม่า	O	O
+เพื่อ	O	O
+สำรวจ	O	O
+แร่	O	O
+แถว	O	O
+ชายแดน	O	O
+ตอน	O	O
+นี้	O	O
+พม่า	O	O
+มี	O	O
+นโยบาย	O	O
+ให้	O	O
+ส่งออก	O	O
+แร่	O	O
+จาก	O	O
+พม่า	O	O
+มา	O	O
+ไทย	O	O
+ได้	O	O
+แล้ว	O	O
+โดย	O	O
+ขณะนี้	O	O
+ได้	O	O
+ปิด	O	O
+เหมือง	O	O
+แร่	O	O
+บาง	O	O
+แห่ง	O	O
+เช่น	O	O
+/s	O	O
+ผาคำ	O	O
+/s	O	O
+ซึ่ง	O	O
+เป็น	O	O
+เหมือง	O	O
+ทองแดง	O	O
+/s	O	O
+ที่	O	O
+จังหวัด	O	O
+เลย	O	O
+/s	O	O
+ส่วน	O	O
+บริษัท	O	O
+/s	O	O
+ผาแดงพุงซาน	O	O
+/s	O	O
+ซึ่ง	O	O
+เป็น	O	O
+โรงงาน	O	O
+ผลิต	O	O
+เหรียญ	O	O
+กษาปณ์	O	O
+ให้	O	O
+กรม	O	O
+ธนารักษ์	O	O
+ก็	O	O
+เตรียม	O	O
+จะ	O	O
+ปิด	O	O
+ตัว	O	O
+ลง	O	O
+ผลิต	O	O
+เหรียญ	O	O
+บาท	O	O
+จำนวน	O	O
+/s	O	O
+480	O	O
+/s	O	O
+ตัน	O	O
+ให้	O	O
+กรม	O	O
+ธนารักษ์	O	O
+เสร็จสิ้น	O	O
+ลง	O	O
+นาย	O	O
+รอดเดอร์ริค	per_start	O
+/s	per_cont	O
+จอห์น	per_end	O
+/s	O	O
+เวบสเตอร์	O	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+และ	O	O
+/s	O	O
+ประธาน	O	O
+เจ้าหน้าที่	O	O
+บริหาร	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+เวสเทิร์น	org_start	O
+/s	org_cont	O
+เมทัลส์	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+การ	O	O
+เข้า	O	O
+มา	O	O
+ร่วม	O	O
+ทุน	O	O
+กับ	O	O
+ผาแดง	O	O
+โดย	O	O
+ซื้อ	O	O
+หุ้น	O	O
+ที่	O	O
+ราคา	O	O
+สูง	O	O
+กว่า	O	O
+ราคา	O	O
+ตลาด	O	O
+จะ	O	O
+มอบหมาย	O	O
+ให้	O	O
+ผาแดง	O	O
+เป็น	O	O
+ผู้	O	O
+สนับสนุน	O	O
+สินค้า	O	O
+ให้	O	O
+กับ	O	O
+ภูมิภาค	O	O
+เอเชีย	O	O
+ตะวันออกเฉียงใต้	O	O
+/s	O	O
+ใน	O	O
+เหมือง	O	O
+แร่	O	O
+ที่	O	O
+แม่สอด	O	O
+เพื่อ	O	O
+เพิ่ม	O	O
+ศักยภาพ	O	O
+ของ	O	O
+เหมือง	O	O
+ทั้งนี้	O	O
+ผาแดง	O	O
+มี	O	O
+กำลัง	O	O
+การ	O	O
+ผลิต	O	O
+สังกะสี	O	O
+เต็มที่	O	O
+การ	O	O
+ขยาย	O	O
+โรงงาน	O	O
+ถลุง	O	O
+ที่	O	O
+ระยอง	O	O
+คง	O	O
+ต้อง	O	O
+รอ	O	O
+ดู	O	O
+ภาวะ	O	O
+เศรษฐกิจ	O	O
+สำหรับ	O	O
+โครงสร้าง	O	O
+บริษัท	O	O
+ใหม่	O	O
+นั้น	O	O
+/s	O	O
+เวสเทิร์น	O	O
+ฯ	O	O
+จะ	O	O
+ส่ง	O	O
+ซีอีโอ	O	O
+เข้า	O	O
+มา	O	O
+บริหาร	O	O
+ใน	O	O
+ผาแดง	O	O
+ส่วน	O	O
+ผาแดง	O	O
+จะ	O	O
+รับผิดชอบ	O	O
+โรงงาน	O	O
+ถลุง	O	O
+ที่	O	O
+มี	O	O
+อยู่	O	O
+เดิม	O	O
+ได้	O	O
+ว่าจ้าง	O	O
+ไพรซ์	O	O
+/s	O	O
+วอเตอร์	O	O
+/s	O	O
+เฮ้าส์	O	O
+/s	O	O
+ทำ	O	O
+แผน	O	O
+ร่วม	O	O
+ระหว่าง	O	O
+/s	O	O
+2	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+ซึ่ง	O	O
+ไม่	O	O
+สามารถ	O	O
+เปิดเผย	O	O
+ในขณะนี้	O	O
+ได้	O	O
+ผาแดง	O	O
+ก็	O	O
+ต้อง	O	O
+ปฏิบัติ	O	O
+อย่าง	O	O
+เคร่งครัด	O	O
+/s	O	O
+ไม่ว่า	O	O
+จะ	O	O
+เป็น	O	O
+ด้าน	O	O
+/s	O	O
+Up	O	O
+/s	O	O
+Stream	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+Down	O	O
+/s	O	O
+Stream	O	O
+/s	O	O
+ทั้งนี้	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+เวสเทิร์น	O	O
+/s	O	O
+เมทัลส์	O	O
+/s	O	O
+ที่	O	O
+ซิดนีย์	O	O
+/s	O	O
+ออสเตรเลีย	O	O
+เปิดเผย	O	O
+ว่า	O	O
+ภายหลัง	O	O
+การ	O	O
+จอง	O	O
+ซื้อ	O	O
+หุ้น	O	O
+ดังกล่าว	O	O
+แล้ว	O	O
+/s	O	O
+เวสเทิร์น	O	O
+ยัง	O	O
+สนใจ	O	O
+จะ	O	O
+เข้า	O	O
+ถือ	O	O
+หุ้น	O	O
+ใน	O	O
+ผาแดง	O	O
+เพิ่ม	O	O
+เป็น	O	O
+/s	O	O
+45	O	O
+%	O	O
+/s	O	O
+เมื่อ	O	O
+ตอน	O	O
+ที่	O	O
+ภาพยนตร์	O	O
+เรื่อง	O	O
+ไททานิค	O	O
+ออก	O	O
+ฉาย	O	O
+ก็	O	O
+งาน	O	O
+ของ	O	O
+/s	O	O
+อี	O	O
+ตา	O	O
+เจมส์	O	O
+/s	O	O
+ฮอร์นเนอร์	O	O
+/s	O	O
+แก	O	O
+ก็	O	O
+ทำ	O	O
+เอาไว้	O	O
+ได้	O	O
+ดี	O	O
+สุดๆ	O	O
+เพลง	O	O
+ที่	O	O
+วง	O	O
+ไวท์	O	O
+/s	O	O
+สตาร์	O	O
+/s	O	O
+ออร์เคสตร้า	O	O
+/s	O	O
+ซึ่ง	O	O
+เล่น	O	O
+อยู่	O	O
+บน	O	O
+เรือ	O	O
+ไททานิค	O	O
+และ	O	O
+การ	O	O
+ศึกษา	O	O
+อัลบั้ม	O	O
+ดังกล่าว	O	O
+/s	O	O
+มี	O	O
+ชื่อ	O	O
+ว่า	O	O
+/s	O	O
+TITANIC	O	O
+/s	O	O
+:	O	O
+/s	O	O
+MUSIC	O	O
+/s	O	O
+AS	O	O
+/s	O	O
+HEARD	O	O
+/s	O	O
+ON	O	O
+/s	O	O
+THE	O	O
+/s	O	O
+FATEFUL	O	O
+/s	O	O
+VOYAGE	O	O
+/s	O	O
+-	O	O
+/s	O	O
+THE	O	O
+/s	O	O
+WHITE	O	O
+/s	O	O
+STAR	O	O
+/s	O	O
+ORCHESTRA	O	O
+/s	O	O
+เรื่องราว	O	O
+ของ	O	O
+วง	O	O
+ไวท์	O	O
+/s	O	O
+สตาร์	O	O
+/s	O	O
+กัน	O	O
+แบบ	O	O
+ละเอียด	O	O
+ยิบ	O	O
+การ	O	O
+ที่	O	O
+บริษัท	O	O
+/s	O	O
+ไวท์	O	O
+/s	O	O
+สตาร์	O	O
+/s	O	O
+ไลน์	O	O
+/s	O	O
+ซึ่ง	O	O
+เป็น	O	O
+บริษัท	O	O
+เดินเรือ	O	O
+ไททานิค	O	O
+ใน	O	O
+เวอร์ชั่น	O	O
+ของ	O	O
+/s	O	O
+เจมส์	O	O
+/s	O	O
+ฮอร์นเนอร์	O	O
+/s	O	O
+มา	O	O
+เป็น	O	O
+ตัว	O	O
+เดิน	O	O
+เรื่อง	O	O
+ประกอบ	O	O
+ผลงาน	O	O
+ของ	O	O
+/s	O	O
+MAURY	O	O
+/s	O	O
+YESTON	O	O
+/s	O	O
+เพลง	O	O
+ไพเราะ	O	O
+ดี	O	O
+ครับ	O	O
+/s	O	O
+ฟัง	O	O
+ดู	O	O
+อาจ	O	O
+จะ	O	O
+ไม่	O	O
+ยิ่งใหญ่	O	O
+งดงาม	O	O
+ใน	O	O
+แบบ	O	O
+ของ	O	O
+/s	O	O
+เจมส์	O	O
+/s	O	O
+ฮอร์เนอร์	O	O
+/s	O	O
+แต่	O	O
+ก็	O	O
+หวาน	O	O
+ซึ้ง	O	O
+ไททานิค	O	O
+ฉบับ	O	O
+เจมส์	O	O
+/s	O	O
+คาเมรอน	O	O
+/s	O	O
+สร้าง	O	O
+โดย	O	O
+สตูดิโอ	O	O
+ฟ็อกซ์	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+1953	O	O
+/s	O	O
+ผลงาน	O	O
+การ	O	O
+ประพันธ์	O	O
+ของ	O	O
+/s	O	O
+Sol	O	O
+/s	O	O
+Kaplan	O	O
+/s	O	O
+คน	O	O
+ที่	O	O
+ประพันธ์	O	O
+เพลง	O	O
+นี้	O	O
+ได้แก่	O	O
+/s	O	O
+เจมส์	O	O
+/s	O	O
+ฮอร์นเนอร์	O	O
+/s	O	O
+เหมือน	O	O
+กัน	O	O
+มี	O	O
+ยอร์จ	O	O
+/s	O	O
+ซี	O	O
+/s	O	O
+สก็อต	O	O
+เป็น	O	O
+พระเอก	O	O
+/s	O	O
+(	O	O
+แต่	O	O
+ไม่	O	O
+มี	O	O
+แจ็ค	O	O
+และ	O	O
+โรส	O	O
+เข้า	O	O
+มา	O	O
+เอี่ยว	O	O
+ด้วย	O	O
+)	O	O
+แนวทาง	O	O
+ไททานิค	O	O
+ของ	O	O
+/s	O	O
+เจมส์	O	O
+/s	O	O
+คาเมรอน	O	O
+/s	O	O
+ได้	O	O
+อย่าง	O	O
+ดี	O	O
+ในขณะที่	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+เขียน	O	O
+บทความ	O	O
+เรื่อง	O	O
+ประชาธิปไตย	O	O
+ประเทศ	O	O
+ไทย	O	O
+อยู่	O	O
+ใน	O	O
+ยุค	O	O
+แห่ง	O	O
+การ	O	O
+ร่าง	O	O
+รัฐธรรมนูญ	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+ไม่	O	O
+ได้	O	O
+เป็น	O	O
+สมาชิก	O	O
+สภา	O	O
+ร่าง	O	O
+รัฐธรรมนูญ	O	O
+ระบบ	O	O
+การเมือง	O	O
+ไทย	O	O
+ระบบ	O	O
+ประชาธิปไตย	O	O
+ใน	O	O
+เมือง	O	O
+ไทย	O	O
+สำหรับ	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+ได้แก่	O	O
+/s	O	O
+พฤติกรรม	O	O
+ของ	O	O
+สมาชิก	O	O
+สภาผู้แทนราษฎร	O	O
+ตาม	O	O
+ความเห็น	O	O
+ของ	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+นั้น	O	O
+/s	O	O
+สภา	O	O
+ร่าง	O	O
+รัฐธรรมนูญ	O	O
+ควร	O	O
+พิจารณา	O	O
+ถึง	O	O
+ปัญหา	O	O
+ระบบ	O	O
+เลือกตั้ง	O	O
+ใหม่	O	O
+ที่	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+เสนอ	O	O
+ไว้	O	O
+เป็น	O	O
+ความคิด	O	O
+ที่	O	O
+ใหม่	O	O
+สำหรับ	O	O
+เมือง	O	O
+ไทย	O	O
+อยู่	O	O
+มาก	O	O
+/s	O	O
+รวม	O	O
+ประเทศ	O	O
+ไทย	O	O
+เข้า	O	O
+เป็น	O	O
+เขต	O	O
+เลือกตั้ง	O	O
+เขต	O	O
+เดียว	O	O
+เลือก	O	O
+ผู้แทนราษฎร	O	O
+สำหรับ	O	O
+ประเทศ	O	O
+ชิลี	O	O
+ทั้งหมด	O	O
+จาก	O	O
+บัญชี	O	O
+นัก	O	O
+รัฐศาสตร์	O	O
+รุ่นใหม่	O	O
+/s	O	O
+เช่น	O	O
+/s	O	O
+ประพันธศักดิ์	O	O
+/s	O	O
+กมลเพชร	O	O
+/s	O	O
+กมล	O	O
+/s	O	O
+สมวิเชียร	O	O
+/s	O	O
+และ	O	O
+พงศ์เพ็ญ	O	O
+/s	O	O
+ศกุนตาภัย	O	O
+/s	O	O
+เรียกร้อง	O	O
+ให้	O	O
+มี	O	O
+การ	O	O
+เลือกตั้ง	O	O
+นายกรัฐมนตรี	O	O
+โดย	O	O
+ตรง	O	O
+/s	O	O
+จาก	O	O
+บทความ	O	O
+ของ	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+นี้	O	O
+/s	O	O
+ข้อเสนอ	O	O
+ของ	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+รัฐธรรมนูญ	O	O
+ฉบับ	O	O
+ปัจจุบัน	O	O
+ของ	O	O
+เวียดนาม	O	O
+ต้อง	O	O
+เสีย	O	O
+ค่าใช้จ่าย	O	O
+ไป	O	O
+ประมาณ	O	O
+/s	O	O
+100	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+/s	O	O
+สายฟ้า	O	O
+/s	O	O
+เศรษฐบุตร	O	O
+/s	O	O
+เขียน	O	O
+บทความ	O	O
+นี้	O	O
+ปัญหา	O	O
+ทาง	O	O
+การเมือง	O	O
+ของ	O	O
+อิรัก	O	O
+ตาม	O	O
+ที่	O	O
+เขา	O	O
+กล่าว	O	O
+ไว้	O	O
+อย่างไร	O	O
+บ้าง	O	O
+/s	O	O
+ความ	O	O
+โชคดี	O	O
+อยู่	O	O
+ที่	O	O
+ว่า	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+อาสนจินดา	O	O
+/s	O	O
+ไม่	O	O
+ต้อง	O	O
+ทน	O	O
+ทรมาน	O	O
+รัฐธรรมนูญ	O	O
+แห่ง	O	O
+ราชอาณาจักร	O	O
+ไทย	O	O
+มี	O	O
+สัญชาติ	O	O
+ไทย	O	O
+/s	O	O
+โดย	O	O
+กำเนิด	O	O
+/s	O	O
+และ	O	O
+มีอายุ	O	O
+ไม่	O	O
+ต่ำ	O	O
+กว่า	O	O
+สี่	O	O
+สิบ	O	O
+ปี	O	O
+บริบูรณ์	O	O
+สมาชิก	O	O
+วุฒิสภา	O	O
+ให้	O	O
+มี	O	O
+จำนวน	O	O
+สาม	O	O
+ใน	O	O
+สี่	O	O
+ของ	O	O
+จำนวน	O	O
+สมาชิก	O	O
+ทั้งหมด	O	O
+ของ	O	O
+สภา	O	O
+ผู้	O	O
+แทน	O	O
+.........	O	O
+"	O	O
+ระบบ	O	O
+รัฐสภา	O	O
+ไทย	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+สมาชิกสภาผู้แทนราษฎร	O	O
+ที่	O	O
+เคย	O	O
+มี	O	O
+มา	O	O
+ไม่	O	O
+อาจ	O	O
+ช่วย	O	O
+ให้	O	O
+บ้านเมือง	O	O
+ของ	O	O
+เรา	O	O
+เป็น	O	O
+ประชาธิปไตย	O	O
+ขึ้น	O	O
+มา	O	O
+ได้	O	O
+/s	O	O
+อย่างไรก็ดี	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+ต่าง	O	O
+กับ	O	O
+คณะ	O	O
+ผู้	O	O
+ปกครอง	O	O
+ประเทศ	O	O
+ใน	O	O
+เวลา	O	O
+นั้น	O	O
+ระบบ	O	O
+การ	O	O
+เลือกตั้ง	O	O
+ใน	O	O
+ปัจจุบัน	O	O
+จะ	O	O
+เป็น	O	O
+อย่างที่	O	O
+/s	O	O
+กิตติ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+เสนอ	O	O
+ไว้	O	O
+หรือไม่	O	O
+นั้น	O	O
+ย่อม	O	O
+ไร้	O	O
+ความหมาย	O	O
+บทความ	O	O
+เรื่อง	O	O
+ประชาธิปไตย	O	O
+และ	O	O
+รัฐธรรมนูญ	O	O
+/s	O	O
+ของ	O	O
+สาย	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+นี้	O	O
+เขียน	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+พ.ศ.	O	O
+/s	O	O
+2508	O	O
+/s	O	O
+ปัญหา	O	O
+ต่างๆ	O	O
+ที่	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+หยิบยก	O	O
+มา	O	O
+กล่าว	O	O
+ไว้	O	O
+การ	O	O
+พัฒนา	O	O
+การเมือง	O	O
+ไทย	O	O
+ใน	O	O
+ปัจจุบัน	O	O
+อยู่	O	O
+ดัง	O	O
+ที่	O	O
+/s	O	O
+สอ	O	O
+/s	O	O
+เสถบุตร	O	O
+/s	O	O
+ชี้	O	O
+ให้	O	O
+เห็น	O	O
+ว่า	O	O
+บริษัท	O	O
+ศูนย์วิจัย	org_start	O
+/s	org_cont	O
+กสิกรไทย	org_end	org
+/s	O	O
+จำกัด	O	O
+/s	O	O
+รายงาน	O	O
+ว่า	O	O
+/s	O	O
+จุดอ่อน	O	O
+ของ	O	O
+ระบบ	O	O
+ธนาคาร	O	O
+พาณิชย์	O	O
+ไทย	O	O
+/s	O	O
+เพื่อให้	O	O
+ครอบคลุม	O	O
+ตัวเลข	O	O
+/s	O	O
+NPL	O	O
+/s	O	O
+การ	O	O
+เพิ่ม	O	O
+ทุน	O	O
+ของ	O	O
+แบงก์	O	O
+พาณิชย์	O	O
+ทั้งหมด	O	O
+/s	O	O
+มี	O	O
+แค่	O	O
+ประมาณ	O	O
+/s	O	O
+2.19	O	O
+/s	O	O
+แสน	O	O
+ล้าน	O	O
+บาท	O	O
+เท่านั้น	O	O
+การ	O	O
+ลด	O	O
+ดอกเบี้ย	O	O
+ของ	O	O
+แบงก์	O	O
+กรุงเทพ	O	O
+ทั้งหมด	O	O
+การ	O	O
+ลด	O	O
+เงินทุน	O	O
+ของ	O	O
+แบงก์	O	O
+กสิกรไทย	O	O
+นั้น	O	O
+แบงก์	O	O
+นครธน	O	O
+/s	O	O
+และ	O	O
+แบงก์	O	O
+กรุงศรีอยุธยา	O	org
+/s	O	O
+ร่วมมือ	O	O
+กัน	O	O
+วงเงิน	O	O
+เพิ่ม	O	O
+ทุน	O	O
+จริง	O	O
+ที่	O	O
+ธนาคาร	O	O
+ได้รับ	O	O
+ศูนย์	O	O
+วิจัย	O	O
+ระบุ	O	O
+ตัวเลข	O	O
+เพิ่ม	O	O
+ทุน	O	O
+ขั้น	O	O
+ต่ำ	O	O
+ของ	O	O
+ระบบ	O	O
+แบงก์	O	O
+พาณิชย์	O	O
+อยู่	O	O
+ที่	O	O
+/s	O	O
+4.08	O	O
+/s	O	O
+แสน	O	O
+ล้าน	O	O
+บาท	O	O
+สัดส่วน	O	O
+สินเชื่อ	O	O
+ที่	O	O
+ไม่	O	O
+ก่อให้เกิด	O	O
+รายได้	O	O
+/s	O	O
+(	O	O
+NPL	O	O
+)	O	O
+/s	O	O
+ตัวเลข	O	O
+ทุนจดทะเบียน	O	O
+ชำระ	O	O
+แล้ว	O	O
+ของ	O	O
+แบงก์	O	O
+ไทย	O	O
+/s	O	O
+16	O	O
+/s	O	O
+แห่ง	O	O
+/s	O	O
+(	O	O
+รวม	O	O
+ธนาคาร	O	O
+รัตนสิน	O	O
+)	O	O
+/s	O	O
+อยู่	O	O
+ที่	O	O
+/s	O	O
+196,945	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+/s	O	O
+บาง	O	O
+แบงก์	O	O
+ขาย	O	O
+ได้	O	O
+ศูนย์	O	O
+วิจัย	O	O
+กสิกรไทย	O	O
+ระบุ	O	O
+ว่า	O	O
+เมื่อ	O	O
+ต้น	O	O
+ปี	O	O
+/s	O	O
+แบงก์	O	O
+ชาติ	O	O
+ประเมิน	O	O
+ว่า	O	O
+แบงก์	O	O
+พาณิชย์	O	O
+ทั้ง	O	O
+ระบบ	O	O
+จะ	O	O
+ต้อง	O	O
+เพิ่ม	O	O
+ทุน	O	O
+คาด	O	O
+ว่า	O	O
+ธนาคาร	O	O
+พาณิชย์	O	O
+อาจ	O	O
+ต้อง	O	O
+เพิ่ม	O	O
+ทุน	O	O
+มี	O	O
+เงิน	O	O
+กองทุน	O	O
+ต่อ	O	O
+สินทรัพย์	O	O
+เสี่ยง	O	O
+เพียงพอ	O	O
+ตาม	O	O
+หลักเกณฑ์	O	O
+ของ	O	O
+แบงก์	O	O
+ชาติ	O	O
+/s	O	O
+ศูนย์	O	O
+วิจัย	O	O
+เผย	O	O
+ว่า	O	O
+/s	O	O
+ปัญหา	O	O
+เงิน	O	O
+กองทุน	O	O
+ดังกล่าว	O	O
+/s	O	O
+อาจ	O	O
+กลายเป็น	O	O
+ภาระ	O	O
+ของ	O	O
+ระบบ	O	O
+เศรษฐกิจ	O	O
+รัฐบาล	O	O
+ต้อง	O	O
+เข้า	O	O
+ไป	O	O
+ดูแล	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ที่	O	O
+อ่อนแอ	O	O
+ภาระ	O	O
+ทาง	O	O
+การคลัง	O	O
+จะ	O	O
+เกิด	O	O
+ขึ้น	O	O
+ฐานะ	O	O
+ดำเนินการ	O	O
+ของ	O	O
+ธนาคาร	O	O
+น่า	O	O
+จะ	O	O
+ผ่อนคลาย	O	O
+ลง	O	O
+ศูนย์	O	O
+วิจัย	O	O
+ระบุ	O	O
+ใน	O	O
+รายงาน	O	O
+บท	O	O
+วิจัย	O	O
+ทั้งนี้	O	O
+/s	O	O
+ธนาคาร	O	O
+พาณิชย์	org_start	O
+ไทย	org_end	O
+/s	O	O
+15	O	O
+/s	O	O
+แห่ง	O	O
+ก.ล.ต.	O	O
+เปิด	O	O
+ข้อมูล	O	O
+เพิ่มเติม	O	O
+กรณี	O	O
+สั่ง	O	O
+พัก	O	O
+ให้	O	O
+ความ	O	O
+เห็นชอบ	O	O
+4	O	O
+/s	O	O
+ผู้จัดการ	O	O
+กองทุน	O	O
+บล.	O	O
+กองทุน	O	O
+/s	O	O
+มั่นใจ	O	O
+ผู้	O	O
+บริหาร	O	O
+ขาด	O	O
+ความ	O	O
+ระมัดระวัง	O	O
+บริษัท	O	O
+เข้า	O	O
+ลงทุน	O	O
+ใน	O	O
+ตั๋วแลกเงิน	O	O
+บริษัท	O	O
+ที่	O	O
+ผู้	O	O
+บริหาร	O	O
+บล.	O	O
+กองทุนรวม	O	O
+เป็น	O	O
+ผู้	O	O
+ร่วม	O	O
+ก่อ	O	O
+ตั้ง	O	O
+สำนักงาน	O	O
+คณะ	O	org_start
+กรรมการ	O	org_cont
+กำกับ	O	org_cont
+หลักทรัพย์	O	org_cont
+และ	O	org_cont
+ตลาดหลักทรัพย์	O	org_end
+/s	O	O
+(	O	O
+ก.ล.ต.	O	org
+)	O	O
+/s	O	O
+เปิดเผย	O	O
+ข้อมูล	O	O
+เพิ่มเติม	O	O
+กรณี	O	O
+สั่ง	O	O
+พัก	O	O
+การ	O	O
+ให้	O	O
+ความ	O	O
+เห็นชอบ	O	O
+/s	O	O
+4	O	O
+/s	O	O
+ผู้จัดการ	O	O
+กองทุน	O	O
+/s	O	O
+บล.	O	O
+กองทุนรวม	O	O
+/s	O	O
+จำกัด	O	O
+(มหาชน)	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+MFC	O	O
+/s	O	O
+เป็น	O	O
+เวลา	O	O
+/s	O	O
+6	O	O
+/s	O	O
+เดือน	O	O
+/s	O	O
+หลังจากที่	O	O
+บล.	O	O
+กองทุนรวม	O	O
+ชี้แจง	O	O
+ข้อมูล	O	O
+ไป	O	O
+ยัง	O	O
+ตลาดหลักทรัพย์	O	O
+ฯ	O	O
+ว่าไม่ได้	O	O
+กระทำ	O	O
+การ	O	O
+ผิด	O	O
+จรรยาบรรณ	O	O
+และ	O	O
+ดำเนินการ	O	O
+ใน	O	O
+ลักษณะ	O	O
+ขัดแย้ง	O	O
+ทาง	O	O
+ผลประโยชน์	O	O
+/s	O	O
+(	O	O
+Conflict	O	O
+/s	O	O
+of	O	O
+/s	O	O
+Interest	O	O
+)	O	O
+/s	O	O
+แต่อย่างใด	O	O
+/s	O	O
+โดย	O	O
+ก.ล.ต.	O	O
+ชี้แจง	O	O
+รายละเอียด	O	O
+เพิ่มเติม	O	O
+ดังนี้	O	O
+/s	O	O
+นาย	O	O
+ดำรงสุข	per_start	O
+/s	per_cont	O
+อมาตยกุล	per_end	O
+,	O	O
+/s	O	O
+นาย	O	O
+วรุตม์	per_start	O
+/s	per_cont	O
+วัชโรทยาน	per_end	O
+และ	O	O
+นาย	O	O
+ณัฐวุฒิ	per_start	O
+/s	per_cont	O
+ธรรมจารี	per_end	O
+/s	O	O
+ผู้จัดการ	O	O
+กองทุนรวม	O	O
+ได้	O	O
+ตัดสินใจ	O	O
+ลงทุน	O	O
+ใน	O	O
+ตั๋วแลกเงิน	O	O
+ของ	O	O
+บริษัท	O	O
+นอก	O	O
+ตลาดหลักทรัพย์	O	O
+แห่ง	O	O
+หนึ่ง	O	O
+/s	O	O
+บริษัท	O	O
+ดังกล่าว	O	O
+มี	O	O
+ผู้	O	O
+บริหาร	O	O
+ของ	O	O
+บล.	O	O
+/s	O	O
+กองทุนรวม	O	O
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+เริ่ม	O	O
+จัดตั้ง	O	O
+บริษัท	O	O
+มา	O	O
+ตั้งแต่	O	O
+ต้น	O	O
+ในขณะที่	O	O
+ใน	O	O
+ช่วง	O	O
+เวลา	O	O
+เดียวกัน	O	O
+กองทุนรวม	O	O
+ได้	O	O
+ลงทุน	O	O
+ใน	O	O
+ตั๋วสัญญาใช้เงิน	O	O
+ของ	O	O
+สถาบัน	O	O
+การเงิน	O	O
+หลาย	O	O
+แห่ง	O	O
+ผู้จัดการ	O	O
+กองทุนรวม	O	O
+ชี้แจง	O	O
+ว่า	O	O
+ตัดสินใจ	O	O
+ลงทุน	O	O
+เพราะ	O	O
+มี	O	O
+บงล.	O	O
+พารา	O	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+รับ	O	O
+อาวัล	O	O
+/s	O	O
+เมื่อ	O	O
+ตั๋วแลกเงิน	O	O
+ครบกำหนด	O	O
+บริษัท	O	O
+ปฏิเสธ	O	O
+การ	O	O
+ชำระ	O	O
+เงิน	O	O
+นาย	O	O
+ดำรงสุข	per_start	O
+/s	per_cont	O
+อมาตยกุล	per_end	O
+,	O	O
+/s	O	O
+นาย	O	O
+วรุตม์	per_start	O
+/s	per_cont	O
+วัชโรทยาน	per_end	O
+และ	O	O
+นาง	O	O
+กมลวรรณ	per_start	O
+/s	per_cont	O
+เขมะสุนันท์	per_end	O
+/s	O	O
+ผู้จัดการ	O	O
+กองทุนรวม	O	O
+ได้	O	O
+ตัดสินใจ	O	O
+ลงทุน	O	O
+ใน	O	O
+ตั๋วแลกเงิน	O	O
+ของ	O	O
+บริษัท	O	O
+นอก	O	O
+ตลาดหลักทรัพย์	O	O
+แห่ง	O	O
+หนึ่ง	O	O
+เนื่องจาก	O	O
+ก่อนหน้า	O	O
+นี้	O	O
+ผู้จัดการ	O	O
+กองทุนรวม	O	O
+ได้	O	O
+ตัดสินใจ	O	O
+ลงทุน	O	O
+ใน	O	O
+หุ้น	O	O
+สามัญ	O	O
+ของ	O	O
+บริษัท	O	O
+ดังกล่าว	O	O
+ผู้จัดการ	O	O
+กองทุนรวม	O	O
+ชี้แจง	O	O
+ว่า	O	O
+ตัดสินใจ	O	O
+ลงทุน	O	O
+เพราะ	O	O
+มี	O	O
+บงล.	O	O
+สหธนกิจไทย	O	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+รับ	O	O
+อาวัล	O	O
+นาย	O	O
+บัณฑูร	per_start	O
+/s	per_cont	O
+ล่ำซำ	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+/s	O	O
+ธนาคาร	O	O
+กสิกรไทย	org	org
+/s	O	O
+จำกัด	O	O
+/s	O	O
+มหาชน	O	O
+/s	O	O
+ประกาศ	O	O
+ลด	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+ในขณะนี้	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+เงินกู้	O	O
+ของ	O	O
+ธนาคาร	O	O
+กสิกรไทย	O	O
+เป็น	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+เงินกู้	O	O
+ที่	O	O
+ต่ำ	O	O
+ที่สุด	O	O
+ใน	O	O
+ระบบ	O	O
+ธนาคาร	O	O
+พาณิชย์	O	O
+ของ	O	O
+ไทย	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+เงินกู้	O	O
+/s	O	O
+เอ็ม	O	O
+แอล	O	O
+อาร์	O	O
+/s	O	O
+อยู่	O	O
+ที่	O	O
+/s	O	O
+15.25%	O	O
+/s	O	O
+เอ็ม	O	O
+อาร์	O	O
+อาร์	O	O
+/s	O	O
+16.50%	O	O
+/s	O	O
+เอ็ม	O	O
+โอ	O	O
+อาร์	O	O
+/s	O	O
+15.75%	O	O
+/s	O	O
+ก่อนหน้า	O	O
+นี้	O	O
+ธนาคาร	O	O
+กสิกรไทย	org_start	O
+ก็	org_cont	O
+เป็น	org_cont	O
+ธนาคาร	org_cont	O
+แห่ง	org_cont	O
+แรก	org_cont	O
+ส่วน	org_cont	O
+ธนาคาร	org_cont	O
+กรุงไทย	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+ลด	O	O
+ดอกเบี้ย	O	O
+เงิน	O	O
+ฝากประจำ	O	O
+คณะ	O	O
+กรรมการ	O	O
+ประเมิน	O	O
+ผลงาน	O	O
+ฯ	O	O
+เห็นชอบ	O	O
+ผล	O	O
+ประเมิน	O	O
+รัฐวิสาหกิจ	O	O
+/s	O	O
+ปี	O	O
+/s	O	O
+2540	O	O
+/s	O	O
+ระบุ	O	O
+/s	O	O
+กสท.	O	O
+/s	O	O
+การ	O	O
+ท่าเรือ	O	O
+และ	O	O
+โรงงาน	O	O
+ยาสูบ	O	O
+ยอดเยี่ยม	O	O
+ส่วน	O	O
+การ	O	O
+ประปา	O	O
+ส่วน	O	O
+ภูมิภาค	O	O
+/s	O	O
+บริษัท	O	O
+ขนส่ง	O	O
+และ	O	O
+องค์กร	O	O
+รับ	O	O
+ส่ง	O	O
+สินค้า	O	O
+ฯ	O	O
+ยอด	O	O
+แย่	O	O
+/s	O	O
+นาย	O	O
+ศุภรัตน์	per_start	O
+/s	per_cont	O
+ควัฒน์กุล	per_end	O
+/s	O	O
+ที่ปรึกษา	O	O
+การคลัง	O	O
+/s	O	O
+ใน	O	O
+ฐานะ	O	O
+โฆษก	O	O
+กระทรวง	O	O
+การคลัง	O	org
+แถลง	O	O
+ว่า	O	O
+/s	O	O
+คณะ	O	O
+กรรมการ	O	O
+ประเมิน	O	O
+ผลงาน	O	O
+รัฐวิสาหกิจ	O	O
+ได้	O	O
+มี	O	O
+มติ	O	O
+เห็นชอบ	O	O
+รัฐวิสาหกิจ	O	O
+ที่	O	O
+ได้รับ	O	O
+ผล	O	O
+การ	O	O
+ประเมิน	O	O
+สูงสุด	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+มี	O	O
+การ	O	O
+ปรับ	O	O
+ปรุง	O	O
+ประสิทธิภาพ	O	O
+ใน	O	O
+การ	O	O
+ดำเนิน	O	O
+งาน	O	O
+ได้	O	O
+ดี	O	O
+ขึ้น	O	O
+มาก	O	O
+/s	O	O
+3	O	O
+/s	O	O
+แห่ง	O	O
+แรก	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+การ	O	O
+สื่อสาร	O	org_start
+แห่ง	O	org_cont
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+การ	O	O
+ท่าเรือ	O	org_start
+แห่ง	O	org_cont
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+และ	O	O
+โรงงาน	O	O
+ยาสูบ	O	O
+/s	O	O
+รัฐวิสาหกิจ	O	O
+ที่	O	O
+มี	O	O
+ผล	O	O
+การ	O	O
+ประเมิน	O	O
+อยู่	O	O
+ใน	O	O
+เกณฑ์	O	O
+ต่ำ	O	O
+สุด	O	O
+/s	O	O
+3	O	O
+/s	O	O
+แห่ง	O	O
+สุดท้าย	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+การ	O	O
+ประปา	O	O
+ส่วน	O	O
+ภูมิภาค	O	O
+/s	O	O
+บริษัท	O	O
+ขนส่ง	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+และ	O	O
+องค์การ	O	O
+รับ	O	O
+ส่ง	O	O
+สินค้า	O	O
+และ	O	O
+พัสดุภัณฑ์	O	O
+โดย	O	O
+กระทรวง	O	O
+เจ้า	O	O
+สังกัด	O	O
+และ	O	O
+กระทรวง	O	O
+การคลัง	O	org
+กับ	O	O
+ภาค	O	O
+รัฐวิสาหกิจ	O	O
+/s	O	O
+โดย	O	O
+ประธาน	O	O
+คณะ	O	O
+กรรมการ	O	O
+และ	O	O
+ผู้	O	O
+บริหาร	O	O
+สูงสุด	O	O
+ของ	O	O
+รัฐวิสาหกิจ	O	O
+แต่ละ	O	O
+แห่ง	O	O
+คณะ	O	O
+กรรมการ	O	O
+ประเมิน	O	O
+ผล	O	O
+ฯ	O	O
+/s	O	O
+จะ	O	O
+ประเมิน	O	O
+ผล	O	O
+การ	O	O
+ดำเนินงาน	O	O
+ใน	O	O
+/s	O	O
+6	O	O
+/s	O	O
+ด้าน	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+ซึ่ง	O	O
+คณะ	O	O
+กรรมการ	O	O
+ประเมิน	O	O
+ผล	O	O
+ฯ	O	O
+จะ	O	O
+ประเมิน	O	O
+รัฐวิสาหกิจ	O	O
+ทุก	O	O
+ปี	O	O
+/s	O	O
+คณะ	O	O
+กรรมการ	O	O
+ประเมิน	O	O
+ผลงาน	O	O
+รัฐวิสาหกิจ	O	O
+มี	O	O
+นาย	O	O
+ศุภชัย	per_start	O
+/s	per_cont	O
+พิศิษฐวานิช	per_end	O
+/s	O	O
+ปลัด	O	O
+กระทรวง	O	O
+การคลัง	O	org
+เป็น	O	O
+ประธาน	O	O
+สถาบัน	O	O
+จัด	O	O
+อันดับ	O	O
+ความ	O	O
+น่า	O	O
+เชื่อถือ	O	O
+/s	O	O
+มูดี้ส์	O	O
+/s	O	O
+อินเวสเตอร์	O	O
+/s	O	O
+เซอร์วิส	O	O
+/s	O	O
+ได้	O	O
+ทบทวน	O	O
+และ	O	O
+มี	O	O
+แนวโน้ม	O	O
+จะ	O	O
+ลด	O	O
+อันดับ	O	O
+ความ	O	O
+น่า	O	O
+เชื่อถือ	O	O
+เงิน	O	O
+ฝาก	O	O
+ของ	O	O
+ธนาคาร	O	O
+ญี่ปุ่น	O	O
+การ	O	O
+ซื้อขาย	O	O
+ช่วง	O	O
+เช้า	O	O
+ที่	O	O
+ตลาด	O	O
+โตเกียว	O	O
+/s	O	O
+การ	O	O
+เลือกตั้ง	O	O
+หัวหน้า	O	O
+พรรค	O	O
+ประชากรไทย	O	O
+/s	O	O
+ซึ่ง	O	O
+นาย	O	O
+เคอิโช	per_start	O
+/s	per_cont	O
+โอบูชิ	per_end	O
+/s	O	O
+ยัง	O	O
+คง	O	O
+ได้รับ	O	O
+คะแนน	O	O
+เสียง	O	O
+ส่วนใหญ่	O	O
+เข้า	O	O
+ลงทุน	O	O
+ใน	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+เนื่องจาก	O	O
+การ	O	O
+ออก	O	O
+มา	O	O
+ให้	O	O
+สัมภาษณ์	O	O
+ของ	O	O
+นาย	O	O
+อลัน	per_start	O
+/s	per_cont	O
+กรีนสแปน	per_end	O
+/s	O	O
+เกี่ยวกับ	O	O
+การ	O	O
+เกิด	O	O
+ภาวะ	O	O
+เงินเฟ้อ	O	O
+ใน	O	O
+อเมริกา	O	O
+ที่	O	O
+อาจ	O	O
+ส่ง	O	O
+ผล	O	O
+ให้	O	O
+ธนาคาร	O	O
+กลาง	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ปรับ	O	O
+ขึ้น	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+ใน	O	O
+ประเทศ	O	O
+ได้	O	O
+/s	O	O
+ผล	O	O
+การ	O	O
+เลือกตั้ง	O	O
+ของ	O	O
+โครเอเชีย	O	O
+/s	O	O
+ส่ง	O	O
+ผล	O	O
+ให้	O	O
+การ	O	O
+เคลื่อนไหว	O	O
+ของ	O	O
+ค่า	O	O
+เงิน	O	O
+ต่างๆ	O	O
+ใน	O	O
+ภูมิภาค	O	O
+อาเซียน	O	O
+ปรับ	O	O
+ตัว	O	O
+เงิน	O	O
+อินโดนีเซีย	O	O
+/s	O	O
+อยู่	O	O
+ที่	O	O
+/s	O	O
+14,000	O	O
+/	O	O
+14,500	O	O
+/s	O	O
+รูเปียห์	O	O
+ต่อ	O	O
+ดอลลาร์	O	O
+/s	O	O
+และ	O	O
+ค่า	O	O
+เงิน	O	O
+สิงคโปร์	O	O
+ที่	O	O
+ระดับ	O	O
+/s	O	O
+1.7125	O	O
+/	O	O
+45	O	O
+/s	O	O
+สิงคโปร์	O	O
+ดอลลาร์	O	O
+/	O	O
+ดอลลาร์	O	O
+/s	O	O
+ดอกเบี้ย	O	O
+ใน	O	O
+ตลาด	O	O
+อาร์	O	O
+/	O	O
+พี	O	O
+/s	O	O
+ปรับ	O	O
+ลด	O	O
+ลง	O	O
+ที่	O	O
+ตลาด	O	O
+นิวยอร์ก	O	O
+ใน	O	O
+วัน	O	O
+พุธ	O	O
+ที่	O	O
+/s	O	O
+22	O	O
+/s	O	O
+ก.ค.	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ของ	O	O
+รัสเซีย	O	O
+ได้	O	O
+เข้า	O	O
+สู่	O	O
+ความ	O	O
+สงบ	O	O
+ได้รับ	O	O
+เงินกู้	O	O
+งวด	O	O
+แรก	O	O
+จาก	O	O
+ไอเอ็มเอฟ	O	O
+นาย	O	O
+พีรศิลป์	per_start	O
+/s	per_cont	O
+ศุภผลศิริ	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+ใหญ่	O	O
+/s	O	O
+บริษัท	O	O
+เงินทุน	O	O
+หลักทรัพย์	O	O
+(	O	O
+บงล.	O	O
+)	O	O
+กรุงไทยธนกิจ	O	O
+หรือ	O	O
+เค	O	O
+ที	O	O
+ที	O	O
+/s	O	O
+เปิดเผย	O	O
+กรณี	O	O
+ที่	O	O
+ม.ร.ว.	O	O
+จัตุมงคล	O	O
+/s	O	O
+โสณกุล	O	O
+/s	O	O
+ผู้ว่าการ	O	O
+ธนาคาร	O	O
+แห่ง	org_start	org_start
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+(	O	O
+ธปท.	O	org
+)	O	O
+/s	O	O
+ได้	O	O
+ตี	O	O
+กลับ	O	O
+การ	O	O
+ควบ	O	O
+กิจการ	O	O
+ของ	O	O
+/s	O	O
+เค	O	O
+ที	O	O
+ที	O	O
+กับ	O	O
+/s	O	O
+7	O	O
+/s	O	O
+ไฟแนนซ์	O	O
+ว่า	O	O
+/s	O	O
+จำเป็นต้อง	O	O
+รอ	O	O
+การ	O	O
+ตัดสินใจ	O	O
+สิน	O	O
+ใจ	O	O
+ของ	O	O
+ทางการ	O	O
+ขณะนี้	O	O
+ประเทศ	O	O
+กัมพูชา	O	O
+อยู่	O	O
+ใน	O	O
+ภาวะ	O	O
+ที่	O	O
+ขาด	O	O
+เงิน	O	O
+ทุน	O	O
+มาก	O	O
+ระบบ	O	O
+ธนาคาร	O	O
+ก็	O	O
+ต้อง	O	O
+มี	O	O
+ความ	O	O
+โปร่งใส	O	O
+สถาบัน	O	O
+การเงิน	O	O
+/s	O	O
+7	O	O
+/s	O	O
+แห่ง	O	O
+ที่อยู่	O	O
+ใน	O	O
+แผน	O	O
+ควบ	O	O
+รวม	O	O
+กิจการ	O	O
+/s	O	O
+ได้แก่	O	O
+/s	O	O
+บงล.	O	O
+ร่วมเสริมกิจ	O	O
+/s	O	O
+บง.	O	O
+นวธกิจ	O	O
+/s	O	O
+บง.	O	O
+มหาทุน	O	O
+/s	O	O
+บง.	O	O
+บางกอกอาเซียน	O	O
+/s	O	O
+บงล.	O	O
+เคสิท	O	O
+/s	O	O
+บง.	O	O
+เอราวัณ	O	O
+/s	O	O
+ทรัสต์	O	O
+/s	O	O
+และ	O	O
+บง.	O	O
+เศรษฐการ	O	O
+"	O	O
+ช่วง	O	O
+ที่	O	O
+กรุงไทยธนกิจ	O	O
+ต้อง	O	O
+เข้า	O	O
+เป็น	O	O
+แกน	O	O
+ใน	O	O
+การ	O	O
+รับ	O	O
+ซื้อ	O	O
+ตั๋วสัญญาใช้เงิน	O	O
+ของ	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ที่	O	O
+ถูก	O	O
+ปิด	O	O
+ไป	O	O
+ปัจจุบัน	O	O
+ทาง	O	O
+กรุงไทยธนกิจ	O	O
+เอง	O	O
+ก็	O	O
+ประสบ	O	O
+ปัญหา	O	O
+ขอ	O	O
+อนุมัติ	O	O
+จาก	O	O
+กระทรวง	O	O
+การคลัง	O	org
+ที่	O	O
+จะ	O	O
+ขอรับ	O	O
+ความ	O	O
+ช่วยเหลือ	O	O
+สภาพ	O	O
+คล่อง	O	O
+จาก	O	O
+ต่าง	O	O
+ชาติ	O	O
+คือ	O	O
+/s	O	O
+ซิตี้คอร์ป	O	O
+และ	O	O
+สแตนดาร์ด	O	O
+/s	O	O
+ชาร์เตอร์ด	O	O
+แบงก์	O	O
+"	O	O
+นาย	O	O
+พีรศิลป์	per	O
+กล่าวถึง	O	O
+เหตุผล	O	O
+โดย	O	O
+ทาง	O	O
+กรุงไทยธนกิจ	O	O
+ได้	O	O
+เร่ง	O	O
+จัดหา	O	O
+แหล่ง	O	O
+เงิน	O	O
+ทุน	O	O
+โดย	O	O
+มี	O	O
+ธนาคาร	O	O
+ซิตี้คอร์ป	O	O
+และ	O	O
+ธนาคาร	O	O
+สแตนดาร์ด	O	O
+ชาร์เตอร์ด	O	O
+เป็น	O	O
+ตัวแทน	O	O
+ใน	O	O
+ครั้ง	O	O
+นี้	O	O
+/s	O	O
+ทั้งนี้	O	O
+ยอด	O	O
+วงเงิน	O	O
+ที่	O	O
+กรุงไทยธนกิจ	O	O
+ต้อง	O	O
+รับ	O	O
+ซื้อ	O	O
+ลด	O	O
+ตั๋ว	O	O
+โครงการ	O	O
+จาก	O	O
+ผู้	O	O
+ทรง	O	O
+คุณวุฒิ	O	O
+ของ	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ทั้ง	O	O
+/s	O	O
+16	O	O
+/s	O	O
+แห่ง	O	O
+ทาง	O	O
+กรุงไทยธนกิจ	O	O
+จะ	O	O
+เริ่ม	O	O
+โครงการ	O	O
+วงเงิน	O	O
+ที่	O	O
+ทาง	O	O
+กรุงไทยธนกิจ	O	O
+ต้อง	O	O
+รับ	O	O
+ซื้อ	O	O
+ทั้งหมด	O	O
+เท่ากับ	O	O
+อัตรา	O	O
+ที่	O	O
+ธนาคาร	O	O
+กรุงไทย	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+คิด	O	O
+ส่วนลด	O	O
+จาก	O	O
+การ	O	O
+รับ	O	O
+ซื้อ	O	O
+บัตร	O	O
+เงิน	O	O
+ฝาก	O	O
+/s	O	O
+(	O	O
+NCD	O	O
+)	O	O
+/s	O	O
+ที่	O	O
+ธนาคาร	O	O
+กรุงไทย	O	O
+/s	O	O
+ออก	O	O
+ตาม	O	O
+โครงการ	O	O
+รับ	O	O
+แลกเปลี่ยน	O	O
+ตั๋ว	O	O
+ฯ	O	O
+/s	O	O
+นาย	O	O
+เฮนรี่	per_start	O
+/s	per_cont	O
+โฮ	per_end	O
+/s	O	O
+ประธาน	O	O
+เจ้าหน้าที่	O	O
+บริหาร	O	O
+/s	O	O
+ซิตี้คอร์ป	O	O
+กล่าว	O	O
+นาง	O	O
+ทิพย์ภาพร	per_start	O
+/s	per_cont	O
+เกิดผล	per_end	O
+/s	O	O
+ผู้อำนวยการ	O	O
+สำนัก	O	O
+บริหาร	O	O
+เงิน	O	O
+ธนาคาร	O	O
+สแตนดาร์ด	O	O
+/s	O	O
+ชาร์เตอร์ด	O	O
+/s	O	O
+กล่าว	O	O
+เสริม	O	O
+นาย	O	O
+พีรศิลป์	per	O
+/s	O	O
+กล่าวถึง	O	O
+กำหนด	O	O
+ระยะ	O	O
+เวลา	O	O
+สิ้นสุด	O	O
+โครงการ	O	O
+เมื่อ	O	O
+ทาง	O	O
+กรุงไทยธนกิจ	O	O
+ได้	O	O
+เปลี่ยน	O	O
+ตั๋วสัญญาใช้เงิน	O	O
+เมื่อ	O	O
+โครงการ	O	O
+สิ้นสุด	O	O
+ลง	O	O
+หาก	O	O
+กรุงไทยธนกิจ	O	O
+/s	O	O
+และ	O	O
+หรือ	O	O
+ตัวแทน	O	O
+จัดหา	O	O
+แหล่ง	O	O
+เงิน	O	O
+ทุน	O	O
+ทาง	O	O
+กรุงไทยธนกิจ	O	O
+จะ	O	O
+จัดสรร	O	O
+เงิน	O	O
+รับ	O	O
+ซื้อ	O	O
+ลด	O	O
+ตามลำดับ	O	O
+ก่อน	O	O
+หลัง	O	O
+/s	O	O
+(	O	O
+FIRST	O	O
+/s	O	O
+COME	O	O
+/s	O	O
+FIRST	O	O
+/s	O	O
+SERVE	O	O
+)	O	O
+/s	O	O
+ทาง	O	O
+กรุงไทย	O	O
+/s	O	O
+และ	O	O
+สงวน	O	O
+สิทธิ	O	O
+ที่	O	O
+จะ	O	O
+เปลี่ยนแปลง	O	O
+นาย	O	O
+พีรศิลป์	per	O
+ได้	O	O
+ว่า	O	O
+/s	O	O
+บงล.	O	O
+กรุงไทยธนกิจ	O	O
+จะ	O	O
+เก็บ	O	O
+ค่า	O	O
+ธรรมเนียม	O	O
+จด	O	O
+แจ้ง	O	O
+การ	O	O
+โอน	O	O
+สิทธิ	O	O
+นาย	O	O
+อรรคพล	per_start	O
+/s	per_cont	O
+สรสุชาติ	per_end	O
+/s	O	O
+โฆษก	O	O
+ประจำ	O	O
+สำนัก	O	O
+นายกรัฐมนตรี	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+ใน	O	O
+การ	O	O
+เจรจา	O	O
+กับ	O	O
+เจ้าหน้าที่	O	O
+ไอเอ็มเอฟ	O	O
+/s	O	O
+เกี่ยวกับ	O	O
+หนังสือ	O	O
+แสดง	O	O
+เจตจำนง	O	O
+เจรจา	O	O
+กับ	O	O
+ไอเอ็มเอฟ	O	O
+มา	O	O
+ตั้งแต่	O	O
+หนังสือ	O	O
+แสดง	O	O
+เจตจำนง	O	O
+หน่วยงาน	O	O
+ที่	O	O
+เกี่ยวข้อง	O	O
+คือ	O	O
+/s	O	O
+กระทรวง	O	O
+การคลัง	O	org
+/s	O	O
+ธนาคาร	O	O
+แห่ง	org_start	org_start
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+(	O	O
+ธปท.	O	org
+)	O	O
+/s	O	O
+และ	O	O
+สำนักงาน	O	O
+คณะ	O	org_start
+กรรมการ	O	org_cont
+พัฒนาการ	O	org_cont
+เศรษฐกิจ	O	org_cont
+และ	O	org_cont
+สังคม	O	org_cont
+แห่ง	O	org_cont
+ชาติ	O	org_end
+/s	O	O
+(	O	O
+สศช.	O	O
+)	O	O
+/s	O	O
+กำลัง	O	O
+พิจารณา	O	O
+ทบทวน	O	O
+และ	O	O
+จะ	O	O
+เสนอ	O	O
+คณะ	O	O
+กรรมการ	O	O
+รัฐมนตรี	O	O
+ว่าด้วย	O	O
+นโยบาย	O	O
+เศรษฐกิจ	O	O
+พิจารณา	O	O
+ใน	O	O
+อีก	O	O
+/s	O	O
+2	O	O
+/s	O	O
+สัปดาห์	O	O
+ข้างหน้า	O	O
+ไป	O	O
+เป็น	O	O
+กรอบ	O	O
+ใน	O	O
+การ	O	O
+เจรจา	O	O
+กับ	O	O
+ไอเอ็มเอฟ	O	O
+ด้วย	O	O
+นาย	O	O
+อรรคพล	per	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+แผน	O	O
+กระตุ้น	O	O
+เศรษฐกิจ	O	O
+ที่	O	O
+จะ	O	O
+เจรจา	O	O
+กับ	O	O
+/s	O	O
+ไอเอ็มเอฟ	O	O
+/s	O	O
+4	O	O
+/s	O	O
+เป้าหมาย	O	O
+หลัก	O	O
+ประกอบด้วย	O	O
+/s	O	O
+ส่วน	O	O
+ข้อเสนอ	O	O
+ของ	O	O
+เอกชน	O	O
+ใน	O	O
+การ	O	O
+ร่วม	O	O
+เจรจา	O	O
+กับ	O	O
+ไอเอ็มเอฟ	O	O
+/s	O	O
+คง	O	O
+เป็นไป	O	O
+ได้	O	O
+ยาก	O	O
+ผ่าน	O	O
+ทาง	O	O
+คณะ	O	O
+กรรมการ	O	O
+ร่วม	O	O
+ภาค	O	O
+รัฐบาล	O	O
+และ	O	O
+เอกชน	O	O
+/s	O	O
+เพื่อ	O	O
+แก้	O	O
+ปัญหา	O	O
+เศรษฐกิจ	O	O
+/s	O	O
+(	O	O
+กรอ.	O	O
+)	O	O
+/s	O	O
+พิจารณา	O	O
+และ	O	O
+หารือ	O	O
+กับ	O	O
+ไอเอ็มเอฟ	O	O
+ต่อไป	O	O
+"	O	O
+/s	O	O
+นาย	O	O
+อรรคพล	per	O
+กล่าว	O	O
+บง.บล.	O	O
+"	O	O
+พาณิชย์	O	O
+"	O	O
+/s	O	O
+ตั้ง	O	O
+อนุญาโตตุลาการ	O	O
+พิจารณา	O	O
+กรณี	O	O
+พิพาท	O	O
+ประกันภัย	O	O
+แล้ว	O	O
+/s	O	O
+ให้	O	O
+ยื่น	O	O
+เรื่อง	O	O
+ต่อ	O	O
+อธิบดี	O	O
+กรม	O	O
+การ	O	O
+ประกันภัย	O	O
+ที่	O	O
+กรุงเทพฯ	O	O
+/s	O	O
+หรือ	O	O
+สำนักงาน	O	O
+ประกันภัย	O	O
+จังหวัด	O	O
+ทั่ว	O	O
+ประเทศ	O	O
+/s	O	O
+นาย	O	O
+ไพฑูรย์	per_start	O
+/s	per_cont	O
+แก้วทอง	per_end	O
+/s	O	O
+รัฐมนตรีช่วยว่าการ	O	O
+กระทรวง	O	O
+พาณิชย์	O	org
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+ขณะนี้	O	O
+กรม	O	O
+การ	O	O
+ประกันภัย	O	O
+ได้	O	O
+จัดทำ	O	O
+สาระ	O	O
+สำคัญ	O	O
+ข้อบังคับ	O	O
+กรม	O	O
+การ	O	O
+ประกันภัย	O	O
+ว่าด้วย	O	O
+อนุญาโตตุลาการ	O	O
+แล้ว	O	O
+จึง	O	O
+ได้	O	O
+มี	O	O
+มติ	O	O
+ให้	O	O
+มี	O	O
+คณะ	O	O
+กรรมการ	O	O
+อนุญาโตตุลาการ	O	O
+/s	O	O
+ซึ่ง	O	O
+มี	O	O
+อธิบดี	O	O
+กรม	O	O
+การ	O	O
+ประกันภัย	O	O
+เป็น	O	O
+ประธาน	O	O
+กรรมการ	O	O
+อื่น	O	O
+/s	O	O
+ๆ	O	O
+/s	O	O
+ประกอบด้วย	O	O
+ผู้	O	O
+แทน	O	O
+กระทรวง	O	O
+ยุติธรรม	O	O
+/s	O	O
+ผู้	O	O
+แทน	O	O
+กรม	O	O
+อัยการ	O	O
+/s	O	O
+นายก	O	O
+สมาคม	O	O
+ประกันวินาศภัย	O	O
+/s	O	O
+นายก	O	O
+สมาคม	O	O
+ประกันชีวิต	O	O
+ไทย	O	O
+/s	O	O
+นายก	O	O
+สมาคม	O	O
+นายหน้า	O	O
+ประกันภัย	O	O
+/s	O	O
+และ	O	O
+ผู้	O	O
+แทน	O	O
+กรม	O	O
+การ	O	O
+ประกันภัย	O	O
+เป็น	O	O
+กรรมการ	O	O
+และ	O	O
+เลขานุการ	O	O
+/s	O	O
+และ	O	O
+ให้	O	O
+คณะ	O	O
+กรรมการ	O	O
+แต่งตั้ง	O	O
+ข้าราชการ	O	O
+กรมการ	O	O
+ประกันภัย	O	O
+เป็น	O	O
+ผู้	O	O
+ช่วย	O	O
+เลขานุการ	O	O
+นาย	O	O
+ไพฑูรย์	per	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+คือ	O	O
+จะ	O	O
+ยื่น	O	O
+ที่	O	O
+กรุงเทพฯ	O	O
+/s	O	O
+หรือ	O	O
+สำนักงาน	O	O
+ประกันภัย	O	O
+จังหวัด	O	O
+ที่	O	O
+มี	O	O
+ภูมิลำเนา	O	O
+อยู่	O	O
+ก็ได้	O	O
+สำหรับ	O	O
+การ	O	O
+อนุญาโตตุลาการ	O	O
+นั้น	O	O
+/s	O	O
+กรณี	O	O
+ข้อ	O	O
+พิพาท	O	O
+ที่	O	O
+มี	O	O
+ทุนทรัพย์	O	O
+เรียกร้อง	O	O
+ไม่	O	O
+เกิน	O	O
+/s	O	O
+1	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+ให้	O	O
+มี	O	O
+อนุญาโตตุลาการ	O	O
+/s	O	O
+1	O	O
+/s	O	O
+คน	O	O
+ให้	O	O
+มี	O	O
+อนุญาโตตุลาการ	O	O
+จำนวน	O	O
+/s	O	O
+1	O	O
+/s	O	O
+คน	O	O
+หรือ	O	O
+/s	O	O
+3	O	O
+/s	O	O
+คน	O	O
+จากนั้น	O	O
+อธิบดี	O	O
+จะ	O	O
+นัด	O	O
+พร้อม	O	O
+คู่พิพาท	O	O
+นาย	O	O
+ภูเบศร์	per	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+วิธีการ	O	O
+พิจารณา	O	O
+ชั้น	O	O
+อนุญาโตตุลาการ	O	O
+และ	O	O
+คำ	O	O
+ชี้ขาด	O	O
+และ	O	O
+ให้	O	O
+กรม	O	O
+การ	O	O
+ประกันภัย	O	O
+เปิดเผย	O	O
+ได้	O	O
+"	O	O
+ธารินทร์	O	O
+"	O	O
+/s	O	O
+ลงนาม	O	O
+กฎ	O	O
+กระทรวง	O	O
+หนุน	O	O
+การ	O	O
+ควบ	O	O
+กิจการ	O	O
+บล.	O	O
+และ	O	O
+สนับสนุน	O	O
+การ	O	O
+แยก	O	O
+ธุรกิจ	O	O
+สร้าง	O	O
+ความ	O	O
+มั่นคง	O	O
+ให้	O	O
+บริษัท	O	O
+หลักทรัพย์	O	O
+นาย	O	O
+ศุภรัตน์	per_start	O
+/s	per_cont	O
+ควัฒน์กุล	per_end	O
+/s	O	O
+ที่ปรึกษา	O	O
+การคลัง	O	O
+ใน	O	O
+ฐานะ	O	O
+โฆษก	O	O
+กระทรวง	O	O
+การคลัง	O	org
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+เมื่อ	O	O
+วันที่	O	O
+/s	O	O
+17	O	O
+/s	O	O
+ก.ค.	O	O
+ที่	O	O
+ผ่านมา	O	O
+/s	O	O
+นาย	O	O
+ธารินทร์	per_start	O
+/s	per_cont	O
+นิมมานเหมินท์	per_end	O
+/s	O	O
+รัฐมนตรี	O	O
+ว่าการ	O	O
+กระทรวง	O	O
+การคลัง	O	org
+/s	O	O
+ได้	O	O
+ลงนาม	O	O
+ใน	O	O
+กฎ	O	O
+กระทรวง	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ฉบับ	O	O
+สนับสนุน	O	O
+การ	O	O
+ควบ	O	O
+กิจการ	O	O
+ของ	O	O
+บริษัท	O	O
+หลักทรัพย์	O	O
+(	O	O
+บล.	O	O
+)	O	O
+การ	O	O
+ถือ	O	O
+หุ้น	O	O
+ใน	O	O
+บริษัท	O	O
+หลักทรัพย์	O	O
+ที่	O	O
+จัดตั้ง	O	O
+ขึ้น	O	O
+ใหม่	O	O
+นาย	O	O
+ศุภรัตน์	per	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+จะ	O	O
+ต้อง	O	O
+ได้รับ	O	O
+ความ	O	O
+เห็นชอบ	O	O
+จาก	O	O
+สำนักงาน	O	O
+คณะ	O	O
+กรรมการ	O	O
+กำกับ	O	O
+หลักทรัพย์	O	O
+และ	O	O
+ตลาด	O	O
+หลักทรัพย์	O	O
+/s	O	O
+(	O	O
+ก.ล.ต.	O	org
+)	O	O
+/s	O	O
+ซึ่ง	O	O
+จะ	O	O
+เป็น	O	O
+ผู้	O	O
+พิจารณา	O	O
+ความ	O	O
+เหมาะสม	O	O
+ของ	O	O
+บุคคล	O	O
+นั้น	O	O
+''	O	O
+เกียรตินาคิน	O	O
+"	O	O
+/s	O	O
+เผย	O	O
+ไม่	O	O
+มี	O	O
+ปัญหา	O	O
+สภาพ	O	O
+คล่อง	O	O
+/s	O	O
+นาย	O	O
+วีระพล	per_start	O
+/s	per_cont	O
+ไพรัชเวทย์	per_end	O
+/s	O	O
+กรรมการ	O	O
+และ	O	O
+ผู้	O	O
+ช่วย	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+/s	O	O
+บงล.	O	O
+/s	O	O
+เกียรตินาคิน	O	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+KK	O	O
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+บริษัท	O	O
+ได้รับ	O	O
+การ	O	O
+อนุมัติ	O	O
+จาก	O	O
+ผู้	O	O
+ถือ	O	O
+หุ้น	O	O
+กู้	O	O
+ของ	O	O
+บริษัท	O	O
+/s	O	O
+มูลค่า	O	O
+/s	O	O
+1,200	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+เป็น	O	O
+หุ้น	O	O
+กู้	O	O
+ที่	O	O
+ออก	O	O
+ครั้ง	O	O
+แรก	O	O
+/s	O	O
+(	O	O
+KK1	O	O
+)	O	O
+/s	O	O
+อย่างไรก็ตาม	O	O
+บงล.	O	O
+เกียรตินาคิน	O	O
+/s	O	O
+จะ	O	O
+เพิ่ม	O	O
+ดอกเบี้ย	O	O
+หน้า	O	O
+ตั๋ว	O	O
+นาย	O	O
+วีระพล	per	O
+กล่าวถึง	O	O
+การ	O	O
+ปรับ	O	O
+โครง	O	O
+หนี้	O	O
+เงินกู้	O	O
+ส่วนใหญ่	O	O
+จะ	O	O
+ปล่อย	O	O
+กู้	O	O
+ใน	O	O
+ตลาด	O	O
+อินเตอร์แบงก์	O	O
+/s	O	O
+หรือ	O	O
+นำ	O	O
+ไป	O	O
+ซื้อ	O	O
+พันธบัตร	O	O
+และ	O	O
+ตั๋วเงิน	O	O
+/s	O	O
+เตรียม	O	O
+เงิน	O	O
+ไว้	O	O
+สำหรับ	O	O
+การ	O	O
+ประมูล	O	O
+สินทรัพย์	O	O
+ของ	O	O
+องค์การ	O	O
+เพื่อ	O	O
+การ	O	O
+ปฏิรูป	O	O
+ระบบ	O	O
+สถาบัน	O	O
+การเงิน	O	O
+/s	O	O
+โดยที่	O	O
+ผ่าน	O	O
+มา	O	O
+/s	O	O
+บงล.	O	O
+เกียรตินาคิน	O	O
+/s	O	O
+ได้	O	O
+ร่วม	O	O
+กับ	O	O
+บล.	O	O
+รัตนทุน	O	O
+/s	O	O
+เข้า	O	O
+ประมูล	O	O
+พอร์ต	O	O
+สินเชื่อ	O	O
+เช่าซื้อ	O	O
+จาก	O	O
+ปรส.	O	O
+ซึ่ง	O	O
+บริษัท	O	O
+ได้	O	O
+เตรียม	O	O
+เงิน	O	O
+ไว้	O	O
+สำหรับ	O	O
+ชำระ	O	O
+ให้	O	O
+ปรส.	O	O
+ใน	O	O
+เร็ว	O	O
+/s	O	O
+ๆ	O	O
+/s	O	O
+นี้	O	O
+แล้ว	O	O
+/s	O	O
+สำหรับ	O	O
+ความ	O	O
+เคลื่อนไหว	O	O
+ของ	O	O
+ราคา	O	O
+หุ้น	O	O
+/s	O	O
+KK	O	O
+/s	O	O
+วาน	O	O
+นี้	O	O
+คณะ	O	O
+กรรมการ	O	O
+จัดการ	O	O
+แข่งขัน	O	O
+/s	O	O
+ได้	O	O
+ตัดสินใจ	O	O
+ให้	O	O
+บริษัท	O	O
+/s	O	O
+การบินไทย	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+รับผิดชอบ	O	O
+/s	O	O
+สถาบันราชภัฎ	O	O
+สวนดุสิต	O	O
+/s	O	O
+และ	O	O
+จิตรโภชนา	O	O
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+รับผิดชอบ	O	O
+ทาง	O	O
+ด้าน	O	O
+นี้	O	O
+แต่	O	O
+ในที่สุด	O	O
+การบินไทย	O	O
+ก็	O	O
+ได้รับ	O	O
+เลือก	O	O
+เนื่องจาก	O	O
+ประสบการณ์	O	O
+ด้าน	O	O
+การ	O	O
+บริการ	O	O
+อาหาร	O	O
+บน	O	O
+สายการบิน	O	O
+/s	O	O
+น่า	O	O
+จะ	O	O
+เป็น	O	O
+จุด	O	O
+ที่	O	O
+ทำให้	O	O
+ชาว	O	O
+ต่าง	O	O
+ชาติ	O	O
+มั่นใจ	O	O
+ใน	O	O
+คุณภาพ	O	O
+อาหาร	O	O
+ปัจจัย	O	O
+สำคัญ	O	O
+ที่	O	O
+ทำให้	O	O
+การบินไทย	O	O
+ได้รับ	O	O
+ความ	O	O
+ไว้วางใจ	O	O
+ใน	O	O
+วันนี้	O	O
+การบินไทย	O	O
+จึง	O	O
+เปรียบ	O	O
+เสมือน	O	O
+เป็น	O	O
+เจ้าของ	O	O
+ร้าน	O	O
+อาหาร	O	O
+แห่ง	O	O
+เอเชี่ยน	O	O
+เกมส์	O	O
+"	O	O
+รสชาติ	O	O
+แห่ง	O	O
+เอเชี่ยน	O	O
+เกมส์	O	O
+จะ	O	O
+เชลล์	O	O
+ชวน	O	O
+ชิม	O	O
+และ	O	O
+มี	O	O
+มาตรฐาน	O	O
+ทาง	O	O
+ด้าน	O	O
+อาหาร	O	O
+เป็น	O	O
+ที่	O	O
+ยอมรับ	O	O
+สมาชิก	O	O
+ใน	O	O
+ชาติ	O	O
+เอเชีย	O	O
+เพียงใด	O	O
+/s	O	O
+การ	O	O
+บริการ	O	O
+อาหาร	O	O
+ซึ่ง	O	O
+การบินไทย	O	O
+ได้รับ	O	O
+เกียรติ	O	O
+ทำหน้าที่	O	O
+เป็น	O	O
+ผู้	O	O
+ดูแล	O	O
+ทาง	O	O
+การบินไทย	O	O
+ใน	O	O
+ฐานะ	O	O
+สายการบิน	O	O
+แห่ง	O	O
+ชาติ	O	O
+พิศมัย	O	O
+/s	O	O
+จันทรุเบกษา	O	O
+/s	O	O
+ผู้อำนวยการ	O	O
+ฝ่าย	O	O
+ภัตตาคาร	O	O
+และ	O	O
+โภชนาการ	O	O
+ภายใน	O	O
+ประเทศ	O	O
+/s	O	O
+เล่า	O	O
+ถึง	O	O
+การ	O	O
+บริการ	O	O
+ด้วย	O	O
+ความ	O	O
+มั่นอกมั่นใจ	O	O
+/s	O	O
+แม้ว่า	O	O
+การบินไทย	O	O
+จะ	O	O
+ได้รับ	O	O
+การ	O	O
+การันตี	O	O
+หลาย	O	O
+แห่ง	O	O
+/s	O	O
+อาทิ	O	O
+/s	O	O
+การ	O	O
+รับรอง	O	O
+มาตรฐาน	O	O
+/s	O	O
+ISO	O	O
+/s	O	O
+9002	O	O
+/s	O	O
+การ	O	O
+รับรอง	O	O
+ระบบ	O	O
+คุณภาพ	O	O
+ความ	O	O
+ปลอดภัย	O	O
+ของ	O	O
+ผลิตภัณฑ์	O	O
+อาหาร	O	O
+/s	O	O
+(	O	O
+HACCP	O	O
+)	O	O
+/s	O	O
+และ	O	O
+เกียรติบัตร	O	O
+รับรอง	O	O
+สุขลักษณะ	O	O
+โรงงาน	O	O
+อุตสาหกรรม	O	O
+ที่	O	O
+ดี	O	O
+/s	O	O
+(	O	O
+GMP	O	O
+)	O	O
+/s	O	O
+ว่าจ้าง	O	O
+บริษัท	O	O
+ที่ปรึกษา	O	O
+/s	O	O
+"	O	O
+เอม	O	O
+/s	O	O
+เซอร์วิสเซส	O	O
+"	O	O
+/s	O	O
+(	O	O
+AIM	O	O
+/s	O	O
+SERVICES	O	O
+)	O	O
+/s	O	O
+การ	O	O
+บริการ	O	O
+อาหาร	O	O
+ให้	O	O
+นักกีฬา	O	O
+ใน	O	O
+การ	O	O
+แข่งขัน	O	O
+กีฬา	O	O
+โอลิมปิก	O	O
+ที่	O	O
+แอตแลนต้า	O	O
+/s	O	O
+ประเทศ	O	O
+สหรัฐอเมริกา	O	O
+/s	O	O
+การ	O	O
+แข่งขัน	O	O
+กีฬา	O	O
+โอลิมปิก	O	O
+ที่	O	O
+นากาโน	O	O
+/s	O	O
+และ	O	O
+การ	O	O
+แข่งขัน	O	O
+กีฬา	O	O
+เอเชี่ยน	O	O
+เกมส์	O	O
+ที่	O	O
+ฮิโรชิมา	O	O
+/s	O	O
+ประเทศ	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+ทาง	O	O
+การบินไทย	O	O
+ได้	O	O
+สั่ง	O	O
+ซื้อ	O	O
+วัตถุดิบ	O	O
+ทาง	O	O
+การเกษตร	O	O
+จาก	O	O
+ภายใน	O	O
+ประเทศ	O	O
+ทั้งหมด	O	O
+/s	O	O
+ประสาน	O	O
+ความ	O	O
+ร่วมมือ	O	O
+กับ	O	O
+คณะ	O	O
+อนุกรรมการ	O	O
+สุขอนามัย	O	O
+/s	O	O
+สาขา	O	O
+การแพทย์	O	O
+และ	O	O
+อนามัย	O	O
+ของ	O	O
+กีฬา	O	O
+เอเชี่ยน	O	O
+เกมส์	O	O
+/s	O	O
+ทาง	O	O
+การบินไทย	O	O
+ได้	O	O
+จัด	O	O
+แบ่ง	O	O
+จุด	O	O
+การ	O	O
+ดำเนินงาน	O	O
+ผลิต	O	O
+อาหาร	O	O
+ไว้	O	O
+/s	O	O
+2	O	O
+/s	O	O
+แห่ง	O	O
+/s	O	O
+ครัว	O	O
+ใน	O	O
+หมู่บ้าน	O	O
+นักกีฬา	O	O
+/s	O	O
+มหาวิทยาลัย	O	O
+ธรรมศาสตร์	O	org
+/s	O	O
+รังสิต	O	O
+/s	O	O
+โดย	O	O
+จะ	O	O
+ผลิต	O	O
+อาหาร	O	O
+กว่า	O	O
+/s	O	O
+200	O	O
+/s	O	O
+ชนิด	O	O
+/s	O	O
+ทั้ง	O	O
+อาหาร	O	O
+ไทย	O	O
+/s	O	O
+จีน	O	O
+/s	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+อินเดีย	O	O
+/s	O	O
+อาหาร	O	O
+ยุโรป	O	O
+/s	O	O
+และ	O	O
+ตะวันออกกลาง	O	O
+/s	O	O
+เฉพาะ	O	O
+นักกีฬา	O	O
+มุสลิม	O	O
+ได้	O	O
+แยก	O	O
+จุด	O	O
+บริการ	O	O
+แบ่ง	O	O
+เป็น	O	O
+อาหาร	O	O
+ที่	O	O
+ผ่าน	O	O
+กรรมวิธี	O	O
+ฮาลาล	O	O
+ทาง	O	O
+ศาสนา	O	O
+อิสลาม	O	O
+/s	O	O
+และ	O	O
+อาหาร	O	O
+ไม่	O	O
+ได้	O	O
+ผ่าน	O	O
+กรรมวิธี	O	O
+ฮาลาล	O	O
+ไว้	O	O
+ด้วย	O	O
+ความ	O	O
+เป็น	O	O
+ไทย	O	O
+หมุนเวียน	O	O
+สลับ	O	O
+เปลี่ยน	O	O
+
+อีก	O	O
+แห่ง	O	O
+ที่	O	O
+ครัว	O	O
+การบินไทย	O	O
+ดอนเมือง	O	O
+/s	O	O
+พื้นที่	O	O
+การ	O	O
+บริการ	O	O
+อาหาร	O	O
+ได้	O	O
+จัด	O	O
+ไว้	O	O
+ที่	O	O
+บริเวณ	O	O
+หมู่บ้าน	O	O
+นักกีฬา	O	O
+/s	O	O
+มหาวิทยาลัย	O	O
+ธรรมศาสตร์	O	org
+รังสิต	O	O
+/s	O	O
+การบินไทย	O	O
+ได้	O	O
+เตรียม	O	O
+กำลัง	O	O
+คน	O	O
+ไว้	O	O
+ทั้งหมด	O	O
+ถึง	O	O
+/s	O	O
+868	O	O
+/s	O	O
+คน	O	O
+/s	O	O
+แบ่ง	O	O
+เป็น	O	O
+พนักงาน	O	O
+การบินไทย	O	O
+จำนวน	O	O
+/s	O	O
+149	O	O
+/s	O	O
+คน	O	O
+/s	O	O
+และ	O	O
+จาก	O	O
+สถาบันราชภัฎ	O	O
+สวนดุสิต	O	O
+/s	O	O
+บวก	O	O
+กับ	O	O
+แรงงาน	O	O
+ภายนอก	O	O
+อีก	O	O
+/s	O	O
+719	O	O
+/s	O	O
+คน	O	O
+เข้า	O	O
+มา	O	O
+เสริม	O	O
+ใน	O	O
+การ	O	O
+บริการ	O	O
+ครั้ง	O	O
+นี้	O	O
+หทัยชนก	O	O
+/s	O	O
+นาจพินิจ	O	O
+/s	O	O
+อาจารย์	O	O
+วิชา	O	O
+อุตสาหกรรม	O	O
+โปรแกรม	O	O
+ท่องเที่ยว	O	O
+และ	O	O
+การ	O	O
+โรงแรม	O	O
+/s	O	O
+สถาบันราชภัฎ	O	O
+สวนดุสิต	O	O
+/s	O	O
+หนึ่ง	O	O
+ใน	O	O
+ทีม	O	O
+งาน	O	O
+ของ	O	O
+สวนดุสิต	O	O
+ที่	O	O
+จะ	O	O
+เข้าร่วม	O	O
+สมทบ	O	O
+กับ	O	O
+ทีม	O	O
+งาน	O	O
+การบินไทย	O	O
+/s	O	O
+การ	O	O
+เตรียมพร้อม	O	O
+ของ	O	O
+ทีม	O	O
+งาน	O	O
+สวนดุสิต	O	O
+ว่า	O	O
+/s	O	O
+สวนดุสิต	O	O
+จะ	O	O
+มี	O	O
+ทีม	O	O
+งาน	O	O
+ไป	O	O
+ร่วม	O	O
+ทั้งหมด	O	O
+/s	O	O
+277	O	O
+/s	O	O
+คน	O	O
+/s	O	O
+ส่วนใหญ่	O	O
+เป็น	O	O
+นัก	O	O
+ศึกษา	O	O
+ของ	O	O
+สถาบัน	O	O
+/s	O	O
+ปี	O	O
+/s	O	O
+3	O	O
+/s	O	O
+และ	O	O
+ปี	O	O
+/s	O	O
+4	O	O
+/s	O	O
+จาก	O	O
+คณะ	O	O
+คหกรรมศาสตร์	O	O
+/s	O	O
+โปรแกรม	O	O
+ธุรกิจ	O	O
+การ	O	O
+ท่องเที่ยว	O	O
+และ	O	O
+การ	O	O
+โรงแรม	O	O
+/s	O	O
+คณะ	O	O
+นิเทศศาสตร์	O	O
+/s	O	O
+โปรแกรม	O	O
+ภาษา	O	O
+อังกฤษ	O	O
+ทาง	O	O
+สถาบันราชภัฎ	O	O
+/s	O	O
+สวนดุสิต	O	O
+/s	O	O
+ได้	O	O
+ใช้	O	O
+วิธีการ	O	O
+เปิด	O	O
+รับ	O	O
+สมัคร	O	O
+การ	O	O
+เตรียมพร้อม	O	O
+ต่างๆ	O	O
+ที่	O	O
+/s	O	O
+ครัว	O	O
+การบินไทย	O	O
+/s	O	O
+ร่วม	O	O
+งาน	O	O
+กับ	O	O
+การบินไทย	O	O
+บ้าง	O	O
+แล้ว	O	O
+/s	O	O
+ประกอบกับ	O	O
+สวนดุสิต	O	O
+เคย	O	O
+ได้	O	O
+เตรียมพร้อม	O	O
+มา	O	O
+บ้าง	O	O
+เปลี่ยน	O	O
+ไป	O	O
+ให้	O	O
+การบินไทย	O	O
+/s	O	O
+เป็น	O	O
+ผู้	O	O
+รับผิดชอบ	O	O
+แทน	O	O
+ทาง	O	O
+สถาบัน	O	O
+จะ	O	O
+มี	O	O
+การ	O	O
+ให้	O	O
+คะแนน	O	O
+ความสามารถ	O	O
+อาจารย์	O	O
+/s	O	O
+หทัยชนก	O	O
+/s	O	O
+ยืนยัน	O	O
+ความ	O	O
+พร้อม	O	O
+นัก	O	O
+ศึกษา	O	O
+ความ	O	O
+มั่นอกมั่นใจ	O	O
+ของ	O	O
+ทีม	O	O
+งาน	O	O
+การบินไทย	O	O
+อย่างไรก็ตาม	O	O
+คณะ	O	O
+กรรมการ	O	O
+จัดการ	O	O
+แข่งขัน	O	O
+ได้	O	O
+แสดง	O	O
+ความ	O	O
+เป็น	O	O
+ห่วง	O	O
+ทีม	O	O
+งาน	O	O
+ของ	O	O
+การบินไทย	O	O
+ให้	O	O
+เตรียม	O	O
+รับมือ	O	O
+ให้	O	O
+ดี	O	O
+พลตรี	O	O
+จารึก	O	O
+/s	O	O
+อารีราชการัณย์	O	O
+/s	O	O
+เลขาธิการ	O	O
+คณะ	O	O
+กรรมการ	O	O
+จัดการ	O	O
+แข่งขัน	O	O
+กีฬา	O	O
+เอเชี่ยน	O	O
+เกมส์	O	O
+/s	O	O
+ครั้ง	O	O
+ที่	O	O
+/s	O	O
+13	O	O
+/s	O	O
+แสดง	O	O
+ความ	O	O
+เป็น	O	O
+ห่วง	O	O
+ใน	O	O
+การ	O	O
+รับมือ	O	O
+กับ	O	O
+ผู้	O	O
+ที่	O	O
+รู้สึก	O	O
+หิว	O	O
+พลตรี	O	O
+จารึก	O	O
+/s	O	O
+เล่า	O	O
+ว่า	O	O
+/s	O	O
+การ	O	O
+จัด	O	O
+มหกรรม	O	O
+กีฬา	O	O
+ใหญ่ๆ	O	O
+อยาก	O	O
+ฝาก	O	O
+บอก	O	O
+การบินไทย	O	O
+ว่า	O	O
+/s	O	O
+ในขณะนี้	O	O
+ชาติ	O	O
+ใน	O	O
+เอเชีย	O	O
+หลาย	O	O
+ๆ	O	O
+ประเทศ	O	O
+บอก	O	O
+ผ่าน	O	O
+มา	O	O
+ว่า	O	O
+เช่น	O	O
+/s	O	O
+อินโดนีเซีย	O	O
+/s	O	O
+ตอน	O	O
+แรก	O	O
+จะ	O	O
+ส่ง	O	O
+มา	O	O
+ถึง	O	O
+/s	O	O
+500-700	O	O
+/s	O	O
+คน	O	O
+ปัญหา	O	O
+เศรษฐกิจ	O	O
+ใน	O	O
+ภูมิภาค	O	O
+เอเชีย	O	O
+เป็น	O	O
+ปัจจัย	O	O
+สำคัญ	O	O
+ที่	O	O
+ทำให้	O	O
+ชาติ	O	O
+ต่างๆ	O	O
+ใน	O	O
+เอเชีย	O	O
+ต้อง	O	O
+ตัด	O	O
+ทอน	O	O
+งบ	O	O
+ประมาณการ	O	O
+ซึ่ง	O	O
+คณะ	O	O
+กรรมการ	O	O
+จัดการ	O	O
+แข่งขัน	O	O
+จะ	O	O
+สรุป	O	O
+ยอด	O	O
+นักกีฬา	O	O
+อย่าง	O	O
+เป็น	O	O
+ทางการ	O	O
+มือ	O	O
+อาชีพ	O	O
+อย่าง	O	O
+การบินไทย	O	O
+/s	O	O
+ที่	O	O
+มี	O	O
+ประสบการณ์	O	O
+การ	O	O
+บริการ	O	O
+อาหาร	O	O
+ผู้อำนวยการ	O	O
+ฝ่าย	O	O
+ภัตตาคาร	O	O
+และ	O	O
+โภชนาการ	O	O
+/s	O	O
+การบินไทย	O	O
+/s	O	O
+ได้	O	O
+พูด	O	O
+ถึง	O	O
+เรื่อง	O	O
+นี้	O	O
+ด้วย	O	O
+ความ	O	O
+วิตก	O	O
+กังวล	O	O
+เนื่องจาก	O	O
+กระทรวง	O	O
+การคลัง	O	org
+ที่	O	O
+เป็น	O	O
+เจ้าของ	O	O
+การ	O	O
+ก่อสร้าง	O	O
+โรง	O	O
+ครัว	O	O
+ฝากท้อง	O	O
+ไว้	O	O
+ที่	O	O
+ครัว	O	O
+การบินไทย	O	O
+/s	O	O
+ครัว	O	O
+แห่ง	O	O
+บางกอก	O	O
+เกมส์	O	O
+คลินตัน	O	O
+ปลื้ม	O	O
+สภา	O	O
+ล่าง	O	O
+ลง	O	O
+มติ	O	O
+ต่อ	O	O
+สถานะ	O	O
+เอ็มเอฟเอ็น	O	O
+แก่	O	O
+จีน	O	O
+อีก	O	O
+ปี	O	O
+ด้าน	O	O
+ปักกิ่ง	O	O
+ได้	O	O
+คืบ	O	O
+จะ	O	O
+เอา	O	O
+ศอก	O	O
+/s	O	O
+ชม	O	O
+เปาะ	O	O
+/s	O	O
+ส.ส.	O	O
+อเมริกัน	O	O
+ตัดสินใจ	O	O
+ถูก	O	O
+/s	O	O
+แต่	O	O
+จะ	O	O
+ดี	O	O
+ยิ่ง	O	O
+ขึ้น	O	O
+หาก	O	O
+คองเกรส	O	O
+ยอม	O	O
+ให้	O	O
+สถานภาพ	O	O
+พิเศษ	O	O
+ทาง	O	O
+การค้า	O	O
+การ	O	O
+ปฏิบัติ	O	O
+ทาง	O	O
+การค้า	O	O
+ที่	O	O
+ไม่	O	O
+เป็น	O	O
+ธรรม	O	O
+ของ	O	O
+จีน	O	O
+สภา	O	O
+ผู้แทนราษฎร	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ก็	O	O
+อนุมัติ	O	O
+ด้วย	O	O
+คะแนน	O	O
+/s	O	O
+264-166	O	O
+/s	O	O
+ให้	O	O
+ต่ออายุ	O	O
+สถานะ	O	O
+ประเทศ	O	O
+ที่	O	O
+สมควร	O	O
+ได้รับ	O	O
+ความ	O	O
+อนุเคราะห์	O	O
+ยิ่ง	O	O
+/s	O	O
+(	O	O
+เอ็มเอฟเอ็น	O	O
+)	O	O
+/s	O	O
+แก่	O	O
+จีน	O	O
+อีก	O	O
+หนึ่ง	O	O
+ปี	O	O
+/s	O	O
+ประธานาธิบดี	O	O
+บิลล์	O	O
+/s	O	O
+คลินตัน	O	O
+ที่	O	O
+ผลักดัน	O	O
+อย่าง	O	O
+หนัก	O	O
+ให้	O	O
+มี	O	O
+การ	O	O
+ต่ออายุ	O	O
+เอ็มเอฟเอ็น	O	O
+แก่	O	O
+จีน	O	O
+มา	O	O
+ทุก	O	O
+ปี	O	O
+การ	O	O
+ตัดสินใจ	O	O
+ของ	O	O
+สภา	O	O
+ล่าง	O	O
+สะท้อน	O	O
+ว่า	O	O
+/s	O	O
+นโยบาย	O	O
+เกี่ยวพัน	O	O
+เชิง	O	O
+สร้างสรรค์	O	O
+ต่อ	O	O
+จีน	O	O
+เป็น	O	O
+แนวทาง	O	O
+ที่	O	O
+ดี	O	O
+ที่สุด	O	O
+ต่อ	O	O
+ผลประโยชน์	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+เช่นเดียวกับ	O	O
+จีน	O	O
+และ	O	O
+ฮ่องกง	O	O
+ที่	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+นี่	O	O
+เป็น	O	O
+การ	O	O
+ตัดสินใจ	O	O
+ที่	O	O
+ชาญฉลาด	O	O
+สัมพันธภาพ	O	O
+ทาง	O	O
+การค้า	O	O
+ระหว่าง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+และ	O	O
+จีน	O	O
+ก้าว	O	O
+ไป	O	O
+ข้างหน้า	O	O
+/s	O	O
+ปักกิ่ง	O	O
+ยัง	O	O
+แสดง	O	O
+ความ	O	O
+หวัง	O	O
+ว่า	O	O
+จะ	O	O
+ได้รับ	O	O
+สถานะ	O	O
+พิเศษ	O	O
+ทาง	O	O
+การค้า	O	O
+เป็น	O	O
+การ	O	O
+ถาวร	O	O
+จาก	O	O
+วอชิงตัน	O	O
+นัก	O	O
+วิเคราะห์	O	O
+หลาย	O	O
+คน	O	O
+เชื่อ	O	O
+ว่า	O	O
+/s	O	O
+คองเกรส	O	O
+หรือ	O	O
+รัฐสภา	O	O
+อเมริกัน	O	O
+/s	O	O
+จะ	O	O
+ไม่	O	O
+มี	O	O
+ทาง	O	O
+สนอง	O	O
+ความ	O	O
+ต้องการ	O	O
+ดังกล่าว	O	O
+จนกว่า	O	O
+จีน	O	O
+จะ	O	O
+เปิด	O	O
+ตลาด	O	O
+และ	O	O
+เข้า	O	O
+เป็น	O	O
+สมาชิก	O	O
+ใน	O	O
+องค์การ	O	O
+การค้า	O	O
+โลก	O	O
+/s	O	O
+(	O	O
+ดับบลิวทีโอ	O	O
+)	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+ยัง	O	O
+ประกาศ	O	O
+เปลี่ยน	O	O
+สถานะ	O	O
+เอ็มเอฟเอ็น	O	O
+/s	O	O
+เป็น	O	O
+/s	O	O
+"	O	O
+ความ	O	O
+สัมพันธ์	O	O
+ทาง	O	O
+การค้า	O	O
+ใน	O	O
+ระดับ	O	O
+ปกติ	O	O
+"	O	O
+/s	O	O
+(	O	O
+เอ็นทีอาร์	O	O
+)	O	O
+แถลงการณ์	O	O
+ดังกล่าว	O	O
+ของ	O	O
+คลินตัน	O	O
+ตอก	O	O
+ย้ำ	O	O
+แนวคิด	O	O
+ที่	O	O
+ว่าความ	O	O
+สัมพันธ์	O	O
+ทาง	O	O
+การค้า	O	O
+ระดับ	O	O
+ปกติ	O	O
+กับ	O	O
+จีน	O	O
+จะ	O	O
+ช่วย	O	O
+กระชับ	O	O
+ความ	O	O
+สัมพันธ์	O	O
+โน้มน้าว	O	O
+ให้	O	O
+จีน	O	O
+เปิด	O	O
+ตลาด	O	O
+ขณะที่	O	O
+ผู้	O	O
+ให้การ	O	O
+สนับสนุน	O	O
+การ	O	O
+ต่อ	O	O
+สถานะ	O	O
+เอ็มเอฟเอ็น	O	O
+แก่	O	O
+จีน	O	O
+แสดง	O	O
+ทัศนะ	O	O
+ว่า	O	O
+การ	O	O
+ให้	O	O
+ความ	O	O
+ร่วมมือ	O	O
+ของ	O	O
+จีน	O	O
+ใน	O	O
+การ	O	O
+แก้	O	O
+ปัญหา	O	O
+ต่างๆ	O	O
+ใน	O	O
+ตลาด	O	O
+เอเชีย	O	O
+/s	O	O
+สำหรับ	O	O
+ผู้	O	O
+บริโภค	O	O
+อเมริกัน	O	O
+จะ	O	O
+ได้รับ	O	O
+ผลกระทบ	O	O
+ใน	O	O
+รูป	O	O
+ของ	O	O
+สินค้า	O	O
+นำเข้า	O	O
+จาก	O	O
+จีน	O	O
+ที่	O	O
+มี	O	O
+ราคา	O	O
+แพง	O	O
+ขึ้น	O	O
+สาเหตุ	O	O
+ที่	O	O
+คองเกรส	O	O
+ต้อง	O	O
+เปิด	O	O
+อภิปราย	O	O
+ประเด็น	O	O
+นี้	O	O
+เป็น	O	O
+ประจำ	O	O
+ทุก	O	O
+ปี	O	O
+ช่องว่าง	O	O
+ทาง	O	O
+การค้า	O	O
+ที่	O	O
+ถ่าง	O	O
+กว้าง	O	O
+ขึ้น	O	O
+ระหว่าง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+กับ	O	O
+จีน	O	O
+โดย	O	O
+คาด	O	O
+ว่า	O	O
+ปี	O	O
+นี้	O	O
+วอชิงตัน	O	O
+จะ	O	O
+ขาด	O	O
+ดุลการค้า	O	O
+จีน	O	O
+ถึง	O	O
+/s	O	O
+63,000	O	O
+/s	O	O
+ล้านดอลล	O	O
+ลาร์	O	O
+เป็น	O	O
+ผล	O	O
+จาก	O	O
+การ	O	O
+ที่	O	O
+จีน	O	O
+ตั้ง	O	O
+ป้อม	O	O
+ปราการ	O	O
+ปกป้อง	O	O
+ตลาด	O	O
+ริชาร์ด	O	O
+/s	O	O
+เกพฮาร์ดต์	O	O
+/s	O	O
+ประธาน	O	O
+ส.ส.	O	O
+เสียง	O	O
+ข้าง	O	O
+น้อย	O	O
+ของ	O	O
+เดโมแครต	O	O
+ใน	O	O
+สภา	O	O
+สัมพันธภาพ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+-	O	O
+จีน	O	O
+ไม่	O	O
+มี	O	O
+ความ	O	O
+คืบหน้า	O	O
+แต่อย่างใด	O	O
+ดังนั้น	O	O
+/s	O	O
+เอ็มเอฟเอ็น	O	O
+/s	O	O
+จึง	O	O
+ถือเป็น	O	O
+นโยบาย	O	O
+ที่	O	O
+ล้มเหลว	O	O
+คองเกรส	O	O
+หรือ	O	O
+รัฐสภา	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ยัง	O	O
+ต้อง	O	O
+พิจารณา	O	O
+มาตรการ	O	O
+อื่นๆ	O	O
+ที่	O	O
+เกี่ยวข้อง	O	O
+กับ	O	O
+จีน	O	O
+กลุ่ม	O	O
+เคลื่อนไหว	O	O
+ทาง	O	O
+ศาสนา	O	O
+ใน	O	O
+แดน	O	O
+มังกร	O	O
+ข้อจำกัด	O	O
+ใน	O	O
+การ	O	O
+อนุญาต	O	O
+ให้	O	O
+จีน	O	O
+ปล่อย	O	O
+ดาวเทียม	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ประเด็น	O	O
+นโยบาย	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ต่อ	O	O
+จีน	O	O
+รับประทาน	O	O
+อาหาร	O	O
+กับ	O	O
+นาย	O	O
+โรเบิร์ต	per_start	O
+/s	per_cont	O
+รูบิน	per_end	O
+/s	O	O
+รัฐมนตรีว่าการ	O	O
+กระทรวง	O	O
+การคลัง	O	org
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+กับ	O	O
+คณะ	O	O
+กรรมการ	O	O
+ร่วม	O	O
+ภาค	O	O
+เอกชน	O	O
+/s	O	O
+(	O	O
+กกร.	O	O
+)	O	O
+/s	O	O
+ประกอบด้วย	O	O
+สมาคม	O	O
+ธนาคารไทย	O	O
+/s	O	O
+สมาคม	O	O
+หอ	O	O
+การค้า	O	O
+ไทย	O	O
+/s	O	O
+และ	O	O
+สภา	O	O
+อุตสาหกรรม	org_start	org_start
+แห่ง	org_cont	org_cont
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+ที่	O	O
+รร.	O	O
+โอเรียนเต็ล	O	O
+วาน	O	O
+นี้	O	O
+/s	O	O
+ทั้ง	O	O
+/s	O	O
+3	O	O
+/s	O	O
+สมาคม	O	O
+มี	O	O
+ข้อเสนอ	O	O
+ที่	O	O
+ตรงกัน	O	O
+คือ	O	O
+หวัง	O	O
+ให้	O	O
+รมว.	O	O
+คลัง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ดึง	O	O
+นัก	O	O
+ลงทุน	O	O
+ต่าง	O	O
+ชาติ	O	O
+เข้า	O	O
+มา	O	O
+ลงทุน	O	O
+ใน	O	O
+ประเทศ	O	O
+ไทย	O	O
+มาก	O	O
+ขึ้น	O	O
+โดย	O	O
+สมาคม	O	O
+ธนาคารไทย	O	O
+เน้น	O	O
+ให้	O	O
+รัฐบาล	O	O
+อังกฤษ	O	O
+แก้	O	O
+กฎหมาย	O	O
+"	O	O
+สิ่ง	O	O
+ที่	O	O
+เรา	O	O
+ต้องการ	O	O
+และ	O	O
+ได้	O	O
+เสนอ	O	O
+ต่อ	O	O
+นาย	O	O
+รูบิน	per	O
+คือ	O	O
+/s	O	O
+หวัง	O	O
+ให้	O	O
+นัก	O	O
+ลงทุน	O	O
+สหรัฐ	O	O
+ฯ	O	O
+เพิ่ม	O	O
+การ	O	O
+ลงทุน	O	O
+ใน	O	O
+ไทย	O	O
+เพิ่ม	O	O
+มาก	O	O
+ขึ้น	O	O
+เข้า	O	O
+มา	O	O
+ลงทุน	O	O
+ใน	O	O
+ประเทศ	O	O
+ไทย	O	O
+ตาม	O	O
+สหรัฐ	O	O
+ฯ	O	O
+"	O	O
+/s	O	O
+นาย	O	O
+วิเชียร	per_start	O
+/s	per_cont	O
+เตชะไพบูลย์	per_end	O
+/s	O	O
+ประธาน	O	O
+หอ	O	O
+การค้า	O	O
+ไทย	O	O
+กล่าว	O	O
+เช่นเดียวกัน	O	O
+นาย	O	O
+ทวี	per_start	O
+/s	per_cont	O
+บุตรสุนทร	per_end	O
+/s	O	O
+ประธาน	O	O
+สภา	O	O
+อุตสาหกรรม	org_start	org_start
+แห่ง	org_cont	org_cont
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+(	O	O
+สอท.	O	O
+)	O	O
+/s	O	O
+ระบุ	O	O
+ว่า	O	O
+/s	O	O
+ทั้งนี้	O	O
+นาย	O	O
+รูบิน	per	O
+มอง	O	O
+ว่า	O	O
+ทาง	O	O
+รัฐบาล	O	O
+ไทย	O	O
+และ	O	O
+เกาหลี	O	O
+สามารถ	O	O
+ที่	O	O
+จะ	O	O
+ฝ่า	O	O
+วิกฤตการณ์	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+ได้	O	O
+นาย	O	O
+ชาติศิริ	per_start	O
+/s	per_cont	O
+โสภณพนิช	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+ใหญ่	O	O
+/s	O	O
+ธนาคาร	O	O
+กรุงเทพ	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+นัก	O	O
+ลงทุน	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ต้องการ	O	O
+ให้	O	O
+รัฐบาล	O	O
+ไทย	O	O
+เร่ง	O	O
+แก้	O	O
+กฎหมาย	O	O
+เพื่อให้	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ต่าง	O	O
+ชาติ	O	O
+มี	O	O
+สิทธิ	O	O
+ที่	O	O
+เท่าเทียม	O	O
+กับ	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ใน	O	O
+ประเทศ	O	O
+นาย	O	O
+บัณฑูร	per_start	O
+/s	per_cont	O
+ล่ำซำ	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+/s	O	O
+ธนาคาร	O	O
+กสิกรไทย	org	org
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+และ	O	O
+ประธาน	O	O
+สมาคม	O	O
+ธนาคารไทย	O	O
+กล่าว	O	O
+เรื่อง	O	O
+ดอกเบี้ย	O	O
+ยัง	O	O
+ไม่	O	O
+คืบหน้า	O	O
+/s	O	O
+ทาง	O	O
+นาย	O	O
+ชาติศิริ	per	O
+กล่าว	O	O
+ว่า	O	O
+รมว.	O	O
+คลัง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+บอก	O	O
+ว่า	O	O
+/s	O	O
+ซึ่ง	O	O
+ขณะนี้	O	O
+ทาง	O	O
+ธนาคาร	O	O
+แห่ง	org_start	org_start
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+(	O	O
+ธปท.	O	org
+)	O	O
+/s	O	O
+ได้	O	O
+เร่ง	O	O
+ดำเนินการ	O	O
+ประกอบกับ	O	O
+อัตรา	O	O
+แลกเปลี่ยน	O	O
+ของ	O	O
+ไทย	O	O
+ยัง	O	O
+ไม่	O	O
+คงที่	O	O
+นาย	O	O
+บัณฑูร	per	O
+กล่าว	O	O
+นาย	O	O
+สมโภชน์	per_start	O
+/s	per_cont	O
+อินทรานุกูล	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+ใหญ่	O	O
+/s	O	O
+ธนาคาร	O	O
+นครหลวงไทย	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+เพราะ	O	O
+แบงก์	O	O
+แต่ละ	O	O
+แบงก์	O	O
+มี	O	O
+ต้นทุน	O	O
+การเงิน	O	O
+อยู่	O	O
+นาย	O	O
+ปิยะบุตร	per_start	O
+/s	per_cont	O
+ชลวิจารณ์	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+ใหญ่	O	O
+/s	O	O
+ธนาคาร	O	O
+สหธนาคาร	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+กล่าวถึง	O	O
+สาเหตุ	O	O
+เนื่องจาก	O	O
+ใน	O	O
+ด้าน	O	O
+ของ	O	O
+อินเตอร์แบงก์	O	O
+เรต	O	O
+ไม่	O	O
+มี	O	O
+การ	O	O
+หมุนเวียน	O	O
+/s	O	O
+แม้	O	O
+ดอกเบี้ย	O	O
+ด้าน	O	O
+อาร์พี	O	O
+จะ	O	O
+ลด	O	O
+ลง	O	O
+ก็ตาม	O	O
+/s	O	O
+นาย	O	O
+ศิรินทร์	per_start	O
+/s	per_cont	O
+นิมมานเหมินท์	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+ใหญ่	O	O
+/s	O	O
+ธนาคาร	O	O
+กรุงไทย	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+กล่าวถึง	O	O
+การ	O	O
+พบปะ	O	O
+หารือ	O	O
+ร่วม	O	O
+กับ	O	O
+กกร.	O	O
+ครั้ง	O	O
+นี้	O	O
+ปัญหา	O	O
+ของ	O	O
+เศรษฐกิจ	O	O
+อังกฤษ	O	O
+ที่	O	O
+เกิด	O	O
+ขึ้น	O	O
+และ	O	O
+ปัญหา	O	O
+ใน	O	O
+ภูมิภาค	O	O
+เอเชีย	O	O
+มาก	O	O
+กว่าที่	O	O
+จะ	O	O
+ให้	O	O
+ความ	O	O
+ช่วยเหลือ	O	O
+ประเทศ	O	O
+ไทย	O	O
+แต่	O	O
+สิ่ง	O	O
+ที่	O	O
+นาย	O	O
+รูบิน	per	O
+ต้องการ	O	O
+คือ	O	O
+ให้	O	O
+ทางการ	O	O
+รักษา	O	O
+สมดุล	O	O
+เรื่อง	O	O
+ซึ่ง	O	O
+ขณะนี้	O	O
+ทาง	O	O
+รัฐบาล	O	O
+ไทย	O	O
+ก็	O	O
+จับตา	O	O
+และ	O	O
+ดูแล	O	O
+อยู่	O	O
+"	O	O
+นาย	O	O
+วิโรจน์	per_start	O
+/s	per_cont	O
+อมตะกูลชัย	per_end	O
+/s	O	O
+เลขาธิการ	O	O
+สภา	O	O
+หอ	O	O
+การค้าไทย	O	O
+/s	O	O
+ระบุ	O	O
+ว่า	O	O
+/s	O	O
+มาเลเซีย	O	O
+เผย	O	O
+แผน	O	O
+ฟื้นฟู	O	O
+เศรษฐกิจ	O	org_start
+แห่ง	O	org_cont
+ชาติ	O	org_end
+/s	O	O
+จะ	O	O
+ยอม	O	O
+ให้	O	O
+ชาว	O	O
+ภูมิบุตร	O	O
+ขาย	O	O
+หุ้น	O	O
+ใน	O	O
+บริษัท	O	O
+ธุรกิจ	O	O
+หลาย	O	O
+ประเภท	O	O
+แก่	O	O
+คน	O	O
+มาเลย์	O	O
+ที่	O	O
+ไม่ใช่	O	O
+มุสลิม	O	O
+พร้อม	O	O
+กัน	O	O
+นี้	O	O
+/s	O	O
+ไซนุดดิน	O	O
+/s	O	O
+ซาร์	O	O
+เศรษฐกิจ	O	O
+คู่ใจ	O	O
+นายก	O	O
+ฯ	O	O
+มหาเธร์	O	O
+/s	O	O
+ประมาณการ	O	O
+เศรษฐกิจ	O	O
+มาเลเซีย	O	O
+ปี	O	O
+/s	O	O
+1998-99	O	O
+/s	O	O
+ว่า	O	O
+สภา	O	O
+ปฏิบัติการ	org_start	O
+ทาง	org_cont	O
+เศรษฐกิจ	org_cont	O
+แห่ง	org_cont	O
+ชาติ	org_end	O
+ของ	O	O
+มาเลเซีย	O	O
+ภายใต้	O	O
+การ	O	O
+นำ	O	O
+ของ	O	O
+/s	O	O
+ดาอิม	O	O
+/s	O	O
+ไซนุดดิน	O	O
+/s	O	O
+รัฐมนตรี	O	O
+ดูแล	O	O
+ภารกิจ	O	O
+พิเศษ	O	O
+หรือ	O	O
+ที่	O	O
+ขนานนาม	O	O
+กัน	O	O
+ว่า	O	O
+ซาร์	O	O
+เศรษฐกิจ	O	O
+/s	O	O
+ประกาศ	O	O
+แผน	O	O
+ฟื้นฟู	O	O
+เศรษฐกิจ	O	O
+แห่ง	O	O
+ชาติ	O	O
+ชุด	O	O
+ใหญ่	O	O
+เมื่อวาน	O	O
+นี้	O	O
+ซาร์	O	O
+เศรษฐกิจ	O	O
+มาเลเซีย	O	O
+/s	O	O
+ดาอิม	O	O
+/s	O	O
+เผย	O	O
+ว่า	O	O
+การ	O	O
+อนุมัติ	O	O
+จาก	O	O
+คณะ	O	O
+รัฐมนตรี	O	O
+มี	O	O
+จุดมุ่งหมาย	O	O
+เพื่อ	O	O
+ประคับประคอง	O	O
+มาเลเซีย	O	O
+ให้	O	O
+ปลอด	O	O
+พ้น	O	O
+จาก	O	O
+ภาวะ	O	O
+เศรษฐกิจ	O	O
+ถดถอย	O	O
+สภา	O	O
+ปฏิบัติการ	org_start	O
+ทาง	org_cont	O
+เศรษฐกิจ	org_cont	O
+แห่ง	org_cont	O
+ชาติ	org_end	O
+ประมาณการ	O	O
+เป็น	O	O
+ตัวเลข	O	O
+ดาอิม	O	O
+ออกปาก	O	O
+ไว้	O	O
+ชัดเจน	O	O
+ใน	O	O
+เรื่อง	O	O
+นี้	O	O
+ว่า	O	O
+ห้าม	O	O
+นัก	O	O
+ลงทุน	O	O
+ต่าง	O	O
+ชาติ	O	O
+ถือ	O	O
+หุ้น	O	O
+ใน	O	O
+ธนาคาร	O	O
+ท้องถิ่น	O	O
+มี	O	O
+การ	O	O
+สถาปนา	O	O
+หน่วยงาน	O	O
+ประกันภัย	O	O
+กรณี	O	O
+ธนาคาร	O	O
+ล้ม	O	O
+บริษัท	O	O
+ประกัน	O	O
+เงิน	O	O
+ฝาก	O	O
+ของ	O	O
+สหรัฐอเมริกา	O	O
+/s	O	O
+ยอม	O	O
+ให้	O	O
+คน	O	O
+มาเลเซีย	O	O
+ที่	O	O
+ไม่ใช่	O	O
+ชาว	O	O
+ภูมิบุตรา	O	O
+หรือ	O	O
+ที่	O	O
+เข้าใจ	O	O
+กัน	O	O
+ทั่วไป	O	O
+ว่า	O	O
+เป็น	O	O
+คน	O	O
+มาเลย์	O	O
+/s	O	O
+เชื้อสาย	O	O
+มุสลิม	O	O
+/s	O	O
+ตลอดจน	O	O
+นัก	O	O
+ลงทุน	O	O
+ต่าง	O	O
+ชาติ	O	O
+/s	O	O
+สามารถ	O	O
+ซื้อ	O	O
+หุ้น	O	O
+ใน	O	O
+บริษัท	O	O
+ธุรกิจ	O	O
+มาเลย์	O	O
+ได้	O	O
+ดาอิม	O	O
+กล่าว	O	O
+ว่า	O	O
+สภา	O	O
+ปฏิบัติการ	org_start	O
+ทาง	org_cont	O
+เศรษฐกิจ	org_cont	O
+แห่ง	org_cont	O
+ชาติ	org_end	O
+ยัง	O	O
+เปิดเผย	O	O
+ถึง	O	O
+การ	O	O
+วิเคราะห์	O	O
+ของ	O	O
+สภา	O	O
+ฯ	O	O
+/s	O	O
+มาเลเซีย	O	O
+หนี	O	O
+ไม่	O	O
+พ้น	O	O
+ภาวะ	O	O
+เศรษฐกิจ	O	O
+ถดถอย	O	O
+อันวาร์	O	O
+/s	O	O
+อิบราฮิม	O	O
+/s	O	O
+รมว.	O	O
+คลัง	O	O
+มาเลเซีย	O	O
+ได้	O	O
+ประกาศ	O	O
+ปรับ	O	O
+ลด	O	O
+ประมาณการณ์	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+มาเลเซีย	O	O
+ปี	O	O
+/s	O	O
+1998	O	O
+/s	O	O
+อย่างไรก็ตาม	O	O
+/s	O	O
+ดาอิม	O	O
+เตือน	O	O
+ไว้	O	O
+ดาอิม	O	O
+กล่าว	O	O
+อย่าง	O	O
+นั้น	O	O
+/s	O	O
+สายการบิน	O	O
+นอร์ธเวสต์	O	O
+/s	O	O
+แจ้ง	O	O
+ผล	O	O
+ดำเนินงาน	O	O
+ไตรมาส	O	O
+/s	O	O
+2	O	O
+/s	O	O
+กำไร	O	O
+สุทธิ	O	O
+/s	O	O
+49	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+ส่ง	O	O
+ผล	O	O
+ให้	O	O
+สายการบิน	O	O
+ทั่ว	O	O
+โลก	O	O
+ต้อง	O	O
+ได้รับ	O	O
+ผลกระทบ	O	O
+นอร์ธเวสต์	O	O
+/s	O	O
+แอร์ไลนส์	O	O
+/s	O	O
+คอร์ปอเรชั่น	O	O
+/s	O	O
+(	O	O
+NASDAQ	O	O
+/s	O	O
+:	O	O
+/s	O	O
+NWAC	O	O
+)	O	O
+/s	O	O
+ได้	O	O
+รายงาน	O	O
+ผล	O	O
+ประกอบการ	O	O
+ว่า	O	O
+/s	O	O
+บริษัท	O	O
+ฯ	O	O
+มี	O	O
+กำไร	O	O
+สุทธิ	O	O
+เป็น	O	O
+จำนวน	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+49	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+เปรียบเทียบ	O	O
+กับ	O	O
+/s	O	O
+136	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+ของ	O	O
+ไตรมาส	O	O
+เดียวกัน	O	O
+มี	O	O
+มูลค่า	O	O
+/s	O	O
+120	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+ลด	O	O
+ลง	O	O
+จาก	O	O
+/s	O	O
+291	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+กระจาย	O	O
+หุ้น	O	O
+อยู่	O	O
+ที่	O	O
+/s	O	O
+0.51	O	O
+/s	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+นอร์ธเวสต์	O	O
+/s	O	O
+มี	O	O
+รายได้	O	O
+รวม	O	O
+ของ	O	O
+ไตรมาส	O	O
+ที่	O	O
+สอง	O	O
+คิด	O	O
+เป็น	O	O
+/s	O	O
+2,476	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+เพิ่ม	O	O
+ขึ้น	O	O
+เป็น	O	O
+/s	O	O
+2,356	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+จาก	O	O
+/s	O	O
+2,267	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+ของ	O	O
+ไตรมาส	O	O
+เดียวกัน	O	O
+ปริมาณ	O	O
+ผู้	O	O
+โดยสาร	O	O
+/s	O	O
+(	O	O
+Revenue	O	O
+/s	O	O
+Passenger	O	O
+/s	O	O
+Miles-RPMs	O	O
+)	O	O
+/s	O	O
+ประจำ	O	O
+ไตรมาส	O	O
+จาก	O	O
+ระดับ	O	O
+/s	O	O
+18,142	O	O
+/s	O	O
+ล้าน	O	O
+/s	O	O
+RPMs	O	O
+/s	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+2540	O	O
+/s	O	O
+เป็น	O	O
+/s	O	O
+18,352	O	O
+/s	O	O
+ล้าน	O	O
+/s	O	O
+RPMs	O	O
+/s	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+2541	O	O
+/s	O	O
+ในขณะที่	O	O
+รายได้	O	O
+ต่อ	O	O
+ที่นั่ง	O	O
+/s	O	O
+(	O	O
+Available	O	O
+/s	O	O
+Seat	O	O
+/s	O	O
+Miles-ASMs	O	O
+)	O	O
+/s	O	O
+ลด	O	O
+ลง	O	O
+ร้อยละ	O	O
+/s	O	O
+1.7	O	O
+/s	O	O
+จาก	O	O
+ระดับ	O	O
+/s	O	O
+24,225	O	O
+/s	O	O
+ล้าน	O	O
+/s	O	O
+ASMs	O	O
+/s	O	O
+ใน	O	O
+ปี	O	O
+/s	O	O
+2540	O	O
+/s	O	O
+เป็น	O	O
+/s	O	O
+23,820	O	O
+/s	O	O
+ล้าน	O	O
+/s	O	O
+ASMs	O	O
+/s	O	O
+เมื่อ	O	O
+สิ้นสุด	O	O
+ไตรมาส	O	O
+/s	O	O
+นอร์ธเวสต์	O	O
+มี	O	O
+สภาพ	O	O
+คล่อง	O	O
+ทาง	O	O
+การเงิน	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+3,039	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+ผล	O	O
+กำไร	O	O
+ต่อ	O	O
+หุ้น	O	O
+หลัง	O	O
+กระจาย	O	O
+หุ้น	O	O
+อยู่	O	O
+ที่	O	O
+/s	O	O
+1.17	O	O
+/s	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+เทียบ	O	O
+กับ	O	O
+/s	O	O
+1.69	O	O
+/s	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+ของ	O	O
+ปี	O	O
+/s	O	O
+2540	O	O
+คณะ	O	O
+กรรมการ	O	O
+ยก	O	O
+ร่าง	O	O
+ปว.	O	O
+281	O	O
+/s	O	O
+มี	O	O
+มติ	O	O
+ให้	O	O
+รมว.	O	O
+พาณิชย์	O	O
+เป็น	O	O
+ผู้	O	O
+มี	O	O
+สิทธิ	O	O
+อนุมัติ	O	O
+ให้	O	O
+อำนาจ	O	O
+อธิบดี	O	O
+กรม	O	O
+ทะเบียน	O	O
+การค้า	O	O
+เป็น	O	O
+ผู้	O	O
+มี	O	O
+สิทธิ	O	O
+ตรวจสอบ	O	O
+และ	O	O
+กำกับ	O	O
+ดูแล	O	O
+บริษัท	O	O
+ที่	O	O
+ได้รับ	O	O
+อนุมัติ	O	O
+นาย	O	O
+พีระพันธุ	per_start	O
+/s	per_cont	O
+สาลีรัฐวิภาค	per_end	O
+/s	O	O
+รอง	O	O
+เลขาธิการ	O	O
+นายกรัฐมนตรี	O	O
+/s	O	O
+เปิดเผย	O	O
+ภาย	O	O
+หลัง	O	O
+การ	O	O
+ประชุม	O	O
+คณะ	O	O
+กรรมการ	O	O
+ยก	O	O
+ร่าง	O	O
+ประกาศ	O	O
+คณะ	O	O
+ปฏิวัติ	O	O
+ฉบับ	O	O
+ที่	O	O
+/s	O	O
+281	O	O
+/s	O	O
+(	O	O
+ปว.	O	O
+/s	O	O
+281	O	O
+)	O	O
+วาน	O	O
+นี้	O	O
+ว่า	O	O
+/s	O	O
+การ	O	O
+พิจารณา	O	O
+เป็น	O	O
+ของ	O	O
+รัฐมนตรีว่าการ	O	O
+กระทรวง	O	O
+พาณิชย์	O	org
+ใน	O	O
+การ	O	O
+อนุมัติ	O	O
+ให้	O	O
+เข้า	O	O
+มา	O	O
+ประกอบ	O	O
+ธุรกิจ	O	O
+/s	O	O
+ภาคี	O	O
+สนธิสัญญา	O	O
+ข้อตกลง	O	O
+ระหว่าง	O	O
+ประเทศ	O	O
+กับ	O	O
+ไทย	O	O
+ขอ	O	O
+หนังสือรับรอง	O	O
+จาก	O	O
+อธิบดี	O	O
+กรม	O	O
+ทะเบียน	O	O
+การค้า	O	O
+/s	O	O
+ซึ่ง	O	O
+ไทย	O	O
+จะ	O	O
+ให้	O	O
+สิทธิ	O	O
+แก่	O	O
+คน	O	O
+ต่าง	O	O
+ชาติ	O	O
+การ	O	O
+ลงทุน	O	O
+เท่าเทียม	O	O
+กัน	O	O
+แก่	O	O
+ไทย	O	O
+/s	O	O
+การ	O	O
+ให้	O	O
+สิทธิ	O	O
+การ	O	O
+ปฏิบัติ	O	O
+เยี่ยง	O	O
+ชาติ	O	O
+ที่	O	O
+ได้รับ	O	O
+ความ	O	O
+อนุเคราะห์	O	O
+อย่างยิ่ง	O	O
+(	O	O
+MFN	O	O
+)	O	O
+ภายใต้	O	O
+เงื่อนไข	O	O
+ของ	O	O
+องค์การ	O	O
+การค้า	O	O
+โลก	O	O
+(	O	O
+WTO	O	org
+)	O	O
+ให้	O	O
+อำนาจ	O	O
+ของ	O	O
+อธิบดี	O	O
+กรม	O	O
+ทะเบียน	O	O
+การค้า	O	O
+ใน	O	O
+การ	O	O
+กำกับ	O	O
+ดูแล	O	O
+บริษัท	O	O
+ต่าง	O	O
+ชาติ	O	O
+นาย	O	O
+พีระพันธุ	per	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+ทำ	O	O
+ธุรกิจ	O	O
+ใน	O	O
+ไทย	O	O
+ได้	O	O
+ต่อไป	O	O
+แหล่ง	O	O
+ข่าว	O	O
+จาก	O	O
+กระทรวง	O	O
+พาณิชย์	O	org
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+ประกอบ	O	O
+ธุรกิจ	O	O
+ใน	O	O
+ไต้หวัน	O	O
+จะ	O	O
+ต้อง	O	O
+นำ	O	O
+เงิน	O	O
+ลง	O	O
+ทุน	O	O
+เข้า	O	O
+มา	O	O
+เช่น	O	O
+อังกฤษ	O	O
+กำหนด	O	O
+ว่า	O	O
+ต่าง	O	O
+ชาติ	O	O
+ต้อง	O	O
+นำ	O	O
+เงิน	O	O
+เข้า	O	O
+มา	O	O
+ลงทุน	O	O
+/s	O	O
+2	O	O
+/s	O	O
+แสน	O	O
+ปอนด์	O	O
+และ	O	O
+ฟิลิปปินส์	O	O
+ต้อง	O	O
+/s	O	O
+5	O	O
+/s	O	O
+หมื่น	O	O
+ดอลลาร์	O	O
+อย่างไรก็ตาม	O	O
+/s	O	O
+การ	O	O
+พิจารณา	O	O
+ของ	O	O
+ครม.	O	O
+และ	O	O
+คณะ	O	O
+กรรมการ	O	O
+กฤษฎีกา	O	O
+อีก	O	O
+ครั้ง	O	O
+ก่อน	O	O
+นาย	O	O
+ธรรมา	per_start	O
+/s	per_cont	O
+ปิ่นสุกาญจนะ	per_end	O
+/s	O	O
+ประธาน	O	O
+คณะ	O	O
+กรรมการ	O	O
+ภาษี	O	O
+อากร	O	O
+สาย	O	O
+เศรษฐกิจ	O	O
+/s	O	O
+สภา	O	O
+อุตสาหกรรม	org_start	org_start
+แห่ง	org_cont	org_cont
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+(	O	O
+สอท.	O	O
+)	O	O
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+สอท.	O	O
+จะ	O	O
+ทำ	O	O
+หนังสือ	O	O
+ถึง	O	O
+ม.ร.ว.	O	O
+จัตุมงคล	O	O
+/s	O	O
+โสณกุล	O	O
+/s	O	O
+ผู้ว่าการ	O	O
+ธนาคาร	O	O
+แห่ง	org_start	org_start
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+/s	O	O
+(	O	O
+ธปท.	O	org
+)	O	O
+เพื่อ	O	O
+พิจารณา	O	O
+ปรับปรุง	O	O
+เงื่อนไข	O	O
+การ	O	O
+ใช้	O	O
+บัตร	O	O
+เงิน	O	O
+ฝาก	O	O
+(	O	O
+NCD	O	O
+)	O	O
+มี	O	O
+หนังสือ	O	O
+ถึง	O	O
+อธิบดี	O	O
+กรม	O	O
+สรรพากร	O	O
+ให้	O	O
+พิจารณา	O	O
+การ	O	O
+คืน	O	O
+ภาษี	O	O
+มูลค่า	O	O
+เพิ่ม	O	O
+"	O	O
+เงิน	O	O
+ที่	O	O
+ติด	O	O
+อยู่	O	O
+ใน	O	O
+/s	O	O
+NCD	O	O
+/s	O	O
+กับ	O	O
+ตั๋วสัญญาใช้เงิน	O	O
+"	O	O
+นาย	O	O
+ธรรมา	per	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+สำหรับ	O	O
+ข้อเสนอ	O	O
+เกี่ยวกับ	O	O
+การ	O	O
+ใช้	O	O
+/s	O	O
+NCD	O	O
+/s	O	O
+ตั๋วสัญญาใช้เงิน	O	O
+ที่	O	O
+ส่ง	O	O
+ให้	O	O
+ธปท.	O	O
+นับเป็น	O	O
+ครั้ง	O	O
+ที่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ทาง	O	O
+ธปท.	O	O
+ตอบ	O	O
+กลับ	O	O
+มา	O	O
+ไม่	O	O
+สามารถ	O	O
+ดำเนินการ	O	O
+ตามที่	O	O
+ธปท.	O	O
+แจ้ง	O	O
+มา	O	O
+ค้ำประกัน	O	O
+ที่	O	O
+ธนาคาร	O	O
+กรุงไทย	O	O
+แจ้ง	O	O
+ว่า	O	O
+ยัง	O	O
+ต้อง	O	O
+ใช้	O	O
+เวลา	O	O
+อีก	O	O
+/s	O	O
+1	O	O
+/s	O	O
+เดือน	O	O
+/s	O	O
+ดังนั้น	O	O
+สอท.	O	O
+จึง	O	O
+เสนอ	O	O
+ให้	O	O
+ธปท.	O	O
+ปรับ	O	O
+เงื่อนไข	O	O
+หาก	O	O
+ธนาคาร	O	O
+กรุงไทย	O	O
+ยัง	O	O
+ไม่	O	O
+พร้อม	O	O
+ขอ	O	O
+ให้	O	O
+ธปท.	O	O
+อาวัล	O	O
+ตั๋ว	O	O
+และ	O	O
+แจ้ง	O	O
+ให้	O	O
+ธนาคาร	O	O
+พาณิชย์	O	O
+และ	O	O
+สถาบัน	O	O
+การเงิน	O	O
+อื่นๆ	O	O
+ยอมรับ	O	O
+สำเนา	O	O
+ตั๋ว	O	O
+ดังกล่าว	O	O
+อัตรา	O	O
+ดอกเบี้ย	O	O
+รับ	O	O
+ซื้อ	O	O
+คืน	O	O
+ที่	O	O
+ธนาคาร	O	O
+กรุงไทย	O	O
+กำหนด	O	O
+ให้	O	O
+ธปท.	O	O
+กำหนด	O	O
+ให้	O	O
+วงเงิน	O	O
+สินเชื่อ	O	O
+ที่	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ให้	O	O
+แก่	O	O
+ผู้	O	O
+ถือ	O	O
+ตั๋ว	O	O
+/s	O	O
+NCD	O	O
+/s	O	O
+ควร	O	O
+ได้รับ	O	O
+ยกเว้น	O	O
+รับประกัน	O	O
+โดย	O	O
+กองทุน	O	O
+ฟื้นฟู	O	O
+จึง	O	O
+ไม่	O	O
+มี	O	O
+ความ	O	O
+เสี่ยง	O	O
+"	O	O
+นาย	O	O
+ธรรมนูญ	per	O
+กล่าว	O	O
+สำหรับ	O	O
+ข้อเสนอ	O	O
+เรื่อง	O	O
+ภาษี	O	O
+มูลค่า	O	O
+เพิ่ม	O	O
+ที่	O	O
+จะ	O	O
+เสนอ	O	O
+กรม	O	O
+สรรพากร	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+ให้	O	O
+กรม	O	O
+สรรพากร	O	O
+กำหนด	O	O
+ระยะ	O	O
+เวลา	O	O
+การ	O	O
+จ่าย	O	O
+คืน	O	O
+ภาษีมูลค่าเพิ่ม	O	O
+ที่	O	O
+แน่นอน	O	O
+บรรดา	O	O
+รัฐมนตรี	O	O
+ต่าง	O	O
+ประเทศ	O	O
+อาเซียน	O	O
+แสดง	O	O
+ท่าที	O	O
+ชัดเจน	O	O
+หลาย	O	O
+ชาติ	O	O
+อาเซียน	O	O
+ยัง	O	O
+คัดค้าน	O	O
+การ	O	O
+เปิดเผย	O	O
+ข้อมูล	O	O
+เศรษฐกิจ	O	O
+"	O	O
+ที่	O	O
+มี	O	O
+ความ	O	O
+อ่อนไหว	O	O
+"	O	O
+/s	O	O
+ขณะที่	O	O
+รัฐมนตรี	O	O
+ต่าง	O	O
+ประเทศ	O	O
+ของ	O	O
+สมาคม	O	O
+อาเซียน	O	O
+กำลัง	O	O
+เตรียมตัว	O	O
+เพื่อ	O	O
+เข้าร่วม	O	O
+รับประทาน	O	O
+อาหาร	O	O
+ค่ำ	O	O
+รัฐมนตรี	O	O
+ต่าง	O	O
+ประเทศ	O	O
+/s	O	O
+อับดุลลาห์	O	O
+/s	O	O
+อาหมัด	O	O
+/s	O	O
+บาดาวี	O	O
+/s	O	O
+ของ	O	O
+มาเลเซีย	O	O
+กับ	O	O
+รัฐมนตรี	O	O
+ต่าง	O	O
+ประเทศ	O	O
+/s	O	O
+เอส.	per_start	O
+/s	O	O
+จายากุมาร	O	O
+/s	O	O
+ของ	O	O
+สิงคโปร์	O	O
+/s	O	O
+ก็	O	O
+แสดง	O	O
+ท่าที	O	O
+ชัดเจน	O	O
+ว่า	O	O
+เข้า	O	O
+ด้วย	O	O
+กับ	O	O
+อินโดนีเซีย	O	O
+/s	O	O
+พม่า	O	O
+/s	O	O
+และ	O	O
+เวียดนาม	O	O
+/s	O	O
+ใน	O	O
+การ	O	O
+คัดค้าน	O	O
+ข้อ	O	O
+เรียกร้อง	O	O
+ของ	O	O
+ไทย	O	O
+กับ	O	O
+ฟิลิปปินส์	O	O
+ที่	O	O
+ให้	O	O
+ใช้	O	O
+/s	O	O
+"	O	O
+การ	O	O
+พัวพัน	O	O
+อย่าง	O	O
+ยืดหยุ่น	O	O
+"	O	O
+/s	O	O
+ทาง	O	O
+ด้าน	O	O
+รัฐมนตรี	O	O
+ต่าง	O	O
+ประเทศ	O	O
+/s	O	O
+สุรินทร์	O	O
+/s	O	O
+พิศสุวรรณ	O	O
+/s	O	O
+ของ	O	O
+ไทย	O	O
+/s	O	O
+ซึ่ง	O	O
+เป็น	O	O
+ผู้	O	O
+จุด	O	O
+พลุ	O	O
+ให้	O	O
+อาเซียน	O	O
+ทบทวน	O	O
+สิ่ง	O	O
+ที่	O	O
+เคย	O	O
+ถือ	O	O
+เคร่งครัด	O	O
+ที่	O	O
+จะ	O	O
+ไม่	O	O
+แทรกแซง	O	O
+กิจการ	O	O
+ภายใน	O	O
+ของ	O	O
+กันและกัน	O	O
+/s	O	O
+และ	O	O
+เสนอ	O	O
+ว่า	O	O
+ชาติ	O	O
+สมาชิก	O	O
+ควร	O	O
+ที่	O	O
+จะ	O	O
+วิพากษ์วิจารณ์	O	O
+กัน	O	O
+ได้	O	O
+กล่าว	O	O
+เมื่อ	O	O
+เดินทาง	O	O
+ถึง	O	O
+มะนิลา	O	O
+วาน	O	O
+นี้	O	O
+ว่า	O	O
+เจ้าหน้าที่	O	O
+อาวุโส	O	O
+ของ	O	O
+อาเซียน	O	O
+ที่	O	O
+ประชุม	O	O
+กัน	O	O
+ใน	O	O
+มะนิลา	O	O
+ช่วง	O	O
+/s	O	O
+1-2	O	O
+/s	O	O
+วัน	O	O
+ก่อนหน้า	O	O
+นี้	O	O
+ข้อเสนอ	O	O
+ของ	O	O
+ธนาคาร	O	O
+พัฒนา	O	O
+เอเชีย	O	O
+(	O	O
+เอดีบี	O	O
+)	O	O
+/s	O	O
+ต้อง	O	O
+ให้	O	O
+ชาติ	O	O
+สมาชิก	O	O
+เปิดเผย	O	O
+ข้อมูล	O	O
+เศรษฐกิจ	O	O
+"	O	O
+ที่	O	O
+อ่อนไหว	O	O
+"	O	O
+/s	O	O
+อาเซียน	O	O
+เป็น	O	O
+ฝ่าย	O	O
+ขอ	O	O
+ให้	O	O
+เอดีบี	O	O
+ช่วย	O	O
+สนับสนุน	O	O
+ทาง	O	O
+เทคนิค	O	O
+เพื่อ	O	O
+ก่อตั้ง	O	O
+กลไก	O	O
+ดังกล่าว	O	O
+/s	O	O
+โยชิฮิโร	O	O
+/s	O	O
+อิวาซากิ	O	O
+/s	O	O
+หัวหน้า	O	O
+สำนัก	O	O
+วางแผน	O	O
+ทาง	O	O
+ยุทธศาสตร์	O	O
+ของ	O	O
+เอดีบี	O	O
+/s	O	O
+ยืนยัน	O	O
+ว่า	O	O
+มี	O	O
+สมาชิก	O	O
+อาเซียน	O	O
+บาง	O	O
+ประเทศ	O	O
+พูด	O	O
+ว่า	O	O
+ระเบียบ	O	O
+กฎหมาย	O	O
+ของ	O	O
+ธนาคาร	O	O
+กลาง	O	O
+เขา	O	O
+บอก	O	O
+ว่า	O	O
+/s	O	O
+ปรากฏ	O	O
+ความเห็น	O	O
+สอดคล้อง	O	O
+กัน	O	O
+ใน	O	O
+หมู่	O	O
+สมาชิก	O	O
+อาเซียน	O	O
+แล้ว	O	O
+ต้อง	O	O
+ส่ง	O	O
+ให้	O	O
+ไอเอ็มเอฟ	O	O
+เป็น	O	O
+ประจำ	O	O
+อยู่	O	O
+แล้ว	O	O
+"	O	O
+พาณิชย์	O	O
+"	O	O
+/s	O	O
+ตั้ง	O	O
+คณะ	O	O
+กรรมการ	O	O
+ตรวจสอบ	O	O
+การ	O	O
+ปลอมแปลง	O	O
+หนังสือรับรอง	O	O
+สิ่งทอ	O	O
+ใน	O	O
+สหรัฐ	O	O
+ฯ	O	O
+"	O	O
+ชวลิต	O	O
+"	O	O
+/s	O	O
+เผย	O	O
+ได้	O	O
+เตือน	O	O
+สมาชิก	O	O
+นาย	O	O
+ประชา	per_start	O
+/s	per_cont	O
+จารุตระกูล	per_end	O
+/s	O	O
+อธิบดี	O	O
+กรม	O	O
+การค้า	O	O
+ต่าง	O	O
+ประเทศ	O	O
+/s	O	O
+เปิดเผย	O	O
+กรณี	O	O
+ที่	O	O
+มี	O	O
+การ	O	O
+ปลอมแปลง	O	O
+หนังสือรับรอง	O	O
+สิ่งทอ	O	O
+ไป	O	O
+ยัง	O	O
+ตลาด	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+มี	O	O
+การ	O	O
+ปลอมแปลง	O	O
+หนังสือรับรอง	O	O
+สิ่งทอ	O	O
+ไป	O	O
+ยัง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+62	O	O
+/s	O	O
+ฉบับ	O	O
+หลังจากที่	O	O
+กรม	O	O
+การค้า	O	O
+ต่าง	O	O
+ประเทศ	O	O
+ได้	O	O
+ทราบ	O	O
+เรื่อง	O	O
+นาย	O	O
+ประชา	per	O
+กล่าว	O	O
+โดย	O	O
+มี	O	O
+นาย	O	O
+สกล	per_start	O
+/s	per_cont	O
+หาญสุทธิวารินทร์	per_end	O
+/s	O	O
+ผู้	O	O
+เชี่ยว	O	O
+ชาญ	O	O
+พิเศษ	O	O
+ด้าน	O	O
+มาตรฐาน	O	O
+ทาง	O	O
+การค้า	O	O
+/s	O	O
+เป็น	O	O
+ประธาน	O	O
+การ	O	O
+ตรวจสอบ	O	O
+พบ	O	O
+ว่า	O	O
+มี	O	O
+เจ้าหน้าที่	O	O
+กรม	O	O
+การค้า	O	O
+ต่าง	O	O
+ประเทศ	O	O
+/s	O	O
+เข้า	O	O
+ไป	O	O
+เกี่ยวข้อง	O	O
+"	O	O
+/s	O	O
+นาย	O	O
+ประชา	per	O
+กล่าว	O	O
+นาย	O	O
+ชวลิต	per_start	O
+/s	per_cont	O
+นิ่มละออ	per_end	O
+/s	O	O
+นายก	O	O
+สมาคม	O	O
+อุตสาหกรรม	O	O
+เครื่อง	O	O
+นุ่งห่ม	O	O
+ไทย	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+มี	O	O
+บริษัท	O	O
+ของ	O	O
+สมาชิก	O	O
+/s	O	O
+2-3	O	O
+/s	O	O
+รายได้	O	O
+ถูก	O	O
+ปลอมแปลง	O	O
+หนังสือรับรอง	O	O
+ไป	O	O
+ยัง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+ตน	O	O
+ได้	O	O
+ประสานงาน	O	O
+ไป	O	O
+ยัง	O	O
+กรม	O	O
+การค้า	O	O
+ต่าง	O	O
+ประเทศ	O	O
+เพื่อ	O	O
+ดำเนินการ	O	O
+ตรวจสอบ	O	O
+ปริมาณ	O	O
+โควตา	O	O
+ที่	O	O
+ได้รับ	O	O
+กับ	O	O
+ทาง	O	O
+กรม	O	O
+การค้า	O	O
+ต่าง	O	O
+ประเทศ	O	O
+ให้	O	O
+มาก	O	O
+ขึ้น	O	O
+และ	O	O
+สม่ำเสมอ	O	O
+/s	O	O
+เพื่อ	O	O
+ป้องกัน	O	O
+การ	O	O
+ปลอมแปลง	O	O
+และ	O	O
+ภายใน	O	O
+ปี	O	O
+นี้	O	O
+/s	O	O
+ทาง	O	O
+กรม	O	O
+การค้า	O	O
+ต่าง	O	O
+ประเทศ	O	O
+แจ้ง	O	O
+ว่า	O	O
+จะ	O	O
+มี	O	O
+การ	O	O
+นำ	O	O
+ระบบ	O	O
+คอมพิวเตอร์	O	O
+ออน	O	O
+ไลน์	O	O
+มา	O	O
+ใช้	O	O
+"	O	O
+/s	O	O
+นาย	O	O
+ชวลิต	per	O
+/s	O	O
+กล่าว	O	O
+นาย	O	O
+ชลชาติ	per	O
+กล่าว	O	O
+ถึง	O	O
+ภาวะ	O	O
+ของ	O	O
+อุตสาหกรรม	O	O
+เครื่อง	O	O
+นุ่งห่ม	O	O
+ขณะที่	O	O
+ปัญหา	O	O
+เศรษฐกิจ	O	O
+ไทย	O	O
+ยัง	O	O
+ขาด	O	O
+แวว	O	O
+การ	O	O
+ฟื้นตัว	O	O
+และ	O	O
+การเมือง	O	O
+ไทย	O	O
+ยัง	O	O
+ย่ำ	O	O
+อยู่	O	O
+กับ	O	O
+ที่	O	O
+ตลาด	O	O
+โลก	O	O
+เคย	O	O
+รองรับ	O	O
+สินค้า	O	O
+ไทย	O	O
+กลับ	O	O
+หด	O	O
+ตัว	O	O
+ผ่าน	O	O
+ความ	O	O
+เห็นชอบ	O	O
+ของ	O	O
+สภา	O	O
+/s	O	O
+และ	O	O
+ประกาศ	O	O
+ใน	O	O
+ราชกิจจานุเบกษา	O	O
+สะท้อน	O	O
+ภาพ	O	O
+อัปลักษณ์	O	O
+ของ	O	O
+สังคม	O	O
+ไทย	O	O
+ที่	O	O
+ขยายตัว	O	O
+ฟุ้งเฟ้อ	O	O
+การ	O	O
+ล่ม	O	O
+สลาย	O	O
+ครั้ง	O	O
+ใหญ่	O	O
+ของ	O	O
+เศรษฐกิจ	O	O
+ไทย	O	O
+เปรียบ	O	O
+ได้	O	O
+ดัง	O	O
+คน	O	O
+รวย	O	O
+ที่	O	O
+จมไม่ลง	O	O
+กลุ่ม	O	O
+คน	O	O
+เพิ่ง	O	O
+รวย	O	O
+/s	O	O
+หรือ	O	O
+เศรษฐี	O	O
+ใหม่	O	O
+ต้อง	O	O
+ประสบ	O	O
+ความ	O	O
+หายนะ	O	O
+ขณะที่	O	O
+กลุ่ม	O	O
+คน	O	O
+บาง	O	O
+อาชีพ	O	O
+/s	O	O
+ข้าราชการ	O	O
+ประจำ	O	O
+ระดับ	O	O
+นโยบาย	O	O
+หลาย	O	O
+กระทรวง	O	O
+/s	O	O
+กลับ	O	O
+กลายเป็น	O	O
+ผู้	O	O
+ที่	O	O
+มั่งคั่ง	O	O
+ส่วน	O	O
+พรรค	O	O
+การเมือง	O	O
+ใหม่	O	O
+ก็	O	O
+เน้น	O	O
+จุด	O	O
+ขาย	O	O
+ของ	O	O
+การ	O	O
+เป็น	O	O
+พรรค	O	O
+ของ	O	O
+คน	O	O
+ร่ำรวย	O	O
+สังคม	O	O
+ไทย	O	O
+ไม่	O	O
+ได้	O	O
+ตรวจสอบ	O	O
+เผด็จการ	O	O
+คน	O	O
+เดียว	O	O
+อย่าง	O	O
+สฤษดิ์	O	O
+/s	O	O
+โกง	O	O
+ไป	O	O
+นับ	O	O
+ร้อยๆ	O	O
+/s	O	O
+ล้าน	O	O
+การ	O	O
+ปฏิวัติ	O	O
+ทาง	O	O
+อุตสาหกรรม	O	O
+ใน	O	O
+กลุ่ม	O	O
+ประเทศ	O	O
+ยุโรป	O	O
+/s	O	O
+ข้อ	O	O
+เรียกร้อง	O	O
+ภาค	O	O
+แรงงาน	O	O
+อุตสาหกรรม	O	O
+นั้น	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+การ	O	O
+ปรับปรุง	O	O
+สวัสดิการ	O	O
+ของ	O	O
+ผู้	O	O
+ใช้	O	O
+แรงงาน	O	O
+/s	O	O
+และ	O	O
+กฎหมาย	O	O
+แรงงาน	O	O
+/s	O	O
+เช่น	O	O
+ใน	O	O
+ประเทศ	O	O
+อังกฤษ	O	O
+ก็	O	O
+เข้า	O	O
+มา	O	O
+ควบคุม	O	O
+การ	O	O
+ใช้	O	O
+แรงงาน	O	O
+เด็ก	O	O
+ประเทศ	O	O
+ยุโรป	O	O
+ก็	O	O
+มี	O	O
+ปัญหา	O	O
+คอร์รัปชัน	O	O
+ขณะที่	O	O
+ยุโรป	O	O
+ภาค	O	O
+อุตสาหกรรม	O	O
+หลาย	O	O
+ชนิด	O	O
+กำลัง	O	O
+อยู่	O	O
+ใน	O	O
+ภาวะ	O	O
+ทรุด	O	O
+ตัว	O	O
+การ	O	O
+เติบโต	O	O
+ภาค	O	O
+อุตสาหกรรม	O	O
+ใน	O	O
+ทวีป	O	O
+อเมริกาเหนือ	O	O
+ก็	O	O
+เฟื่องฟู	O	O
+ขึ้น	O	O
+ภาค	O	O
+อุตสาหกรรม	O	O
+ใน	O	O
+ยุโรป	O	O
+หมด	O	O
+สมัย	O	O
+นัก	O	O
+คิด	O	O
+ใน	O	O
+อเมริกา	O	O
+กลับ	O	O
+สร้าง	O	O
+ผลผลิต	O	O
+ที่	O	O
+มี	O	O
+คุณภาพ	O	O
+วาง	O	O
+รากฐาน	O	O
+ทาง	O	O
+การ	O	O
+ผลิต	O	O
+ใน	O	O
+อเมริกา	O	O
+เจริญ	O	O
+รุดหน้า	O	O
+การ	O	O
+ควบคุม	O	O
+เครื่องจักรกล	O	O
+ของ	O	O
+โรงงาน	O	O
+ภาค	O	O
+รัฐ	O	O
+ของ	O	O
+ไทย	O	O
+เรา	O	O
+ไม่	O	O
+เคย	O	O
+คิด	O	O
+อะไร	O	O
+ล่วงหน้า	O	O
+ใน	O	O
+เชิง	O	O
+ปฏิบัติ	O	O
+เมื่อ	O	O
+สังคม	O	O
+วิกฤต	O	O
+/s	O	O
+พระบาทสมเด็จพระเจ้าอยู่หัว	O	O
+/s	O	O
+ซึ่ง	O	O
+ทรง	O	O
+พระ	O	O
+ปรีชาสามารถ	O	O
+ประเทศ	O	O
+เพื่อนบ้าน	O	O
+อย่าง	O	O
+สิงคโปร์	O	O
+หรือ	O	O
+มาเลเซีย	O	O
+/s	O	O
+ทั้ง	O	O
+สอง	O	O
+ประเทศ	O	O
+นั้น	O	O
+วิเคราะห์	O	O
+ถึง	O	O
+อนาคต	O	O
+เกี่ยวกับ	O	O
+โลก	O	O
+ใน	O	O
+ยุค	O	O
+โลกานุวัตร	O	O
+การ	O	O
+ศึกษา	O	O
+ของ	O	O
+ประเทศ	O	O
+เหล่านี้	O	O
+ทั้ง	O	O
+ใน	O	O
+กลุ่ม	O	O
+ประเทศ	O	O
+ยุโรป	O	O
+หรือ	O	O
+อเมริกา	O	O
+ได้	O	O
+มี	O	O
+การ	O	O
+เสริมสร้าง	O	O
+หลักสูตร	O	O
+ใหม่	O	O
+/s	O	O
+ๆ	O	O
+ประธานาธิบดี	O	O
+เจียงเจ๋อหมิน	O	O
+ของ	O	O
+จีน	O	O
+/s	O	O
+ออก	O	O
+คำสั่ง	O	O
+ท่ามกลาง	O	O
+ความ	O	O
+พยายาม	O	O
+ของ	O	O
+คณะ	O	O
+ผู้นำ	O	O
+ใน	O	O
+ปักกิ่ง	O	O
+กองทัพ	O	O
+และ	O	O
+กอง	O	O
+กำลัง	O	O
+ตำรวจ	O	O
+ติด	O	O
+อาวุธ	O	O
+สำนัก	O	O
+ข่าว	O	O
+ซินหัว	O	O
+ของ	O	O
+ทางการ	O	O
+จีน	O	O
+อ้าง	O	O
+คำพูด	O	O
+ของ	O	O
+เจียง	O	O
+/s	O	O
+ซึ่ง	O	O
+กล่าว	O	O
+ใน	O	O
+ที่	O	O
+ประชุม	O	O
+วาระ	O	O
+พิเศษ	O	O
+เพื่อ	O	O
+ต่อต้าน	O	O
+สินค้า	O	O
+เถื่อน	O	O
+/s	O	O
+ของ	O	O
+คณะ	O	O
+กรรมการ	O	O
+การ	O	O
+ทหาร	O	O
+ส่วนกลาง	O	O
+/s	O	O
+ที่	O	O
+เขา	O	O
+เป็น	O	O
+ประธาน	O	O
+อยู่	O	O
+/s	O	O
+นอกจากนั้น	O	O
+/s	O	O
+ซินหัว	O	O
+บอก	O	O
+ว่า	O	O
+/s	O	O
+เจียง	O	O
+ซึ่ง	O	O
+มี	O	O
+ตำแหน่ง	O	O
+เป็น	O	O
+เลขาธิการ	O	O
+ใหญ่	O	O
+พรรค	O	O
+คอมมิวนิสต์	O	O
+จีน	O	O
+ด้วย	O	O
+ระบุ	O	O
+ให้	O	O
+องค์กร	O	O
+ทาง	O	O
+การเมือง	O	O
+และ	O	O
+องค์กร	O	O
+ทาง	O	O
+กฎหมาย	O	O
+ก็	O	O
+ต้อง	O	O
+ถอน	O	O
+ตัว	O	O
+ผลกระทบ	O	O
+หนักหน่วง	O	O
+เป็น	O	O
+พิเศษ	O	O
+ต่อ	O	O
+กองทัพ	O	O
+ปลดแอก	O	org
+ประชาชน	O	O
+จีน	O	O
+/s	O	O
+ที่	O	O
+ทางการ	O	O
+ปักกิ่ง	O	O
+ดำเนิน	O	O
+นโยบาย	O	O
+ปฏิรูป	O	O
+สู่	O	O
+เศรษฐกิจ	O	O
+การตลาด	O	O
+/s	O	O
+ทาง	O	O
+กองทัพ	O	O
+ฯ	O	O
+/s	O	O
+และ	O	O
+กอง	O	O
+กำลัง	O	O
+ตำรวจ	O	O
+ติด	O	O
+อาวุธ	O	O
+/s	O	O
+ได้	O	O
+สร้าง	O	O
+ตัวเอง	O	O
+จน	O	O
+กลายเป็น	O	O
+อาณาจักร	O	O
+ธุรกิจ	O	O
+ใหญ่	O	O
+มหึมา	O	O
+บริการ	O	O
+ส่ง	O	O
+ดาวเทียม	O	O
+/s	O	O
+เหมือง	O	O
+ถ่านหิน	O	O
+/s	O	O
+ไป	O	O
+จนถึง	O	O
+โรงแรม	O	O
+/s	O	O
+สนาม	O	O
+กอล์ฟ	O	O
+/s	O	O
+ภัตตาคาร	O	O
+/s	O	O
+และ	O	O
+สถาน	O	O
+คาราโอเกะ	O	O
+/s	O	O
+รัฐสภา	O	O
+ของ	O	O
+จีน	O	O
+เคย	O	O
+มี	O	O
+มติ	O	O
+แม้	O	O
+คำสั่ง	O	O
+ของ	O	O
+เจียง	O	O
+แสดง	O	O
+ให้	O	O
+เห็น	O	O
+ว่า	O	O
+อำนาจ	O	O
+รวม	O	O
+ศูนย์	O	O
+เหนือ	O	O
+ฝ่าย	O	O
+ทหาร	O	O
+ได้	O	O
+แล้ว	O	O
+/s	O	O
+การ	O	O
+ปล่อย	O	O
+ธนู	O	O
+สัญญาณ	O	O
+เพื่อ	O	O
+ตักเตือน	O	O
+ของ	O	O
+เจียง	O	O
+มาก	O	O
+กว่า	O	O
+"	O	O
+/s	O	O
+พำนัก	O	O
+อยู่	O	O
+ใน	O	O
+ปักกิ่ง	O	O
+บอก	O	O
+กับ	O	O
+เอเอฟพี	O	O
+/s	O	O
+เจียง	O	O
+กำลัง	O	O
+เตือน	O	O
+ว่า	O	O
+/s	O	O
+กว่า	O	O
+ที่	O	O
+จีน	O	O
+จะ	O	O
+สามารถ	O	O
+พัฒนา	O	O
+ระบบ	O	O
+นำ	O	O
+งบประมาณ	O	O
+ส่วนกลาง	O	O
+มา	O	O
+ใช้	O	O
+อุดหนุน	O	O
+กองทัพ	O	O
+ทุก	O	O
+กรม	O	O
+กอง	O	O
+ของ	O	O
+กองทัพ	O	O
+ปลดแอก	O	org
+ประชาชน	O	O
+จีน	O	O
+ลง	O	O
+ไป	O	O
+จนถึง	O	O
+หน่วย	O	O
+พื้นฐาน	O	O
+การ	O	O
+ปฏิรูป	O	O
+ของ	O	O
+จีน	O	O
+นั้น	O	O
+อาจ	O	O
+มุ่งหมาย	O	O
+เพียง	O	O
+เพื่อ	O	O
+ปรับ	O	O
+โครงสร้าง	O	O
+กองทัพ	O	O
+สำนัก	O	O
+ข่าว	O	O
+ซินหัว	O	O
+รายงาน	O	O
+ว่า	O	O
+/s	O	O
+ใน	O	O
+การ	O	O
+ปราศรัย	O	O
+ต่อ	O	O
+ที่	O	O
+ประชุม	O	O
+พิเศษ	O	O
+ของ	O	O
+คณะ	O	O
+กรรมการ	O	O
+การ	O	O
+ทหาร	O	O
+ส่วนกลาง	O	O
+คราว	O	O
+นี้	O	O
+/s	O	O
+เจียง	O	O
+ได้	O	O
+ชี้นิ้ว	O	O
+กล่าวโทษ	O	O
+เขา	O	O
+กล่าว	O	O
+ใน	O	O
+คำ	O	O
+ปราศรัย	O	O
+ตอน	O	O
+หนึ่ง	O	O
+/s	O	O
+ฝ่าย	O	O
+ทหาร	O	O
+ของ	O	O
+จีน	O	O
+เข้า	O	O
+ไป	O	O
+พัวพัน	O	O
+ด้วย	O	O
+/s	O	O
+สำนักงาน	O	O
+กำกับ	O	O
+ดูแล	O	O
+ตลาดหลักทรัพย์	O	O
+ของ	O	O
+จีน	O	O
+ได้	O	O
+จัดการ	O	O
+สอบสวน	O	O
+ความ	O	O
+ผิด	O	O
+ของ	O	O
+พวก	O	O
+ผู้	O	O
+บริหาร	O	O
+ระดับ	O	O
+สูงสุด	O	O
+ของ	O	O
+/s	O	O
+เจ	O	O
+/s	O	O
+แอนด์	O	O
+/s	O	O
+เอ	O	O
+/s	O	O
+ซีเคียวริตีส์	O	O
+/s	O	O
+ซึ่ง	O	O
+เป็น	O	O
+บริษัท	O	O
+หลักทรัพย์	O	O
+ยักษ์	O	O
+ใหญ่	O	O
+ที่	O	O
+เป็น	O	O
+กิจการ	O	O
+ลงทุน	O	O
+ของ	O	O
+กองทัพ	O	O
+ภาค	O	O
+กว่างโจว	O	O
+/s	O	O
+ทางการ	O	O
+อาจ	O	O
+นำ	O	O
+/s	O	O
+เจ	O	O
+/s	O	O
+แอนด์	O	O
+/s	O	O
+เอ	O	O
+/s	O	O
+มา	O	O
+ควบ	O	O
+กิจการ	O	O
+เข้า	O	O
+กับ	O	O
+/s	O	O
+กว๋อไท่	O	O
+/s	O	O
+ซีเคียวริตีส์	O	O
+/s	O	O
+บริษัท	O	O
+หลักทรัพย์	O	O
+ยักษ์	O	O
+ใหญ่	O	O
+อีก	O	O
+ราย	O	O
+หนึ่ง	O	O
+คะแนนนิยม	O	O
+ของ	O	O
+ชาติพัฒนา	O	O
+ตก	O	O
+ฮวบ	O	O
+เป็น	O	O
+ประวัติการณ์	O	O
+/s	O	O
+เหตุ	O	O
+เพราะ	O	O
+แนวโน้ม	O	O
+ที่	O	O
+พรรค	O	O
+อาจ	O	O
+เลือก	O	O
+โอบูชิ	O	O
+เป็น	O	O
+/s	O	O
+นายก	O	O
+ฯ	O	O
+คน	O	O
+ต่อไป	O	O
+/s	O	O
+ด้าน	O	O
+ส.ส.	O	O
+ยังเติร์ก	O	O
+ขู่	O	O
+ทิ้ง	O	O
+เสรีไทย	O	O
+หาก	O	O
+โอบูชิ	O	O
+ได้	O	O
+ชัยชนะ	O	O
+/s	O	O
+นัก	O	O
+วิเคราะห์	O	O
+โหวต	O	O
+ให้	O	O
+คาจิยามา	O	O
+เหมาะสม	O	O
+ทั้ง	O	O
+ใน	O	O
+ตำแหน่ง	O	O
+ผู้นำ	O	O
+ประเทศ	O	O
+และ	O	O
+ขุน	O	O
+คลัง	O	O
+หนังสือพิมพ์	O	O
+โยมิอุริ	O	O
+/s	O	O
+ชิมบุน	O	O
+ฉบับ	O	O
+วาน	O	O
+นี้	O	O
+คะแนนนิยม	O	O
+ใน	O	O
+พรรค	O	O
+เสรี	O	O
+ประชาธิปไตย	O	O
+/s	O	O
+(	O	O
+แอลดีพี	O	O
+)	O	O
+/s	O	O
+ประจำเดือน	O	O
+นี้	O	O
+ลด	O	O
+ลง	O	O
+ต่ำ	O	O
+สุด	O	O
+เป็น	O	O
+ประวัติการณ์	O	O
+ไม่	O	O
+พอใจ	O	O
+ที่	O	O
+ฟุนซินเปก	O	O
+ยัง	O	O
+คง	O	O
+ใช้	O	O
+เกณฑ์	O	O
+การ	O	O
+ตัดสิน	O	O
+เดิมๆ	O	O
+ใน	O	O
+การ	O	O
+เลือก	O	O
+หัวหน้า	O	O
+พรรค	O	O
+ซึ่ง	O	O
+จะ	O	O
+ทำให้	O	O
+ชัยชนะ	O	O
+ไป	O	O
+ตก	O	O
+อยู่	O	O
+กับ	O	O
+เคโซ	O	O
+/s	O	O
+โอบูชิ	O	O
+/s	O	O
+รมว.	O	O
+ต่าง	O	O
+ประเทศ	O	O
+/s	O	O
+โดยเฉพาะ	O	O
+พรรค	O	O
+ประชาธิปไตย	O	O
+ของ	O	O
+เนาโตะ	O	O
+นั้น	O	O
+/s	O	O
+ได้	O	O
+คะแนน	O	O
+เพิ่ม	O	O
+ขึ้น	O	O
+ท่วมท้น	O	O
+ตลาด	O	O
+การเงิน	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+วาน	O	O
+นี้	O	O
+ดิ่ง	O	O
+ลง	O	O
+อย่าง	O	O
+รุนแรง	O	O
+ความ	O	O
+ไร้	O	O
+ประสบการณ์	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+โอบูชิ	O	O
+ที่	O	O
+สำนัก	O	O
+ข่าว	O	O
+เกียวโด	O	O
+รายงาน	O	O
+ว่า	O	O
+บริษัท	O	O
+จัด	O	O
+อันดับ	O	O
+ความ	O	O
+น่าเชื่อถือ	O	O
+ระดับ	O	O
+หัว	O	O
+แถว	O	O
+ของ	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+มูดี้ส	O	O
+/s	O	O
+อินเวสเตอร์	O	O
+/s	O	O
+อาจ	O	O
+ลด	O	O
+อันดับ	O	O
+ความ	O	O
+น่า	O	O
+เชื่อถือ	O	O
+ของ	O	O
+ตราสาร	O	O
+สกุล	O	O
+เงิน	O	O
+เยน	O	O
+กระแส	O	O
+ความ	O	O
+ไม่	O	O
+เห็นด้วย	O	O
+ใน	O	O
+การ	O	O
+ที่	O	O
+โอบูชิ	O	O
+จะ	O	O
+ขึ้น	O	O
+เป็น	O	O
+นายกรัฐมนตรี	O	O
+คน	O	O
+ต่อไป	O	O
+ของ	O	O
+ญี่ปุ่น	O	O
+อัน	O	O
+เป็น	O	O
+ผล	O	O
+ผูกพัน	O	O
+จาก	O	O
+ตำแหน่ง	O	O
+หัวหน้า	O	O
+พรรค	O	O
+แอลดีพี	O	O
+/s	O	O
+ส.ส.	O	O
+กลุ่ม	O	O
+ยังเติร์ก	O	O
+ของ	O	O
+แอลดีพี	O	O
+เอง	O	O
+ราว	O	O
+/s	O	O
+20	O	O
+/s	O	O
+คน	O	O
+ซึ่ง	O	O
+ให้	O	O
+การ	O	O
+สนับสนุน	O	O
+จูนิชิโร	O	O
+/s	O	O
+โคอิซูมิ	O	O
+/s	O	O
+แคนดิเดท	O	O
+อายุ	O	O
+น้อย	O	O
+ที่สุด	O	O
+/s	O	O
+ยัง	O	O
+วางแผน	O	O
+ลา	O	O
+ออก	O	O
+จาก	O	O
+พรรค	O	O
+แต่งตั้ง	O	O
+นายก	O	O
+ฯ	O	O
+คน	O	O
+ใหม่	O	O
+อย่าง	O	O
+เป็น	O	O
+ทางการ	O	O
+หาก	O	O
+โอบูชิ	O	O
+ได้รับ	O	O
+เลือก	O	O
+เป็น	O	O
+หัวหน้า	O	O
+พรรค	O	O
+/s	O	O
+อันตราย	O	O
+อย่างยิ่ง	O	O
+ต่อ	O	O
+สถานะ	O	O
+ของ	O	O
+แอลดีพี	O	O
+ใน	O	O
+สภา	O	O
+ล่าง	O	O
+อย่างไรก็ตาม	O	O
+/s	O	O
+โอบูชิ	O	O
+/s	O	O
+ผู้	O	O
+กุม	O	O
+อำนาจ	O	O
+ใน	O	O
+มุ้ง	O	O
+ใหญ่	O	O
+ที่สุด	O	O
+ใน	O	O
+พลังธรรม	O	O
+/s	O	O
+ไม่	O	O
+ได้	O	O
+แสดง	O	O
+อาการ	O	O
+ท้อถอย	O	O
+ด้าน	O	O
+โคอิซูมิ	O	O
+/s	O	O
+รมว.	O	O
+สาธารณสุข	O	O
+/s	O	O
+กล่าว	O	O
+ต่อ	O	O
+เพื่อน	O	O
+พ้อง	O	O
+ใน	O	O
+แอลดีพี	O	O
+ว่า	O	O
+/s	O	O
+ญี่ปุ่น	O	O
+อยู่	O	O
+ใน	O	O
+ช่วง	O	O
+ของ	O	O
+การ	O	O
+ปรับ	O	O
+เปลี่ยน	O	O
+ส่วน	O	O
+เซโรกุ	O	O
+/s	O	O
+คาจิยามา	O	O
+/s	O	O
+อดีต	O	O
+รมว.	O	O
+สำนัก	O	O
+นายก	O	O
+ฯ	O	O
+ซึ่ง	O	O
+เป็น	O	O
+ผู้	O	O
+สมัคร	O	O
+ที่	O	O
+สูง	O	O
+วัย	O	O
+ที่สุด	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+ผล	O	O
+การ	O	O
+สำรวจ	O	O
+ความ	O	O
+คิดเห็น	O	O
+ที่	O	O
+จัดทำ	O	O
+โดย	O	O
+รอยเตอร์	O	O
+ยัง	O	O
+ชี้	O	O
+ว่า	O	O
+/s	O	O
+คาจิยามา	O	O
+เป็น	O	O
+ที่	O	O
+ชื่นชอบ	O	O
+ของ	O	O
+นัก	O	O
+วิเคราะห์	O	O
+/s	O	O
+คาจิยามา	O	O
+เป็น	O	O
+ตัว	O	O
+เลือก	O	O
+อันดับ	O	O
+แรก	O	O
+ใน	O	O
+ตำแหน่ง	O	O
+รัฐมนตรี	O	O
+คลัง	O	O
+/s	O	O
+โดย	O	O
+ได้	O	O
+คะแนน	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+9	O	O
+/s	O	O
+คะแนน	O	O
+/s	O	O
+ขณะที่	O	O
+อดีต	O	O
+นายก	O	O
+ฯ	O	O
+คิอิชิ	O	O
+/s	O	O
+มิยาซาวา	O	O
+/s	O	O
+หรือ	O	O
+ผู้	O	O
+บริหาร	O	O
+มือ	O	O
+อาชีพ	O	O
+จาก	O	O
+ภาค	O	O
+เอกชน	O	O
+สำหรับ	O	O
+ตำแหน่ง	O	O
+นายก	O	O
+ฯ	O	O
+คาจิยามา	O	O
+/s	O	O
+และ	O	O
+โคอิซูมิ	O	O
+ได้	O	O
+คะแนน	O	O
+เท่ากัน	O	O
+คือ	O	O
+/s	O	O
+7	O	O
+/s	O	O
+คะแนน	O	O
+/s	O	O
+นำ	O	O
+โอบูชิ	O	O
+เพียง	O	O
+/s	O	O
+1	O	O
+/s	O	O
+คะแนน	O	O
+จุดยืน	O	O
+ของ	O	O
+คาจิยามา	O	O
+ใน	O	O
+การ	O	O
+ผ่าตัด	O	O
+ภาค	O	O
+การเงิน	O	O
+การ	O	O
+เปลี่ยนแปลง	O	O
+นโยบาย	O	O
+ของ	O	O
+เดโมแครต	O	O
+จาก	O	O
+ที่	O	O
+เคย	O	O
+ปล่อยปละละเลย	O	O
+การ	O	O
+วิจารณ์	O	O
+ชุมชน	O	O
+ผิว	O	O
+ดำ	O	O
+ใน	O	O
+สหรัฐ	O	O
+ฯ	O	O
+/s	O	O
+อาจ	O	O
+ทำให้	O	O
+คาจิยามา	O	O
+ชวด	O	O
+เก้าอี้	O	O
+นายก	O	O
+ฯ	O	O
+/s	O	O
+หรือ	O	O
+กระทั่ง	O	O
+ตำแหน่ง	O	O
+ขุน	O	O
+คลัง	O	O
+หาก	O	O
+โอบูชิ	O	O
+เป็น	O	O
+ฝ่าย	O	O
+มี	O	O
+ชัย	O	O
+/s	O	O
+สืบ	O	O
+เนื่องจาก	O	O
+การ	O	O
+ที่	O	O
+คาจิยามา	O	O
+อาจหาญ	O	O
+ลง	O	O
+แข่งขัน	O	O
+กับ	O	O
+โอบูชิ	O	O
+/s	O	O
+ยัง	O	O
+ไม่	O	O
+มั่นใจ	O	O
+ใน	O	O
+ตัว	O	O
+คาจิยามา	O	O
+ขณะที่	O	O
+มอง	O	O
+ว่า	O	O
+โอบูชิ	O	O
+เป็น	O	O
+สัญลักษณ์	O	O
+ของ	O	O
+นโยบาย	O	O
+อนุรักษนิยม	O	O
+ของ	O	O
+รีพับลิกัน	O	O
+/s	O	O
+เชื่อ	O	O
+ว่า	O	O
+โคอิซูมิ	O	O
+จะ	O	O
+ได้	O	O
+ชัยชนะ	O	O
+/s	O	O
+สมาชิก	O	O
+เดโมแครต	O	O
+/s	O	O
+413	O	O
+/s	O	O
+คน	O	O
+จะ	O	O
+โหวต	O	O
+ลับ	O	O
+เลือก	O	O
+หัวหน้า	O	O
+พรรค	O	O
+สืบ	O	O
+แทน	O	O
+นายก	O	O
+ฯ	O	O
+ริวทาโร	O	O
+/s	O	O
+ฮาชิโมโต	O	O
+/s	O	O
+ที่	O	O
+ลา	O	O
+ออก	O	O
+นัก	O	O
+ท่องเที่ยว	O	O
+ที่	O	O
+เคย	O	O
+ล่อง	O	O
+ขึ้น	O	O
+ลง	O	O
+ตาม	O	O
+ลำน้ำ	O	O
+โขง	O	O
+ระยะ	O	O
+/s	O	O
+4-5	O	O
+/s	O	O
+ปี	O	O
+ก่อน	O	O
+นับ	O	O
+/s	O	O
+100	O	O
+/s	O	O
+ลำ	O	O
+/s	O	O
+ทั้ง	O	O
+สัญชาติ	O	O
+ไทย	O	O
+-	O	O
+ลาว	O	O
+-	O	O
+พม่า	O	O
+/s	O	O
+ขณะที่	O	O
+เรือ	O	O
+ท่องเที่ยว	O	O
+ของ	O	O
+ผู้	O	O
+ประกอบการ	O	O
+ไทย	O	O
+มี	O	O
+พร้อม	O	O
+ให้	O	O
+บริการ	O	O
+เพียง	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ราย	O	O
+รายงาน	O	O
+การค้า	O	O
+ระหว่าง	O	O
+ไทย	O	O
+-	O	O
+จีน	O	O
+ตอน	O	O
+ใต้	O	O
+/s	O	O
+(	O	O
+มณฑล	O	O
+ยูนนาน	O	O
+)	O	O
+/s	O	O
+ของ	O	O
+ธนาคาร	O	O
+แห่ง	org_start	org_start
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+สาขา	O	O
+ภาค	O	O
+เหนือ	O	O
+/s	O	O
+จังหวัด	O	O
+เชียงใหม่	O	O
+/s	O	O
+ระบุ	O	O
+ว่า	O	O
+ยอด	O	O
+การค้า	O	O
+ระหว่าง	O	O
+/s	O	O
+ไทย	O	O
+-	O	O
+จีน	O	O
+ตอน	O	O
+ใต้	O	O
+/s	O	O
+ผ่าน	O	O
+พรมแดน	O	O
+จังหวัด	O	O
+เชียงราย	O	O
+/s	O	O
+มี	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+89	O	O
+/s	O	O
+ล้าน	O	O
+บาท	O	O
+เศษ	O	O
+/s	O	O
+ยอด	O	O
+การ	O	O
+ค้า	O	O
+ระหว่าง	O	O
+ไทย	O	O
+-	O	O
+จีน	O	O
+ตอน	O	O
+ใต้	O	O
+ปี	O	O
+นี้	O	O
+ตลอด	O	O
+ทั้ง	O	O
+ปี	O	O
+ลด	O	O
+ลง	O	O
+ความ	O	O
+นิยม	O	O
+ใน	O	O
+การ	O	O
+ส่ง	O	O
+สินค้าเข้า	O	O
+จีน	O	O
+ตอน	O	O
+ใต้	O	O
+ผ่าน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ลด	O	O
+ลง	O	O
+มาก	O	O
+/s	O	O
+ความ	O	O
+นิยม	O	O
+ใน	O	O
+การ	O	O
+ส่ง	O	O
+สินค้า	O	O
+ผ่าน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ลด	O	O
+ลง	O	O
+/s	O	O
+ปัญหา	O	O
+การ	O	O
+เก็บ	O	O
+ภาษี	O	O
+เถื่อน	O	O
+ตาม	O	O
+ลำน้ำ	O	O
+โขง	O	O
+ที่	O	O
+สูง	O	O
+เกินไป	O	O
+เก็บ	O	O
+ค่า	O	O
+ธรรมเนียม	O	O
+เดินเรือ	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ของ	O	O
+ทั้ง	O	O
+/s	O	O
+4	O	O
+/s	O	O
+ประเทศ	O	O
+/s	O	O
+ที่	O	O
+ปัจจุบัน	O	O
+มี	O	O
+เพียง	O	O
+/s	O	O
+สปป.	O	O
+ลาว	O	O
+เท่านั้น	O	O
+ที่	O	O
+จัด	O	O
+เก็บ	O	O
+/s	O	O
+ขณะที่	O	O
+พม่า	O	O
+ไม่	O	O
+เก็บ	O	O
+การ	O	O
+ขนส่ง	O	O
+สินค้า	O	O
+จาก	O	O
+ไทย	O	O
+-	O	O
+จีน	O	O
+/s	O	O
+เช่น	O	O
+/s	O	O
+ลำไย	O	O
+/s	O	O
+ต้อง	O	O
+เสีย	O	O
+ค่า	O	O
+เบี้ยบ้ายรายทาง	O	O
+แต่	O	O
+อิหร่าน	O	O
+ไม่	O	O
+เก็บ	O	O
+เช่นกัน	O	O
+/s	O	O
+ไม่	O	O
+มี	O	O
+บริษัท	O	O
+ใด	O	O
+กล้า	O	O
+รับประกัน	O	O
+ใน	O	O
+ความ	O	O
+ปลอดภัย	O	O
+/s	O	O
+ส่ง	O	O
+สินค้าออก	O	O
+ผ่าน	O	O
+ท่าเรือ	O	O
+คลองเตย	O	O
+-	O	O
+แหลมฉบัง	O	O
+/s	O	O
+เข้า	O	O
+จีน	O	O
+ทาง	O	O
+ฮ่องกง	O	O
+แทน	O	O
+/s	O	O
+จุด	O	O
+แวะ	O	O
+พัก	O	O
+ที่	O	O
+ก่อนหน้า	O	O
+นี้	O	O
+กำหนด	O	O
+ให้	O	O
+เรือ	O	O
+ที่	O	O
+วิ่ง	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+เทียบ	O	O
+ท่า	O	O
+ทั้ง	O	O
+/s	O	O
+13	O	O
+/s	O	O
+ท่าเรือ	O	O
+ใน	O	O
+/s	O	O
+4	O	O
+/s	O	O
+ประเทศ	O	O
+คือ	O	O
+/s	O	O
+ประเทศ	O	O
+จีน	O	O
+/s	O	O
+ท่าเรือ	O	O
+ซือเหมา	O	O
+/s	O	O
+ท่าเรือ	O	O
+จิ่งหง	O	O
+/s	O	O
+ท่าเรือ	O	O
+เม่งฮาน	O	O
+/s	O	O
+ท่าเรือ	O	O
+กวนเล่ย	O	O
+,	O	O
+/s	O	O
+ประเทศ	O	O
+ลาว	O	O
+/s	O	O
+ท่าเรือ	O	O
+บ้านทราย	O	O
+/s	O	O
+ท่าเรือ	O	O
+เชียงกก	O	O
+/s	O	O
+ท่าเรือ	O	O
+เมืองมอม	O	O
+/s	O	O
+ท่าเรือ	O	O
+ห้วยทราย	O	O
+/s	O	O
+และ	O	O
+เมือง	O	O
+หลวงพระบาง	O	O
+,	O	O
+/s	O	O
+ประเทศ	O	O
+พม่า	O	O
+/s	O	O
+ท่าเรือ	O	O
+หว่านเซียง	O	O
+/s	O	O
+และ	O	O
+ท่าเรือ	O	O
+หว่านพง	O	O
+,	O	O
+/s	O	O
+ประเทศ	O	O
+ไทย	O	O
+/s	O	O
+ท่าเรือ	O	O
+เชียงแสน	O	O
+/s	O	O
+และ	O	O
+ท่าเรือ	O	O
+เชียงของ	O	O
+นั้น	O	O
+/s	O	O
+น่า	O	O
+จะ	O	O
+ลด	O	O
+ลง	O	O
+เหลือ	O	O
+ประเทศ	O	O
+ละ	O	O
+/s	O	O
+1-2	O	O
+/s	O	O
+แห่ง	O	O
+เท่านั้น	O	O
+/s	O	O
+เพื่อ	O	O
+ความ	O	O
+รวดเร็ว	O	O
+-	O	O
+ลด	O	O
+ค่าใช้จ่าย	O	O
+การ	O	O
+นำเข้า	O	O
+สินค้า	O	O
+จาก	O	O
+จีน	O	O
+ก็	O	O
+จะ	O	O
+ลด	O	O
+ลง	O	O
+ไป	O	O
+ด้วย	O	O
+แน่นอน	O	O
+เนื่องจาก	O	O
+ราคา	O	O
+สินค้า	O	O
+ของ	O	O
+จีน	O	O
+สูง	O	O
+ขึ้น	O	O
+นาย	O	O
+สัตวแพทย์	per	O
+ถนอมศักดิ์	O	O
+/s	O	O
+เสรีวิชยสวัสดิ์	O	O
+/s	O	O
+ประธาน	O	O
+กรรมการ	O	O
+บริษัท	O	O
+/s	O	O
+แม่สลองทัวร์	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+ผู้	O	O
+ประกอบการ	O	O
+นำเที่ยว	O	O
+ไทย	O	O
+-	O	O
+พม่า	O	O
+-	O	O
+/s	O	O
+ลาว	O	O
+-	O	O
+จีน	O	O
+/s	O	O
+ผ่าน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+อุปสรรค	O	O
+การ	O	O
+เดินเรือ	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+/s	O	O
+บาง	O	O
+ประเทศ	O	O
+ที่	O	O
+เรือ	O	O
+วิ่ง	O	O
+ผ่าน	O	O
+น่านน้ำ	O	O
+ไม่	O	O
+จัด	O	O
+เก็บ	O	O
+ค่า	O	O
+ผ่าน	O	O
+ทาง	O	O
+เรือ	O	O
+สินค้า	O	O
+ที่	O	O
+วิ่ง	O	O
+อยู่	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+แต่ละ	O	O
+เดือน	O	O
+มี	O	O
+อยู่	O	O
+ไม่	O	O
+ถึง	O	O
+/s	O	O
+10	O	O
+/s	O	O
+ลำ	O	O
+เท่านั้น	O	O
+"	O	O
+/s	O	O
+นาย	O	O
+มานิต	per_start	O
+/s	per_cont	O
+อินถา	per_end	O
+/s	O	O
+1	O	O
+/s	O	O
+ใน	O	O
+ผู้	O	O
+บริหาร	O	O
+ระดับ	O	O
+สูง	O	O
+ของ	O	O
+กลุ่ม	O	O
+ตะวันห้าเชียง	O	O
+กล่าว	O	O
+/s	O	O
+หอ	O	O
+การค้า	O	O
+จังหวัด	O	O
+เชียงราย	O	O
+/s	O	O
+ได้	O	O
+สำรวจ	O	O
+เรือ	O	O
+ขนส่ง	O	O
+สินค้า	O	O
+-	O	O
+ท่องเที่ยว	O	O
+ที่	O	O
+วิ่ง	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+/s	O	O
+มี	O	O
+ทั้ง	O	O
+เรือ	O	O
+ของ	O	O
+พม่า	O	O
+-	O	O
+/s	O	O
+ลาว	O	O
+-	O	O
+ไทย	O	O
+/s	O	O
+รวม	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+84	O	O
+/s	O	O
+ลำ	O	O
+/s	O	O
+วิ่ง	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ได้	O	O
+ประมาณ	O	O
+/s	O	O
+6-8	O	O
+/s	O	O
+เดือน	O	O
+/	O	O
+ปี	O	O
+/s	O	O
+เป็น	O	O
+เรือ	O	O
+บรรทุก	O	O
+สินค้า	O	O
+ของ	O	O
+ไทย	O	O
+/s	O	O
+มี	O	O
+จำนวน	O	O
+ทั้งสิ้น	O	O
+/s	O	O
+11	O	O
+/s	O	O
+ลำ	O	O
+/s	O	O
+,	O	O
+เรือ	O	O
+สปป.	O	O
+ลาว	O	O
+/s	O	O
+มี	O	O
+จำนวน	O	O
+/s	O	O
+44	O	O
+/s	O	O
+ลำ	O	O
+,	O	O
+/s	O	O
+เรือ	O	O
+พม่า	O	O
+/s	O	O
+มี	O	O
+จำนวน	O	O
+/s	O	O
+29	O	O
+/s	O	O
+ลำ	O	O
+/s	O	O
+ขณะที่	O	O
+กลุ่ม	O	O
+ธุรกิจ	O	O
+เดินเรือ	O	O
+ขนส่ง	O	O
+สินค้า	O	O
+ของ	O	O
+เอกชน	O	O
+ไทย	O	O
+ที่	O	O
+โดดเด่น	O	O
+ที่สุด	O	O
+กลุ่ม	O	O
+ประเทศ	O	O
+ลุ่มน้ำ	O	O
+โขง	O	O
+ตอน	O	O
+บน	O	O
+ทั้ง	O	O
+/s	O	O
+4	O	O
+/s	O	O
+ประเทศ	O	O
+/s	O	O
+อันได้แก่	O	O
+ไทย	O	O
+-	O	O
+ลาว	O	O
+-	O	O
+พม่า	O	O
+-	O	O
+จีน	O	O
+นั้น	O	O
+/s	O	O
+มี	O	O
+อยู่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+กลุ่ม	O	O
+ใหญ่	O	O
+คือ	O	O
+/s	O	O
+กลุ่ม	O	O
+บริษัท	O	O
+/s	O	O
+เจ.	org_start	O
+เค.	org_cont	O
+เอ็น	org_cont	O
+/s	org_cont	O
+เทรดดิ้ง	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+ของ	O	O
+ตระกูล	O	O
+เชื้อเจ็ดตน	O	O
+/s	O	O
+และ	O	O
+บริษัท	O	O
+ล้านช้าง	org_start	O
+/s	org_cont	O
+อินเตอร์เนชั่นแนล	org_cont	O
+/s	org_cont	O
+ดีเวลลอปเม้นท์	org_end	O
+/s	O	O
+จำกัด	O	O
+นางสาว	O	O
+จิราพร	per_start	O
+/s	per_cont	O
+เชื้อเจ็ดตน	per_end	O
+/s	O	O
+กรรมการ	O	O
+ผู้จัดการ	O	O
+/s	O	O
+บริษัท	O	O
+เจ.	org_start	O
+เค.	org_cont	O
+เอ็น.	org_cont	O
+/s	org_cont	O
+เทรดดิ้ง	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+เคย	O	O
+ให้	O	O
+รายละเอียด	O	O
+ว่า	O	O
+/s	O	O
+ส่งออก	O	O
+สินค้า	O	O
+เกษตร	O	O
+ใน	O	O
+ภาค	O	O
+เหนือ	O	O
+สู่	O	O
+ประเทศ	O	O
+จีน	O	O
+/s	O	O
+รวมทั้ง	O	O
+นำ	O	O
+สินค้า	O	O
+อุปโภค	O	O
+บริโภค	O	O
+จาก	O	O
+ประเทศ	O	O
+จีน	O	O
+เข้า	O	O
+มา	O	O
+จำหน่าย	O	O
+ใน	O	O
+ประเทศ	O	O
+ไทย	O	O
+ด้วย	O	O
+บริษัท	O	O
+ได้	org_start	O
+ตั้ง	org_cont	O
+/s	org_cont	O
+บริษัท	org_cont	O
+/s	org_cont	O
+ล้านช้างทรานสปอร์ต	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+ขึ้น	O	O
+เพื่อ	O	O
+ดำเนิน	O	O
+ธุรกิจ	O	O
+ขนส่ง	O	O
+สินค้า	O	O
+เดินเรือ	O	O
+แม่น้ำ	O	O
+โขง	O	O
+เช่นกัน	O	O
+ร่วม	O	O
+ทุน	O	O
+กับ	O	O
+รัฐบาล	O	O
+จีน	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+กระทรวง	O	O
+คมนาคม	O	O
+/s	O	O
+มณฑล	O	O
+ยูนนาน	O	O
+/s	O	O
+ใน	O	O
+สัดส่วน	O	O
+ฝ่าย	O	O
+ไทย	O	O
+ถือ	O	O
+หุ้น	O	O
+/s	O	O
+60%	O	O
+/s	O	O
+และ	O	O
+รัฐบาล	O	O
+จีน	O	O
+ถือ	O	O
+หุ้น	O	O
+/s	O	O
+40%	O	O
+นางสาว	O	O
+จิราพร	per	O
+กล่าว	O	O
+อีก	O	O
+ว่า	O	O
+/s	O	O
+บริษัท	O	O
+ยัง	O	O
+ได้	O	O
+เจรจา	O	O
+ติดต่อ	O	O
+รัฐบาล	O	O
+จีน	O	O
+ทำ	O	O
+สัญญา	O	O
+ต่อ	O	O
+เรือ	O	O
+เส้นทาง	O	O
+ขนส่ง	O	O
+สินค้า	O	O
+ของ	O	O
+บริษัท	O	O
+นั้น	O	O
+จะ	O	O
+เริ่ม	O	O
+จาก	O	O
+ท่าเรือ	O	O
+เชียงแสน	O	O
+-	O	O
+ท่าเรือ	O	O
+เชียงรุ้ง	O	O
+/s	O	O
+ดำเนิน	O	O
+ธุรกิจ	O	O
+เดินเรือ	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ได้	O	O
+เป็น	O	O
+รูปธรรม	O	O
+มาก	O	O
+นัก	O	O
+การ	O	O
+ใช้	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ของ	O	O
+ประเทศ	O	O
+ใน	O	O
+กลุ่ม	O	O
+อนุภูมิภาค	O	O
+นี้	O	O
+/s	O	O
+เสีย	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ต่อ	O	O
+ให้	O	O
+กับสปป.	O	O
+ลาว	O	O
+และ	O	O
+จีน	O	O
+ส่วน	O	O
+เรือ	O	O
+ท่องเที่ยว	O	O
+ของ	O	O
+ผู้	O	O
+ประกอบการ	O	O
+ไทย	O	O
+/s	O	O
+ปัจจุบัน	O	O
+พบ	O	O
+ว่า	O	O
+มี	O	O
+อยู่	O	O
+เพียง	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ราย	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+แม่สลองทัวร์	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+มี	O	O
+เรือ	O	O
+ท่องเที่ยว	O	O
+ขนาด	O	O
+/s	O	O
+40	O	O
+/s	O	O
+ที่นั่ง	O	O
+/s	O	O
+1	O	O
+/s	O	O
+ลำ	O	O
+/s	O	O
+และ	O	O
+บริษัท	O	O
+ตะวันทัวร์	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+ใน	O	O
+เครือ	O	O
+ตะวันห้าเชียง	O	O
+/s	O	O
+หนึ่ง	O	O
+ใน	O	O
+โครงการ	O	O
+ร่วม	O	O
+ทุน	O	O
+กับ	O	O
+บริษัท	O	O
+เดินเรือ	O	O
+สิบสองปันนา	O	O
+/s	O	O
+จำกัด)	O	O
+/s	O	O
+ที่	O	O
+มี	O	O
+นาย	O	O
+หวัง	per_start	O
+/s	per_cont	O
+ต้าหมิง	per_end	O
+/s	O	O
+เป็น	O	O
+ประธาน	O	O
+กรรมการ	O	O
+บริษัท	O	O
+โดย	O	O
+บริษัท	O	O
+เดินเรือ	O	O
+ฯ	O	O
+/s	O	O
+จะ	O	O
+ใช้	O	O
+ทรัพย์สิน	O	O
+ที่	O	O
+มี	O	O
+อยู่	O	O
+ขณะที่	O	O
+ตะวันห้าเชียง	O	O
+จะ	O	O
+ใช้	O	O
+เงินสด	O	O
+สามารถ	O	O
+วิ่ง	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+ตลอด	O	O
+ทั้ง	O	O
+ปี	O	O
+บริการ	O	O
+นัก	O	O
+ท่องเที่ยว	O	O
+ใน	O	O
+แม่น้ำ	O	O
+โขง	O	O
+/s	O	O
+ส่วน	O	O
+กอง	O	O
+เรือ	O	O
+ขนส่ง	O	O
+สินค้า	O	O
+ที่	O	O
+เกิด	O	O
+จาก	O	O
+บริษัท	O	O
+ร่วม	O	O
+ทุน	O	O
+/s	O	O
+ขณะนี้	O	O
+มี	O	O
+อยู่	O	O
+แล้ว	O	O
+จำนวน	O	O
+/s	O	O
+84	O	O
+/s	O	O
+ลำ	O	O
+/s	O	O
+มาเลเซีย	O	O
+ริงกิต	O	O
+และ	O	O
+สิงคโปร์	O	O
+ดอลลาร์	O	O
+ได้	O	O
+ขยับ	O	O
+มา	O	O
+อยู่	O	O
+ที่	O	O
+ระดับ	O	O
+/s	O	O
+4.14	O	O
+/s	O	O
+ริงกิต	O	O
+/s	O	O
+และ	O	O
+/s	O	O
+1.6940	O	O
+/s	O	O
+สิงคโปร์	O	O
+ดอลลาร์	O	O
+/s	O	O
+ต่อ	O	O
+ดอลลาร์	O	O
+สหรัฐ	O	O
+/s	O	O
+1.7120	O	O
+/s	O	O
+สิงคโปร์	O	O
+ดอลลาร์	O	O
+/	O	O
+ดอลลาร์	O	O
+ใน	O	O
+ช่วง	O	O
+เช้า	O	O
+มี	O	O
+รายงาน	O	O
+ข่าว	O	O
+ว่า	O	O
+รัฐบาล	O	O
+ญี่ปุ่น	O	O
+/s	O	O
+โดย	O	O
+นายกรัฐมนตรี	O	O
+เรียวทาโร	O	O
+/s	O	O
+ฮาชิโมโต	O	O
+/s	O	O
+กำลัง	O	O
+จะ	O	O
+พิจารณา	O	O
+ร่าง	O	O
+แผนการ	O	O
+ที่	O	O
+จะ	O	O
+ออก	O	O
+มาตรการ	O	O
+แก้ไข	O	O
+หนี้	O	O
+เสีย	O	O
+ที่	O	O
+ส่ง	O	O
+ผลกระทบ	O	O
+อย่าง	O	O
+หนัก	O	O
+ต่อ	O	O
+ธนาคาร	O	O
+ญี่ปุ่น	org_start	O
+หลายๆ	org_cont	O
+แห่ง	org_end	O
+/s	O	O
+การ	O	O
+จัด	O	O
+ตั้ง	O	O
+/s	O	O
+Bridge	O	O
+/s	O	O
+Bank	O	O
+/s	O	O
+ที่	O	O
+เชื่อ	O	O
+ว่า	O	O
+จะ	O	O
+ช่วย	O	O
+แก้ไข	O	O
+สถานการณ์	O	O
+ให้	O	O
+ดี	O	O
+ขึ้น	O	O
+/s	O	O
+ส่วน	O	O
+การ	O	O
+มา	O	O
+เยือน	O	O
+ไทย	O	O
+ของ	O	O
+นาย	O	O
+โรเบิร์ต	per_start	O
+/s	per_cont	O
+รูบิน	per_end	O
+/s	O	O
+รมต.	O	O
+คลัง	O	O
+สหรัฐ	O	O
+ฯ	O	O
+นั้น	O	O
+/s	O	O
+แต่	O	O
+การ	O	O
+ยืนยัน	O	O
+ว่า	O	O
+สหรัฐ	O	O
+ฯ	O	O
+พร้อม	O	O
+จะ	O	O
+เข้า	O	O
+แทรกแซง	O	O
+ป้องกัน	O	O
+ค่า	O	O
+เงิน	O	O
+เยน	O	O
+ส่วน	O	O
+การ	O	O
+ประกาศ	O	O
+ตัวเลข	O	O
+สำคัญ	O	O
+ของ	O	O
+ธนาคาร	O	O
+แห่ง	org_start	org_start
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+ใน	O	O
+วันนี้	O	O
+สัมพันธภาพ	O	O
+ระหว่าง	O	O
+ไทย	O	O
+กับ	O	O
+พม่า	O	O
+เริ่ม	O	O
+มึนตึง	O	O
+ขึ้น	O	O
+มา	O	O
+อีก	O	O
+ครั้ง	O	O
+หนึ่ง	O	O
+/s	O	O
+รัฐบาล	O	O
+พม่า	O	O
+ไม่	O	O
+พอใจ	O	O
+ต่อ	O	O
+ท่าที	O	O
+ของ	O	O
+ไทย	O	O
+ที่	O	O
+ออก	O	O
+มา	O	O
+วิพากษ์	O	O
+วิจารณ์	O	O
+ทาง	O	O
+การเมือง	O	O
+/s	O	O
+ปัญหา	O	O
+ภายใน	O	O
+ของ	O	O
+พม่า	O	O
+ที่	O	O
+กำลัง	O	O
+เผชิญหน้า	O	O
+กับ	O	O
+พรรค	O	O
+การเมือง	O	O
+ฝ่าย	O	O
+ค้าน	O	O
+อยู่	O	O
+ในขณะนี้	O	O
+/s	O	O
+เป็น	O	O
+เอกภาพ	O	O
+ของ	O	O
+กลุ่ม	O	O
+อาเซียน	O	O
+/s	O	O
+เนื่องมาจาก	O	O
+ที่	O	O
+/s	O	O
+ม.ร.ว.	O	O
+/s	O	O
+สุขุมพันธุ์	O	O
+/s	O	O
+บริพัตร์	O	O
+/s	O	O
+รัฐมนตรีช่วยว่าการ	O	O
+กระทรวง	O	O
+การต่างประเทศ	O	O
+/s	O	O
+ได้	O	O
+ออก	O	O
+มา	O	O
+เสนอ	O	O
+ข้อคิดเห็น	O	O
+สถานการณ์	O	O
+ทาง	O	O
+การเมือง	O	O
+ใน	O	O
+พม่า	O	O
+ขณะนี้	O	O
+ว่า	O	O
+ต้องการ	O	O
+ที่	O	O
+จะ	O	O
+เห็น	O	O
+ทุก	O	O
+ฝ่ายใน	O	O
+พม่า	O	O
+ต่าง	O	O
+สงบ	O	O
+สติ	O	O
+อารมณ์	O	O
+ลง	O	O
+เสีย	O	O
+บ้าง	O	O
+/s	O	O
+รัฐบาล	O	O
+พม่า	O	O
+ควร	O	O
+เปิด	O	O
+โอกาส	O	O
+ให้	O	O
+พรรค	O	O
+สันนิบาตชาติ	O	O
+ประชาธิปไตย	O	O
+/s	O	O
+ภายใต้	O	O
+การ	O	O
+นำ	O	O
+ของ	O	O
+นาง	O	O
+อองซาน	per_start	O
+/s	per_cont	O
+ซูจี	per_end	O
+/s	O	O
+ที่	O	O
+ได้	O	O
+เรียกร้อง	O	O
+ให้	O	O
+รัฐบาล	O	O
+พม่า	O	O
+เปิด	O	O
+ประชุม	O	O
+รัฐสภา	O	O
+นาย	O	O
+สุรินทร์	per_start	O
+/s	per_cont	O
+พิศสุวรรณ	per_end	O
+/s	O	O
+รัฐมนตรี	O	O
+ว่า	O	O
+การ	O	O
+กระทรวง	O	O
+การต่างประเทศ	O	O
+/s	O	O
+กับ	O	O
+นาย	O	O
+เซียชอน	per_start	O
+/s	per_cont	O
+โดมิงโก	per_end	O
+/s	O	O
+รัฐมนตรี	O	O
+ต่างประเทศ	O	O
+ฟิลิปปินส์	O	O
+/s	O	O
+ได้	O	O
+ร่วม	O	O
+กัน	O	O
+แสดง	O	O
+ความ	O	O
+เป็น	O	O
+ห่วงใย	O	O
+/s	O	O
+ต่อ	O	O
+สถานการณ์	O	O
+ทาง	O	O
+การเมือง	O	O
+ของ	O	O
+พม่า	O	O
+ความ	O	O
+ขัดแย้ง	O	O
+ภายใน	O	O
+ของ	O	O
+พม่า	O	O
+อาจ	O	O
+ส่ง	O	O
+ผลกระทบ	O	O
+อาจ	O	O
+ทำให้	O	O
+อาเซียน	O	O
+/s	O	O
+ไร้	O	O
+เสถียรภาพ	O	O
+ได้	O	O
+/s	O	O
+เสนอ	O	O
+ให้	O	O
+อาเซียน	O	O
+เลิก	O	O
+ถือ	O	O
+เคร่ง	O	O
+ข้อ	O	O
+ห้าม	O	O
+การ	O	O
+แทรกแซง	O	O
+กิจการ	O	O
+ภายใน	O	O
+ของ	O	O
+ชาติ	O	O
+อาเซียน	O	O
+อื่น	O	O
+ภาพลักษณ์	O	O
+ระหว่าง	O	O
+ประเทศ	O	O
+ของ	O	O
+อาเซียน	O	O
+ด้วยกัน	O	O
+/s	O	O
+สมาชิก	O	O
+อาเซียน	O	O
+ส่วนใหญ่	O	O
+/s	O	O
+ยกเว้น	O	O
+ประเทศ	O	O
+ฟิลิปปินส์	O	O
+ประเทศ	O	O
+เดียว	O	O
+/s	O	O
+ทำให้	O	O
+กระทรวง	O	O
+การต่างประเทศ	O	O
+/s	O	O
+พม่า	O	O
+ออก	O	O
+มา	O	O
+แถลง	O	O
+เมื่อ	O	O
+วัน	O	O
+พุธ	O	O
+ความ	O	O
+วิตก	O	O
+ดังกล่าว	O	O
+ของ	O	O
+รัฐมนตรี	O	O
+ต่างประเทศ	O	O
+อาเซียน	O	O
+ทั้ง	O	O
+สอง	O	O
+คน	O	O
+นั้น	O	O
+ความ	O	O
+เข้าใจ	O	O
+ผิด	O	O
+กัน	O	O
+ใน	O	O
+หมู่	O	O
+สมาชิก	O	O
+อาเซียน	O	O
+/s	O	O
+และ	O	O
+ส่ง	O	O
+ผล	O	O
+ด้าน	O	O
+กลับ	O	O
+ต่อ	O	O
+ความ	O	O
+สัมพันธ์	O	O
+ทวิภาคี	O	O
+/s	O	O
+วัตถุประสงค์	O	O
+พื้นฐาน	O	O
+ของ	O	O
+อาเซียน	O	O
+"	O	O
+/s	O	O
+(	O	O
+เอเอฟพี.	O	O
+/s	O	O
+9	O	O
+/s	O	O
+ก.ค.	O	O
+41	O	O
+)	O	O
+/s	O	O
+แม้ว่า	O	O
+นาย	O	O
+กอบศักดิ์	per_start	O
+/s	per_cont	O
+ชุติมา	per_end	O
+/s	O	O
+อธิบดี	O	O
+กรม	O	O
+สารนิเทศ	O	O
+/s	O	O
+กระทรวง	O	O
+การต่างประเทศ	O	O
+จะ	O	O
+ออก	O	O
+มา	O	O
+แถลง	O	O
+/s	O	O
+ความ	O	O
+ตึงเครียด	O	O
+ทาง	O	O
+การเมือง	O	O
+ใน	O	O
+พม่า	O	O
+อาจ	O	O
+จะ	O	O
+ระเบิด	O	O
+ฝ่าย	O	O
+รัฐบาล	O	O
+พม่า	O	O
+หนัก	O	O
+ยิ่ง	O	O
+ขึ้น	O	O
+สื่อมวลชน	O	O
+บาง	O	O
+ฉบับ	O	O
+ของ	O	O
+ไทย	O	O
+ยัง	O	O
+ออก	O	O
+มา	O	O
+เสนอ	O	O
+ความเห็น	O	O
+ความคิด	O	O
+ของ	O	O
+รัฐมนตรี	O	O
+ต่างประเทศ	O	O
+ไทย	O	O
+และ	O	O
+ฟิลิปปินส์	O	O
+ว่า	O	O
+/s	O	O
+ใน	O	O
+ฐานะ	O	O
+พม่า	O	O
+เป็น	O	O
+เพื่อนบ้าน	O	O
+ที่อยู่	O	O
+ใกล้ชิด	O	O
+กับ	O	O
+ไทย	O	O
+/s	O	O
+มี	O	O
+อาณาเขต	O	O
+ติดต่อ	O	O
+กัน	O	O
+/s	O	O
+และ	O	O
+เป็น	O	O
+สมาชิก	O	O
+อาเซียน	O	O
+ด้วยกัน	O	O
+/s	O	O
+รัฐบาล	O	O
+ไทย	O	O
+ย่อม	O	O
+มี	O	O
+สิทธิ์	O	O
+ที่	O	O
+จะ	O	O
+แสดง	O	O
+ความ	O	O
+ห่วงใย	O	O
+ต่อ	O	O
+สถานการณ์	O	O
+ใน	O	O
+พม่า	O	O
+ได้	O	O
+/s	O	O
+กลุ่ม	O	O
+ชาติ	O	O
+อาเซียน	O	O
+รับ	O	O
+พม่า	O	O
+เข้าร่วม	O	O
+วง	O	O
+ไพบูลย์	O	O
+กับ	O	O
+กลุ่ม	O	O
+ชาติ	O	O
+อาเซียน	O	O
+ที่	O	O
+ผ่าน	O	O
+มา	O	O
+สถานการณ์	O	O
+ทาง	O	O
+การเมือง	O	O
+ของ	O	O
+พม่า	O	O
+ก็ดี	O	O
+/s	O	O
+ความ	O	O
+ขัดแย้ง	O	O
+ภายใน	O	O
+ของ	O	O
+พม่า	O	O
+จะ	O	O
+ส่ง	O	O
+ผลกระทบ	O	O
+ต่อ	O	O
+กลุ่ม	O	O
+ประเทศ	O	O
+อาเซียน	O	O
+/s	O	O
+โดยเฉพาะ	O	O
+ไทย	O	O
+นั้น	O	O
+/s	O	O
+เดิน	O	O
+ตาม	O	O
+ก้น	O	O
+สหรัฐ	O	O
+ฯ	O	O
+และ	O	O
+ผู้นำ	O	O
+สหภาพ	O	O
+ยุโรป	O	O
+บาง	O	O
+ประเทศ	O	O
+กิจการ	O	O
+ภายใน	O	O
+ของ	O	O
+พม่า	O	O
+มา	O	O
+ช้านาน	O	O
+แล้ว	O	O
+/s	O	O
+สัมพันธภาพ	O	O
+ระหว่าง	O	O
+ไทย	O	O
+กับ	O	O
+พม่า	O	O
+นั้น	O	O
+เคย	O	O
+มึนตึง	O	O
+กัน	O	O
+มา	O	O
+หลาย	O	O
+ครั้ง	O	O
+/s	O	O
+แม้กระทั่ง	O	O
+กับ	O	O
+ประเทศ	O	O
+ใน	O	O
+กลุ่ม	O	O
+อาเซียน	O	O
+ด้วยกัน	O	O
+หลาย	O	O
+ประเทศ	O	O
+/s	O	O
+เช่น	O	O
+/s	O	O
+สิงคโปร์	O	O
+/s	O	O
+มาเลเซีย	O	O
+/s	O	O
+อินโดนีเซีย	O	O
+/s	O	O
+สาธารณรัฐ	O	O
+ประชาธิปไตยประชาชนลาว	O	O
+/s	O	O
+สาธารณรัฐ	O	O
+สังคมนิยม	O	O
+เวียดนาม	O	O
+/s	O	O
+พม่า	O	O
+ก็	O	O
+มี	O	O
+ความ	O	O
+สัมพันธ์	O	O
+ด้วย	O	O
+ดี	O	O
+ตลอดมา	O	O
+/s	O	O
+มี	O	O
+แต่	O	O
+ไทย	O	O
+เท่านั้น	O	O
+พม่า	O	O
+นั้น	O	O
+ได้	O	O
+เปิด	O	O
+ประเทศ	O	O
+ขณะที่	O	O
+สหรัฐอเมริกา	O	O
+และ	O	O
+ยุโรป	O	O
+ต่าง	O	O
+พา	O	O
+กัน	O	O
+แซงก์ชั่น	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+ต่อ	O	O
+พม่า	O	O
+/s	O	O
+ปรากฏ	O	O
+ว่า	O	O
+มี	O	O
+นัก	O	O
+ลงทุน	O	O
+ไทย	O	O
+ยัง	O	O
+คง	O	O
+เดิน	O	O
+หน้า	O	O
+เข้า	O	O
+ไป	O	O
+ลงทุน	O	O
+ใน	O	O
+พม่า	O	O
+อย่าง	O	O
+ต่อเนื่อง	O	O
+ปรากฏ	O	O
+ว่า	O	O
+ทุน	O	O
+ไทย	O	O
+ใน	O	O
+พม่า	O	O
+พุ่ง	O	O
+สูง	O	O
+ถือว่า	O	O
+ใน	O	O
+ปี	O	O
+นั้น	O	O
+ไทย	O	O
+เป็น	O	O
+ประเทศ	O	O
+ที่	O	O
+ลงทุน	O	O
+เป็น	O	O
+อันดับ	O	O
+/s	O	O
+3	O	O
+/s	O	O
+ใน	O	O
+พม่า	O	O
+/s	O	O
+รอง	O	O
+ลง	O	O
+มา	O	O
+จาก	O	O
+อังกฤษ	O	O
+และ	O	O
+สิงคโปร์	O	O
+/s	O	O
+ส่วน	O	O
+อันดับ	O	O
+ที่	O	O
+/s	O	O
+4	O	O
+/s	O	O
+และ	O	O
+ที่	O	O
+/s	O	O
+5	O	O
+/s	O	O
+มาเลเซีย	O	O
+/s	O	O
+และ	O	O
+สหรัฐอเมริกา	O	O
+ตามลำดับ	O	O
+/s	O	O
+นับว่า	O	O
+เป็น	O	O
+อันดับ	O	O
+ที่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ใน	O	O
+กลุ่ม	O	O
+อินโดจีน	O	O
+/s	O	O
+ที่	O	O
+ไทย	O	O
+ทุ่ม	O	O
+เงิน	O	O
+ลงทุน	O	O
+มาก	O	O
+ที่สุด	O	O
+รอง	O	O
+ลง	O	O
+มา	O	O
+จาก	O	O
+ลาว	O	O
+นโยบาย	O	O
+ต่าง	O	O
+ประเทศ	O	O
+ของ	O	O
+ไทย	O	O
+ที่	O	O
+มี	O	O
+ต่อ	O	O
+พม่า	O	O
+/s	O	O
+นั้น	O	O
+ได้	O	O
+ถูก	O	O
+กำหนด	O	O
+โดย	O	O
+ผลประโยชน์	O	O
+ทาง	O	O
+เศรษฐกิจ	O	O
+/s	O	O
+(	O	O
+ECONOMIC	O	O
+/s	O	O
+INTEREST	O	O
+)	O	O
+/s	O	O
+ใน	O	O
+สมัย	O	O
+/s	O	O
+3	O	O
+/s	O	O
+รัฐบาล	O	O
+พลเรือน	O	O
+/s	O	O
+โดยเฉพาะ	O	O
+การ	O	O
+เดินทาง	O	O
+ไป	O	O
+เยือน	O	O
+พม่า	O	O
+ของ	O	O
+/s	O	O
+พล.อ.	O	O
+ชวลิต	O	O
+/s	O	O
+ยงใจยุทธ	O	O
+/s	O	O
+สมัย	O	O
+ที่	O	O
+เป็น	O	O
+นายกรัฐมนตรี	O	O
+ข้อตกลง	O	O
+ระหว่าง	O	O
+รัฐบาล	O	O
+แห่ง	O	O
+ราชอาณาจักร	O	O
+ไทย	O	O
+กับ	O	O
+รัฐบาล	O	O
+แห่ง	O	O
+พม่า	O	O
+/s	O	O
+ณ	O	O
+/s	O	O
+กรุง	O	O
+ย่างกุ้ง	O	O
+/s	O	O
+ข้อความ	O	O
+ตกลง	O	O
+ว่าด้วย	O	O
+การ	O	O
+สัญจร	O	O
+ผ่าน	O	O
+แดน	O	O
+ระหว่าง	O	O
+ประเทศ	O	O
+/s	O	O
+ทั้ง	O	O
+/s	O	O
+2	O	O
+/s	O	O
+(	O	O
+BORDER	O	O
+/s	O	O
+CROS-SING	O	O
+/s	O	O
+AGREEMENT	O	O
+)	O	O
+/s	O	O
+ใน	O	O
+คราว	O	O
+ประชุม	O	O
+คณะ	O	O
+กรรมาธิการ	O	O
+ร่วม	O	O
+ไทย	O	O
+-	O	O
+พม่า	O	O
+/s	O	O
+ครั้ง	O	O
+ที่	O	O
+/s	O	O
+1	O	O
+/s	O	O
+เมื่อ	O	O
+วันที่	O	O
+/s	O	O
+30	O	O
+/s	O	O
+กรกฎาคม	O	O
+/s	O	O
+-1	O	O
+/s	O	O
+สิงหาคม	O	O
+/s	O	O
+2539	O	O
+/s	O	O
+ณ	O	O
+/s	O	O
+กรุง	O	O
+ย่างกุ้ง	O	O
+ความ	O	O
+ร่วมมือ	O	O
+ระหว่าง	O	O
+ไทย	O	O
+กับ	O	O
+พม่า	O	O
+/s	O	O
+เพื่อ	O	O
+ประโยชน์	O	O
+ของ	O	O
+การค้า	O	O
+ชายแดน	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ประเทศ	O	O
+/s	O	O
+โดย	O	O
+ธนาคาร	O	O
+/s	O	O
+นครหลวงไทย	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+เป็น	O	O
+ตัวแทน	O	O
+ธนาคาร	O	O
+ฝ่าย	O	O
+ไทย	O	O
+/s	O	O
+และ	O	O
+/s	O	O
+MYANMAR	O	O
+/s	O	O
+ECONOMIC	O	O
+/s	O	O
+BANK	O	O
+/s	O	O
+เป็น	O	O
+ตัวแทน	O	O
+ธนาคาร	O	O
+ฝ่าย	O	O
+พม่า	O	O
+มูลค่า	O	O
+การ	O	O
+ลงทุน	O	O
+ของ	O	O
+ไทย	O	O
+ใน	O	O
+พม่า	O	O
+มี	O	O
+มูลค่า	O	O
+เพียง	O	O
+/s	O	O
+42.1	O	O
+/s	O	O
+ล้าน	O	O
+ดอลลาร์	O	O
+สหรัฐ	O	O
+/s	O	O
+มี	O	O
+นัก	O	O
+ลงทุน	O	O
+ไทย	O	O
+เข้า	O	O
+ไป	O	O
+ทำ	O	O
+โครงการ	O	O
+ขนาด	O	O
+ใหญ่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+โครงการ	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+บริษัท	O	O
+/s	O	O
+อิตาเลียน	O	O
+ไทย	O	O
+/s	O	O
+ดีเวลอปเมนท์	O	O
+ฯ	O	O
+/s	O	O
+เข้า	O	O
+ไป	O	O
+ลงทุน	O	O
+สร้าง	O	O
+สนามบิน	O	O
+นานา	O	O
+ชาติ	O	O
+ที่	O	O
+เมือง	O	O
+มัณฑะเลย์	O	O
+/s	O	O
+มูลค่า	O	O
+/s	O	O
+300	O	O
+/s	O	O
+ล้าน	O	O
+ดอลลาร์	O	O
+สหรัฐ	O	O
+/s	O	O
+และ	O	O
+บริษัท	O	O
+/s	O	O
+พีทีที	O	O
+/s	O	O
+เอ็กซ์ปอเรชั่น	O	O
+/s	O	O
+แอนด์	O	O
+/s	O	O
+โปรดักท์	O	O
+ฯ	O	O
+/s	O	O
+ร่วม	O	O
+กับ	O	O
+บริษัท	O	O
+ยูโนแคล	O	O
+ฯ	O	O
+/s	O	O
+และ	O	O
+บริษัท	O	O
+โทเทล	O	O
+ฯ	O	O
+และ	O	O
+รัฐวิสาหกิจ	O	O
+พม่า	O	O
+ทำการ	O	O
+สำรวจ	O	O
+และ	O	O
+ผลิต	O	O
+น้ำมัน	O	O
+และ	O	O
+ก๊าซ	O	O
+ธรรมชาติ	O	O
+มี	O	O
+มูลค่า	O	O
+/s	O	O
+1,200	O	O
+/s	O	O
+ล้าน	O	O
+ดอลลาร์	O	O
+สหรัฐ	O	O
+รัฐมนตรี	O	O
+ต่างประเทศ	O	O
+ทั้ง	O	O
+สอง	O	O
+ท่าน	O	O
+มองเห็น	O	O
+ภาพ	O	O
+ได้	O	O
+ชัดเจน	O	O
+กัน	O	O
+บ้าง	O	O
+แล้ว	O	O
+/s	O	O
+ทัศนะ	O	O
+ของ	O	O
+กลุ่ม	O	O
+ชาติ	O	O
+ตะวันตก	O	O
+ที่	O	O
+ดำเนิน	O	O
+ต่อ	O	O
+พม่า	O	O
+ใน	O	O
+ทุกวันนี้	O	O
+/s	O	O
+เป็น	O	O
+ภาพ	O	O
+ที่	O	O
+กลุ่ม	O	O
+ชาติ	O	O
+ตะวันตก	O	O
+ต้องการ	O	O
+ชนชั้น	O	O
+ปกครอง	O	O
+ของ	O	O
+ไทย	O	O
+ใน	O	O
+อดีต	O	O
+ที่	O	O
+ผ่าน	O	O
+มา	O	O
+แล้ว	O	O
+/s	O	O
+เป็น	O	O
+การ	O	O
+ชักนำ	O	O
+ให้	O	O
+ไทย	O	O
+เข้าร่วม	O	O
+ทำ	O	O
+สงคราม	O	O
+กับ	O	O
+ประเทศ	O	O
+เพื่อนบ้าน	O	O
+/s	O	O
+เช่น	O	O
+/s	O	O
+เวียดนาม	O	O
+/s	O	O
+ลาว	O	O
+/s	O	O
+กัมพูชา	O	O
+/s	O	O
+และ	O	O
+/s	O	O
+รวมทั้ง	O	O
+พม่า	O	O
+อีกด้วย	O	O
+/s	O	O
+ชักชวน	O	O
+ให้	O	O
+ชนชั้น	O	O
+ปกครอง	O	O
+ไทย	O	O
+ใน	O	O
+อดีต	O	O
+ร่วม	O	O
+รบ	O	O
+ใน	O	O
+เกาหลีใต้	O	O
+/s	O	O
+เวียดนามใต้	O	O
+/s	O	O
+และ	O	O
+สนับสนุน	O	O
+ชนชาติ	O	O
+ส่วนน้อย	O	O
+กะเหรี่ยง	O	O
+ต่อต้าน	O	O
+รัฐบาล	O	O
+พม่า	O	O
+มา	O	O
+แล้ว	O	O
+/s	O	O
+บทบาท	O	O
+ทาง	O	O
+การ	O	O
+ทูต	O	O
+ของ	O	O
+ไทย	O	O
+โดดเด่น	O	O
+และ	O	O
+มี	O	O
+เกียรติ	O	O
+/s	O	O
+ยิ่ง	O	O
+อยู่	O	O
+ใน	O	O
+ท่ามกลาง	O	O
+กลุ่ม	O	O
+อาเซียน	O	O
+ด้วยกัน	O	O
+/s	O	O
+ปัญหา	O	O
+ที่	O	O
+เกิด	O	O
+ขึ้น	O	O
+ใน	O	O
+กลุ่ม	O	O
+ชาติ	O	O
+อาเซียน	O	O
+ควร	O	O
+ที่	O	O
+จะ	O	O
+นำ	O	O
+มา	O	O
+เจรจา	O	O
+กัน	O	O
+บน	O	O
+โต๊ะ	O	O
+กลม	O	O
+ของ	O	O
+ที่	O	O
+ประชุม	O	O
+อาเซียน	O	O
+เท่านั้น	O	O
+"	O	O
+ซีดีซี	O	O
+"	O	O
+/s	O	O
+เปิด	O	O
+ตัว	O	O
+บริษัท	O	O
+ให้	O	O
+คำ	O	O
+ปรึกษา	O	O
+ภาวะ	O	O
+เศรษฐกิจ	O	O
+ไทย	O	O
+ซบเซา	O	O
+/s	O	O
+บริษัท	O	O
+ที่	O	O
+มี	O	O
+ปัญหา	O	O
+ของ	O	O
+ไทย	O	O
+มร.	O	O
+ชาร์ลส์	O	O
+/s	O	O
+เซลเลอร์	O	O
+/s	O	O
+ผู้	O	O
+แทน	O	O
+สำนักงาน	O	O
+/s	O	O
+ซีดีซี	O	O
+/s	O	O
+ประจำ	O	org_start
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+บริษัท	O	O
+/s	O	O
+คอนมอนเวลธ์	O	O
+/s	O	O
+ดิเวลลอปเมนท์	O	O
+/s	O	O
+คอร์ปอเรชั่น	O	O
+/s	O	O
+(	O	O
+ซีดีซี	O	O
+)	O	O
+/s	O	O
+ซึ่ง	O	O
+เป็น	O	O
+สถาบัน	O	O
+ที่	O	O
+ดำเนิน	O	O
+ธุรกิจ	O	O
+ที่	O	O
+มี	O	O
+จุดหมาย	O	O
+ใน	O	O
+การ	O	O
+ที่	O	O
+จะ	O	O
+ดึง	O	O
+บริษัท	O	O
+เอกชน	O	O
+ให้	O	O
+เข้า	O	O
+ไป	O	O
+ลงทุน	O	O
+/s	O	O
+โดยเฉพาะ	O	O
+ธุรกิจ	O	O
+ที่	O	O
+มี	O	O
+ปัญหา	O	O
+อย่างเช่น	O	O
+สถาบัน	O	O
+การเงิน	O	O
+/s	O	O
+การ	O	O
+แก้	O	O
+ปัญหา	O	O
+ของ	O	O
+บริษัท	O	O
+ของ	O	O
+ไทย	O	O
+แนวทาง	O	O
+ของ	O	O
+ซีดีซี	O	O
+นั้น	O	O
+จะ	O	O
+เป็น	O	O
+การ	O	O
+ให้	O	O
+คำ	O	O
+แนะนำ	O	O
+และ	O	O
+หา	O	O
+พันธมิตร	O	O
+ร่วม	O	O
+กับ	O	O
+บริษัท	O	O
+ท้องถิ่น	O	O
+ซีดีซี	O	O
+เป็น	O	O
+สถาบัน	O	O
+ที่	O	O
+มี	O	O
+ความ	O	O
+แตกต่าง	O	O
+จาก	O	O
+สถาบัน	O	O
+การ	O	O
+ลงทุน	O	O
+อื่นๆ	O	O
+บีบีซี	O	O
+เป็น	O	O
+สถาบัน	O	O
+ภาษา	O	O
+โดยที่	O	O
+ผ่าน	O	O
+มา	O	O
+ซีดีซี	O	O
+อยู่	O	O
+ใน	O	O
+ช่วง	O	O
+ของ	O	O
+การ	O	O
+ปรับ	O	O
+เปลี่ยน	O	O
+การ	O	O
+บริหาร	O	O
+งาน	O	O
+/s	O	O
+เมื่อ	O	O
+ปี	O	O
+ที่แล้ว	O	O
+รัฐบาล	O	O
+อังกฤษ	O	O
+ได้	O	O
+ประกาศ	O	O
+นโยบาย	O	O
+บริษัท	O	O
+กึ่ง	O	O
+รัฐ	O	O
+และ	O	O
+เอกชน	O	O
+/s	O	O
+ปัจจุบัน	O	O
+ซีดีซี	O	O
+ดำเนิน	O	O
+ธุรกิจ	O	O
+ใน	O	O
+ประเทศ	O	O
+ไทย	O	O
+/s	O	O
+ลาว	O	O
+/s	O	O
+และ	O	O
+เวียดนาม	O	O
+/s	O	O
+เครือข่าย	O	O
+ซีดีซี	O	O
+ทั่ว	O	O
+โลก	O	O
+/s	O	O
+มูลค่า	O	O
+ราว	O	O
+/s	O	O
+110	O	O
+/s	O	O
+ล้าน	O	O
+เหรียญ	O	O
+สหรัฐ	O	O
+/s	O	O
+โครงการ	O	O
+ลงทุน	O	O
+ใน	O	O
+ประเทศ	O	O
+ไทย	O	O
+ที่	O	O
+ผ่าน	O	O
+มา	O	O
+ใน	O	O
+โครงการ	O	O
+ต่างๆ	O	O
+เช่น	O	O
+/s	O	O
+นวนคร	O	O
+,	O	O
+/s	O	O
+สินเคหะการเครดิต	O	O
+/s	O	O
+ฟองซิเอร์	O	O
+,	O	O
+/s	O	O
+ยูไนเต็ด	O	O
+/s	O	O
+ปาล์มออยส์	O	O
+/s	O	O
+อินดัสตรี	O	O
+,	O	O
+/s	O	O
+เกษตรรุ่งเรือง	O	O
+,	O	O
+/s	O	O
+เครือ	O	O
+โรงแรม	O	O
+โฮเซีย	O	O
+,	O	O
+/s	O	O
+บรรษัท	O	O
+เงินทุน	org_start	O
+/s	org_cont	O
+อุตสาหกรรม	org_cont	org_start
+แห่ง	org_cont	org_cont
+ประเทศ	org_cont	org_cont
+ไทย	org_end	org_end
+มร.	O	O
+ชาร์ลส	O	O
+/s	O	O
+เซลเลอร์	O	O
+/s	O	O
+กล่าว	O	O
+ต่อไป	O	O
+ว่า	O	O
+/s	O	O
+มี	O	O
+ความ	O	O
+สอดคล้อง	O	O
+กับ	O	O
+หลักเกณฑ์	O	O
+ของ	O	O
+ซีดีซี	O	O
+ทั่ว	O	O
+โลก	O	O
+/s	O	O
+การ	O	O
+เปลี่ยนแปลง	O	O
+เศรษฐกิจ	O	O
+ของ	O	O
+ไทย	O	O
+มา	O	O
+ตลอด	O	O
+/s	O	O
+ดำเนิน	O	O
+ธุรกิจ	O	O
+ใน	O	O
+ประเทศ	O	O
+ไทย	O	O
+อยู่	O	O
+/s	O	O
+ผู้	O	O
+เชี่ยวชาญ	O	O
+จาก	O	O
+อังกฤษ	O	O
+มา	O	O
+ให้	O	O
+การ	O	O
+สนับสนุน	O	O
+พันธมิตร	O	O
+โดย	O	O
+ตรง	O	O
+สังคม	O	O
+ไทย	O	O
+ไม่ว่า	O	O
+จะ	O	O
+เป็น	O	O
+การ	O	O
+สร้าง	O	O
+งาน	O	O
+เงินตรา	O	O
+ต่าง	O	O
+ประเทศ	O	O
+ผ่าน	O	O
+มา	O	O
+ใน	O	O
+ประเทศ	O	O
+ซาอุดิอาระเบีย	O	O
+อีกด้วย	O	O
+/s	O	O
+ภาค	O	O
+ตะวันออก	O	O
+การ	O	O
+บังคับ	O	O
+ยึด	O	O
+ทรัพย์	O	O
+ที่	O	O
+พัทยา	O	O
+สูงสุด	O	O
+/s	O	O
+นาย	O	O
+ไกรสร	per_start	O
+/s	per_cont	O
+สิงหราชวราพันธ์	per_end	O
+/s	O	O
+หัวหน้า	O	O
+สำนักงาน	O	O
+บังคับคดี	O	O
+เชียงใหม่	O	O
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+กลุ่ม	O	O
+ลูกหนี้	O	O
+เงินกู้	O	O
+ของ	O	O
+ธนาคาร	O	O
+พาณิชย์	O	O
+ส่วน	O	O
+สถาบัน	O	O
+การเงิน	O	O
+ที่	O	O
+ยื่น	O	O
+ฟ้อง	O	O
+ต่อ	O	O
+ศาล	O	O
+ธนาคาร	O	O
+อาคาร	O	org_start
+สงเคราะห์	O	org_end
+/s	O	O
+(	O	O
+ธอส.	O	O
+)	O	O
+/s	O	O
+จาก	O	O
+เดิม	O	O
+ที่	O	O
+มี	O	O
+ธนาคาร	O	O
+กรุงไทย	O	O
+/s	O	O
+ธนาคาร	O	O
+ไทยพาณิชย์	O	O
+/s	O	O
+ธนาคาร	O	O
+อาคาร	O	org_start
+สงเคราะห์	O	org_end
+/s	O	O
+และ	O	O
+ธนาคาร	O	O
+ทหารไทย	O	O
+/s	O	O
+บังคับ	O	O
+คดี	O	O
+มาก	O	O
+ที่สุด	O	O
+ใน	O	O
+กลุ่ม	O	O
+อสังหาริมทรัพย์	O	O
+ใน	O	O
+เชียงใหม่	O	O
+/s	O	O
+ที่	O	O
+ถูก	O	O
+บังคับ	O	O
+คดี	O	O
+มาก	O	O
+ที่สุด	O	O
+นั้น	O	O
+ทั้ง	O	O
+ที่อยู่	O	O
+ใน	O	O
+เขต	O	O
+อำเภอ	O	O
+หางดง	O	O
+/s	O	O
+อำเภอ	O	O
+จอมทอง	O	O
+/s	O	O
+อำเภอ	O	O
+สันกำแพง	O	O
+/s	O	O
+อำเภอ	O	O
+ดอยสะเก็ด	O	O
+/s	O	O
+จังหวัด	O	O
+เชียงใหม่	O	O
+/s	O	O
+สวน	O	O
+เกษตร	O	O
+ใน	O	O
+เชียงใหม่	O	O
+-	O	O
+ลำพูน	O	O
+/s	O	O
+โครงการ	O	O
+หมู่บ้านจัดสรร	O	O
+ทุก	O	O
+โครงการ	O	O
+ใน	O	O
+เชียงใหม่	O	O
+มี	O	O
+ลูกค้า	O	O
+นาย	O	O
+ไกรสร	per	O
+บอก	O	O
+ว่า	O	O
+/s	O	O
+กฎหมาย	O	O
+ล้มละลาย	O	O
+-	O	O
+การ	O	O
+ประนอมหนี้	O	O
+/s	O	O
+ไม่	O	O
+ได้	O	O
+มี	O	O
+ส่วน	O	O
+ช่วย	O	O
+มาก	O	O
+นัก	O	O
+กรณี	O	O
+ของ	O	O
+บริษัท	O	O
+/s	O	O
+เคซี	org_start	O
+/s	org_cont	O
+อุตสาหกรรม	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+ที่	O	O
+ไม่	O	O
+ประสบ	O	O
+ผลสำเร็จ	O	O
+/s	O	O
+ผู้	O	O
+ประกอบการ	O	O
+ไม่	O	O
+ไว้วางใจ	O	O
+ธนาคาร	O	O
+เจ้าหนี้	O	O
+เอกชน	O	O
+เมิน	O	O
+ลงทุน	O	O
+ร้านค้า	O	O
+ปลอด	O	O
+อากร	O	O
+/s	O	O
+คลัง	O	O
+สินค้า	O	O
+ทัณฑ์บน	O	O
+ใน	O	O
+ภูเก็ต	O	O
+/s	O	O
+เพราะ	O	O
+ขาด	O	O
+สภาพ	O	O
+คล่อง	O	O
+ด้าน	O	O
+หอ	O	O
+ฯ	O	O
+ภูเก็ต	O	O
+ประกาศ	O	O
+ดัน	O	O
+โครงการ	O	O
+นี้	O	O
+สุด	O	O
+ตัว	O	O
+นาย	O	O
+ชาญ	per_start	O
+/s	per_cont	O
+วงศ์สัตยานนท์	per_end	O
+/s	O	O
+รอง	O	O
+ประธาน	O	O
+หอการค้า	O	org
+จังหวัด	O	O
+ภูเก็ต	O	O
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+การ	O	O
+ผลักดัน	O	O
+ให้	O	O
+ภูเก็ต	O	O
+เป็น	O	O
+เมืองท่า	O	O
+ปลอด	O	O
+ภาษี	O	O
+การ	O	O
+จัดตั้ง	O	O
+ร้านค้า	O	O
+ปลอด	O	O
+อากร	O	O
+/s	O	O
+ใน	O	O
+รูปแบบ	O	O
+คลัง	O	O
+สินค้า	O	O
+ทัณฑ์บน	O	O
+เงื่อนไข	O	O
+ประกาศ	O	O
+กรม	O	O
+ศุลกากร	O	O
+ที่	O	O
+/s	O	O
+38/2541	O	O
+/s	O	O
+คลัง	O	O
+สินค้า	O	O
+ทัณฑ์บน	O	O
+ประเภท	O	O
+ร้านค้า	O	O
+ปลอด	O	O
+ภาษี	O	O
+ให้	O	O
+ความ	O	O
+สนใจ	O	O
+ยื่น	O	O
+ขอ	O	O
+อนุญาต	O	O
+จัดตั้ง	O	O
+กับ	O	O
+กรม	O	O
+ศุลกากร	O	O
+เลย	O	O
+/s	O	O
+การ	O	O
+ผลักดัน	O	O
+ของ	O	O
+เอกชน	O	O
+ใน	O	O
+จังหวัด	O	O
+ภูเก็ต	O	O
+กว่า	O	O
+/s	O	O
+10	O	O
+/s	O	O
+ปี	O	O
+ไม่	O	O
+ก่อให้เกิด	O	O
+ประโยชน์	O	O
+กับ	O	O
+จังหวัด	O	O
+ภูเก็ต	O	O
+เลย	O	O
+/s	O	O
+ตาม	O	O
+ระเบียบ	O	O
+ข้อบังคับ	O	O
+ของ	O	O
+กรม	O	O
+ศุลกากร	O	O
+/s	O	O
+การ	O	O
+ประชาสัมพันธ์	O	O
+ของ	O	O
+กรม	O	O
+ศุลกากร	O	O
+ยัง	O	O
+ไม่	O	O
+ดี	O	O
+พอ	O	O
+/s	O	O
+นาย	O	O
+ชาญ	per	O
+กล่าว	O	O
+อีก	O	O
+ว่า	O	O
+แต่	O	O
+หอการค้า	O	O
+ก็	O	O
+จะ	O	O
+ผลักดัน	O	O
+เรื่อง	O	O
+นี้	O	O
+จนถึง	O	O
+ที่สุด	O	O
+/s	O	O
+เป็น	O	O
+โครงการ	O	O
+ที่	O	O
+เป็น	O	O
+ประโยชน์	O	O
+ต่อ	O	O
+การ	O	O
+ท่องเที่ยว	O	O
+ของ	O	O
+จังหวัด	O	O
+ภูเก็ต	O	O
+มาก	O	O
+/s	O	O
+หอการค้า	O	O
+/s	O	O
+จะ	O	O
+จัดการ	O	O
+ประชุม	O	O
+สัมมนา	O	O
+เรื่อง	O	O
+การ	O	O
+ขอ	O	O
+จัดตั้ง	O	O
+ร้านค้า	O	O
+ปลอด	O	O
+อากร	O	O
+/s	O	O
+ซึ่ง	O	O
+จะ	O	O
+เชิญ	O	O
+ตัวแทน	O	O
+จาก	O	O
+กรม	O	O
+ศุลกากร	O	O
+/s	O	O
+และ	O	O
+การ	O	O
+ท่องเที่ยว	O	org_start
+แห่ง	O	org_cont
+ประเทศ	O	org_cont
+ไทย	O	org_end
+/s	O	O
+(	O	O
+ททท.	O	org
+)	O	O
+/s	O	O
+ใน	O	O
+ฐานะ	O	O
+ที่	O	O
+เป็น	O	O
+หน่วยงาน	O	O
+ที่	O	O
+มี	O	O
+ความรู้	O	O
+และ	O	O
+ประสบการณ์	O	O
+ใน	O	O
+การ	O	O
+ทำ	O	O
+ธุรกิจ	O	O
+ร้านค้า	O	O
+ปลอด	O	O
+อากร	O	O
+/s	O	O
+ด้าน	O	O
+นาย	O	O
+ไพบูลย์	per_start	O
+/s	per_cont	O
+อุปัตศฤงค์	per_end	O
+/s	O	O
+ประธาน	O	O
+หอการค้า	O	org
+จังหวัด	O	O
+ภูเก็ต	O	O
+กล่าว	O	O
+ว่า	O	O
+คกน.	O	O
+รุก	O	O
+รัฐ	O	O
+ทบทวน	O	O
+มติ	O	O
+ครม.	O	O
+ยื่น	O	O
+หนังสือ	O	O
+กรรมาธิการ	O	O
+เกษตร	O	org_start
+ฯ	O	org_end
+/s	O	O
+เรียกร้อง	O	O
+ตีความ	O	O
+มติ	O	O
+ครม.	O	O
+ขัด	O	O
+ต่อ	O	O
+รัฐธรรมนูญ	O	O
+หรือไม่	O	O
+/s	O	O
+นาย	O	O
+ประยงค์	per_start	O
+/s	per_cont	O
+ดอกลำไย	per_end	O
+/s	O	O
+กรรมการ	O	O
+บริหาร	O	O
+เครือข่าย	O	O
+เกษตรกร	O	O
+ภาค	O	O
+เหนือ	O	O
+/s	O	O
+(	O	O
+คกน.	O	O
+)	O	O
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+ตัวแทน	O	O
+คกน.	O	O
+ได้	O	O
+เข้า	O	O
+ยื่น	O	O
+หนังสือ	O	O
+ต่อ	O	O
+นาย	O	O
+เจริญ	per_start	O
+/s	per_cont	O
+จรรย์โกมล	per_end	O
+/s	O	O
+ประธาน	O	O
+คณะ	O	O
+กรรมาธิการ	O	O
+เกษตร	O	O
+และ	O	O
+สหกรณ์	O	O
+/s	O	O
+สภา	O	O
+ผู้แทนราษฎร	O	O
+/s	O	O
+เพื่อให้	O	O
+พิจารณา	O	O
+มติ	O	O
+คณะ	O	O
+รัฐมนตรี	O	O
+/s	O	O
+(	O	O
+ครม.	O	O
+)	O	O
+/s	O	O
+ตาม	O	O
+ความเห็น	O	O
+ของ	O	O
+คกน.	O	O
+/s	O	O
+มติ	O	O
+ครม.	O	O
+ดังกล่าว	O	O
+ขัด	O	O
+รัฐธรรมนูญ	O	O
+หลาย	O	O
+มาตรา	O	O
+นาย	O	O
+ประยงค์	per	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+ประธาน	O	O
+คณะ	O	O
+กรรมาธิการ	O	O
+เกษตร	O	org_start
+ฯ	O	org_end
+/s	O	O
+ได้	O	O
+รับปาก	O	O
+กับ	O	O
+ตัวแทน	O	O
+คกน.	O	O
+/s	O	O
+จะ	O	O
+นำ	O	O
+ข้อ	O	O
+ร้องเรียน	O	O
+ดังกล่าว	O	O
+ไป	O	O
+ศึกษา	O	O
+ก่อน	O	O
+/s	O	O
+ซึ่ง	O	O
+ถ้า	O	O
+คณะ	O	O
+กรรมาธิการ	O	O
+ฯ	O	O
+/s	O	O
+พิจารณา	O	O
+ใน	O	O
+เบื้องต้น	O	O
+เสนอ	O	O
+ต่อ	O	O
+ประธาน	O	O
+รัฐสภา	O	O
+เพื่อ	O	O
+ยื่น	O	O
+ให้	O	O
+ศาล	O	O
+รัฐธรรมนูญ	O	O
+ตีความ	O	O
+ชี้ขาด	O	O
+ต่อไป	O	O
+/s	O	O
+นาย	O	O
+ประยงค์	per	O
+เปิดเผย	O	O
+อีก	O	O
+ว่า	O	O
+/s	O	O
+ใน	O	O
+ระหว่าง	O	O
+ที่	O	O
+รอ	O	O
+ผล	O	O
+การ	O	O
+พิจารณา	O	O
+ของ	O	O
+คณะ	O	O
+กรรมาธิการ	O	O
+/s	O	O
+คกน.	O	O
+จะ	O	O
+จัด	O	O
+สัมมนา	O	O
+ชาว	O	O
+บ้าน	O	O
+อำเภอ	O	O
+ดอยสะเก็ด	O	O
+/s	O	O
+จังหวัด	O	O
+เชียงใหม่	O	O
+/s	O	O
+โดย	O	O
+มี	O	O
+ชาว	O	O
+บ้าน	O	O
+ที่	O	O
+เป็น	O	O
+ชน	O	O
+เผ่า	O	O
+ต่างๆ	O	O
+/s	O	O
+ได้แก่	O	O
+/s	O	O
+ลีซอ	O	O
+/s	O	O
+ปะกากะยอ	O	O
+/s	O	O
+ลาหู่	O	O
+/s	O	O
+เมี่ยน	O	O
+/s	O	O
+ม้ง	O	O
+/s	O	O
+อาข่า	O	O
+/s	O	O
+จาก	O	O
+/s	O	O
+6	O	O
+/s	O	O
+จังหวัด	O	O
+/s	O	O
+คือ	O	O
+/s	O	O
+พะเยา	O	O
+/s	O	O
+เชียงราย	O	O
+/s	O	O
+ลำพูน	O	O
+/s	O	O
+กำแพงเพชร	O	O
+/s	O	O
+ตาก	O	O
+/s	O	O
+เชียงใหม่	O	O
+/s	O	O
+เข้าร่วม	O	O
+ประมาณ	O	O
+/s	O	O
+200	O	O
+/s	O	O
+คน	O	O
+/s	O	O
+หลักการ	O	O
+ของ	O	O
+มติ	O	O
+ครม.	O	O
+วันที่	O	O
+/s	O	O
+30	O	O
+/s	O	O
+มิถุนายน	O	O
+/s	O	O
+2541	O	O
+/s	O	O
+ใน	O	O
+เขต	O	O
+สปก.	O	O
+ให้	O	O
+ทดแทน	O	O
+ใน	O	O
+เขต	O	O
+พื้นที่	O	O
+ป่า	O	O
+/s	O	O
+ของ	O	O
+จังหวัด	O	O
+โคราช	O	O
+ใน	O	O
+สมัย	O	O
+รัฐบาล	O	O
+พล.อ.	O	O
+ชวลิต	O	O
+/s	O	O
+ยงใจยุทธ	O	O
+/s	O	O
+ที่	O	O
+อะลุ่มอล่วย	O	O
+ให้	O	O
+ราษฎร	O	O
+อาศัย	O	O
+อยู่	O	O
+ใน	O	O
+พื้นที่	O	O
+ป่า	O	O
+ให้	O	O
+มี	O	O
+การ	O	O
+ตั้ง	O	O
+คณะ	O	O
+กรรมการ	O	O
+ร่วม	O	O
+จาก	O	O
+หลายๆ	O	O
+/s	O	O
+ฝ่าย	O	O
+ขึ้น	O	O
+มา	O	O
+ร่วม	O	O
+กัน	O	O
+พิสูจน์	O	O
+สิทธิ	O	O
+/s	O	O
+"	O	O
+สภาพัฒน์	O	O
+ระบุ	O	O
+ชาว	O	O
+บ้าน	O	O
+แหลมฉบัง	O	O
+ตัวการ	O	O
+ที่	O	O
+ทำให้	O	O
+ท่าเรือ	O	O
+ระยะ	O	O
+2	O	O
+ยืดเยื้อ	O	O
+"	O	O
+สภาพัฒน์	O	O
+ชี้	O	O
+ถึง	O	O
+เวลา	O	O
+ต้อง	O	O
+จัดการ	O	O
+ขั้น	O	O
+เด็ดขาด	O	O
+กับ	O	O
+ชาว	O	O
+บ้าน	O	O
+แหลมฉบัง	O	O
+แล้ว	O	O
+/s	O	O
+การ	O	O
+พัฒนา	O	O
+โครงการ	O	O
+ท่าเรือ	O	O
+ระยะ	O	O
+ที่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+ดร.	O	O
+พรชัย	O	O
+/s	O	O
+รุจิประภา	O	O
+/s	O	O
+รอง	O	O
+ผู้อำนวยการ	O	O
+/s	O	O
+สำนักงาน	O	O
+คณะกรรมการ	O	O
+พัฒนา	O	O
+พื้นที่	O	O
+ชายฝั่ง	O	O
+ทะเล	O	O
+ตะวันออก	O	O
+/s	O	O
+(	O	O
+กพอ.	O	O
+)	O	O
+/s	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+ขณะนี้	O	O
+การ	O	O
+พัฒนา	O	O
+ท่าเรือ	O	O
+แหลมฉบัง	O	O
+ดำเนินการ	O	O
+มา	O	O
+ถึง	O	O
+ขั้น	O	O
+ที่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+แล้ว	O	O
+/s	O	O
+ชาว	O	O
+บ้าน	O	O
+แหลมฉบัง	O	O
+ไม่	O	O
+ยอม	O	O
+ย้าย	O	O
+ออก	O	O
+จาก	O	O
+พื้นที่	O	O
+/s	O	O
+ขณะเดียวกัน	O	O
+ท่าเรือ	O	O
+ฯ	O	O
+ก็	O	O
+ไม่	O	O
+ใช้	O	O
+มาตรการ	O	O
+ขั้น	O	O
+เด็ดขาด	O	O
+ทั้งที่	O	O
+ท่าเรือ	O	O
+ฯ	O	O
+ได้	O	O
+จ่าย	O	O
+ค่า	O	O
+เวนคืน	O	O
+ที่ดิน	O	O
+/s	O	O
+จ่าย	O	O
+ค่า	O	O
+ชดเชย	O	O
+ผ่าน	O	O
+ธนาคาร	O	O
+ออมสิน	O	org
+/s	O	O
+สาขา	O	O
+ศรีราชา	O	O
+/s	O	O
+รัฐบาล	O	O
+หวัง	O	O
+เป็น	O	O
+อย่าง	O	O
+มาก	O	O
+ที่	O	O
+จะ	O	O
+นำ	O	O
+ท่าเรือ	O	O
+แหลมฉบัง	O	O
+เป็น	O	O
+ฐาน	O	O
+ใน	O	O
+การ	O	O
+กอบกู้	O	O
+เศรษฐกิจ	O	O
+นาวา	O	O
+โท	O	O
+กาญจน์	O	O
+/s	O	O
+ตันติเวชกุล	O	O
+/s	O	O
+ผู้อำนวยการ	O	O
+ท่าเรือ	O	O
+แหลมฉบัง	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+ขณะนี้	O	O
+ท่าเรือ	O	O
+แหลมฉบัง	O	O
+กำลัง	O	O
+พัฒนา	O	O
+อยู่	O	O
+ใน	O	O
+ระยะ	O	O
+ที่	O	O
+/s	O	O
+2	O	O
+/s	O	O
+เป็น	O	O
+ศูนย์กลาง	O	O
+การ	O	O
+ขนส่ง	O	O
+ทาง	O	O
+ทะเล	O	O
+ของ	O	O
+ประเทศ	O	O
+/s	O	O
+และ	O	O
+ภูมิภาค	O	O
+เอเชีย	O	O
+ตะวันออกเฉียงใต้	O	O
+/s	O	O
+หาก	O	O
+เปิด	O	O
+บริการ	O	O
+ท่า	O	O
+แรก	O	O
+แล้ว	O	O
+/s	O	O
+ก็	O	O
+จะ	O	O
+ต้อง	O	O
+พัฒนา	O	O
+ท่าเรือ	O	O
+ที่	O	O
+เหลือ	O	O
+ต่อไป	O	O
+ดำเนินการ	O	O
+ขั้น	O	O
+รุนแรง	O	O
+กับ	O	O
+ชาว	O	O
+บ้าน	O	O
+แหลมฉบัง	O	O
+/s	O	O
+เนื่องจาก	O	O
+แผนการ	O	O
+พัฒนา	O	O
+ท่าเรือ	O	O
+ฯ	O	O
+/s	O	O
+ได้	O	O
+ปรับ	O	O
+เปลี่ยน	O	O
+บาง	O	O
+ส่วน	O	O
+ย้าย	O	O
+ออก	O	O
+จาก	O	O
+พื้นที่	O	O
+เวนคืน	O	O
+ได้	O	O
+/s	O	O
+หา	O	O
+มาตรการ	O	O
+มา	O	O
+จัดการ	O	O
+กับ	O	O
+ชาว	O	O
+บ้าน	O	O
+แหลมฉบัง	O	O
+ต่อไป	O	O
+/s	O	O
+ทาง	O	O
+ท่าเรือ	O	O
+ฯ	O	O
+ไม่	O	O
+ได้	O	O
+นิ่งนอนใจ	O	O
+/s	O	O
+นาย	O	O
+ศุภชัย	per_start	O
+/s	per_cont	O
+พานิชภักดิ์	per_end	O
+/s	O	O
+รอง	O	O
+นายกรัฐมนตรี	O	O
+/s	O	O
+และ	O	O
+รัฐมนตรีว่าการ	O	O
+กระทรวง	O	O
+พาณิชย์	O	org
+ได้	O	O
+เดินทาง	O	O
+มา	O	O
+ตรวจ	O	O
+เยี่ยม	O	O
+การ	O	O
+พัฒนา	O	O
+ท่าเรือ	O	O
+แหลมฉบัง	O	O
+/s	O	O
+พนักงาน	O	O
+บริษัท	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+กว่า	O	O
+/s	O	O
+200	O	O
+/s	O	O
+คน	O	O
+/s	O	O
+ชุมนุม	O	O
+หน้า	O	O
+ศาลากลาง	O	O
+จังหวัด	O	O
+ขอนแก่น	O	O
+/s	O	O
+เรียกร้อง	O	O
+รมว.	O	O
+อุตสาหกรรม	O	O
+ชะลอ	O	O
+ปิด	O	O
+โรงงาน	O	O
+ตั้ง	O	O
+เวที	O	O
+ปราศรัย	O	O
+โจมตี	O	O
+/s	O	O
+"	O	O
+อดิศร	O	O
+/s	O	O
+เพียงเกษ	O	O
+"	O	O
+/s	O	O
+สร้าง	O	O
+สถานการณ์	O	O
+หวัง	O	O
+ผล	O	O
+เลือกตั้ง	O	O
+คราว	O	O
+หน้า	O	O
+หลังจาก	O	O
+นาย	O	O
+สมศักดิ์	per_start	O
+/s	per_cont	O
+เทพสุทิน	per_end	O
+/s	O	O
+รัฐมนตรีว่าการ	O	O
+กระทรวง	O	O
+อุตสาหกรรม	O	O
+/s	O	O
+เห็นชอบ	O	O
+ให้	O	O
+อธิบดี	O	O
+กรม	O	O
+โรงงานอุตสาหกรรม	O	O
+สั่ง	O	O
+ปิด	O	O
+โรงงาน	O	O
+เยื่อ	O	O
+กระดาษ	O	O
+บริษัท	O	O
+ฟินิคซ์	org_start	O
+/s	org_cont	O
+พัลพ์	org_cont	O
+/s	org_cont	O
+แอนด์	org_cont	O
+/s	org_cont	O
+เพเพอร์	org_end	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+การ	O	O
+ต่อต้าน	O	O
+จาก	O	O
+กลุ่ม	O	O
+พนักงาน	O	O
+ของ	O	O
+บริษัท	O	O
+อย่าง	O	O
+รุนแรง	O	O
+กลุ่ม	O	O
+พนักงาน	O	O
+ลูกจ้าง	O	O
+โรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+ราว	O	O
+/s	O	O
+200	O	O
+/s	O	O
+คน	O	O
+/s	O	O
+ใน	O	O
+นาม	O	O
+สหภาพ	O	O
+แรงงาน	O	O
+ฟินิคซ	O	O
+ฯ	O	O
+/s	O	O
+และ	O	O
+คณะ	O	O
+กรรมการ	O	O
+ลูกจ้าง	O	O
+ฟินิคซ	O	O
+ฯ	O	O
+/s	O	O
+ได้	O	O
+เคลื่อน	O	O
+ขบวน	O	O
+ที่ตั้ง	O	O
+โรงงาน	O	O
+ที่	O	O
+อำเภอ	O	O
+น้ำพอง	O	O
+/s	O	O
+มา	O	O
+ชุมนุม	O	O
+กัน	O	O
+ที่	O	O
+สนาม	O	O
+หน้า	O	O
+ศาลากลาง	O	O
+จังหวัด	O	O
+ขอนแก่น	O	O
+เพื่อ	O	O
+ยื่น	O	O
+หนังสือ	O	O
+ถึง	O	O
+นาย	O	O
+สมศักดิ์	per_start	O
+/s	per_cont	O
+เทพสุทิน	per_end	O
+/s	O	O
+สำเนา	O	O
+อีก	O	O
+ฉบับ	O	O
+ส่ง	O	O
+ถึง	O	O
+นาย	O	O
+ชวน	per_start	per_start
+/s	per_cont	O
+หลีกภัย	per_end	per_end
+/s	O	O
+นายกรัฐมนตรี	O	O
+/s	O	O
+โดย	O	O
+ผ่าน	O	O
+นาย	O	O
+เสริมศักดิ์	per_start	O
+/s	per_cont	O
+พงษ์พานิช	per_end	O
+/s	O	O
+ผู้ว่าราชการจังหวัด	O	O
+ขอนแก่น	O	O
+/s	O	O
+หาก	O	O
+มี	O	O
+การ	O	O
+สั่ง	O	O
+ปิด	O	O
+โรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+จริง	O	O
+/s	O	O
+ก็	O	O
+จะ	O	O
+ส่ง	O	O
+ผล	O	O
+ต่อ	O	O
+การ	O	O
+ดำเนิน	O	O
+กิจการ	O	O
+ของ	O	O
+โรงงาน	O	O
+คณะ	O	O
+พนักงาน	O	O
+บริษัท	O	O
+ฯ	O	O
+พร้อม	O	O
+ครอบครัว	O	O
+โดย	O	O
+มี	O	O
+เจ้าหน้าที่	O	O
+กระทรวง	O	O
+อุตสาหกรรม	O	O
+และ	O	O
+หน่วยงาน	O	O
+ที่	O	O
+เกี่ยวข้อง	O	O
+เข้า	O	O
+มา	O	O
+ทำการ	O	O
+ดูแล	O	O
+อย่าง	O	O
+ใกล้ชิด	O	O
+ใน	O	O
+การ	O	O
+ชุมนุม	O	O
+ครั้ง	O	O
+นี้	O	O
+ตัวแทน	O	O
+กลุ่ม	O	O
+สหภาพ	O	O
+แรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+หลาย	O	O
+คน	O	O
+เวที	O	O
+ปราศรัย	O	O
+โจมตี	O	O
+นาย	O	O
+อดิศร	per_start	O
+/s	per_cont	O
+เพียงเกษ	per_end	O
+/s	O	O
+ส.ส.	O	O
+ขอนแก่น	O	O
+/s	O	O
+ใน	O	O
+ฐานะ	O	O
+รอง	O	O
+ประธาน	O	O
+คณะ	O	O
+อนุกรรมาธิการ	O	O
+ยุติธรรม	O	O
+และ	O	O
+สิทธิมนุษยชน	O	O
+/s	O	O
+สภา	O	O
+ผู้แทนราษฎร	O	O
+/s	O	O
+ที่	O	O
+ออก	O	O
+มา	O	O
+เป็น	O	O
+แกนนำ	O	O
+ใน	O	O
+การ	O	O
+กล่าวหา	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+ว่า	O	O
+ปล่อย	O	O
+น้ำ	O	O
+เสีย	O	O
+ลง	O	O
+ลำน้ำพอง	O	O
+โดย	O	O
+ไม่	O	O
+มี	O	O
+การ	O	O
+บำบัด	O	O
+/s	O	O
+นาย	O	O
+อาทิตย์	per_start	O
+/s	per_cont	O
+สิมมา	per_end	O
+/s	O	O
+ประธาน	O	O
+สหภาพ	O	O
+แรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+สหภาพ	O	O
+ขอ	O	O
+ความ	O	O
+เป็น	O	O
+ธรรม	O	O
+ใน	O	O
+กรณี	O	O
+ที่	O	O
+มี	O	O
+คำสั่ง	O	O
+ปิด	O	O
+โรงงาน	O	O
+เยื่อ	O	O
+กระดาษ	O	O
+ที่	O	O
+อำเภอ	O	O
+น้ำพอง	O	O
+/s	O	O
+จังหวัด	O	O
+ขอนแก่น	O	O
+/s	O	O
+"	O	O
+พนักงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+กังขา	O	O
+เบื้องหลัง	O	O
+ที่มา	O	O
+คำสั่ง	O	O
+ปิด	O	O
+ดังกล่าว	O	O
+บุคคล	O	O
+เพียง	O	O
+บาง	O	O
+กลุ่ม	O	O
+/s	O	O
+นำ	O	O
+โดย	O	O
+นาย	O	O
+อดิศร	per_start	O
+/s	per_cont	O
+เพียงเกษ	per_end	O
+/s	O	O
+ที่	O	O
+สร้าง	O	O
+สถานการณ์	O	O
+เพื่อ	O	O
+หวัง	O	O
+ผล	O	O
+ทาง	O	O
+การเมือง	O	O
+ใน	O	O
+การ	O	O
+เลือกตั้ง	O	O
+คราว	O	O
+หน้า	O	O
+"	O	O
+/s	O	O
+นาย	O	O
+อาทิตย์	per	O
+กล่าว	O	O
+ด้าน	O	O
+นาย	O	O
+เสริมศักดิ์	per_start	O
+/s	per_cont	O
+พงษ์พานิช	per_end	O
+/s	O	O
+ผู้ว่าราชการจังหวัด	O	O
+ขอนแก่น	O	O
+/s	O	O
+กล่าว	O	O
+ว่า	O	O
+/s	O	O
+หนังสือ	O	O
+ร้องเรียน	O	O
+จาก	O	O
+พนักงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+แล้ว	O	O
+/s	O	O
+นาย	O	O
+เสริมศักดิ์	per	O
+/s	O	O
+กล่าว	O	O
+อีก	O	O
+ว่า	O	O
+/s	O	O
+เรื่อง	O	O
+โรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+กับ	O	O
+ลำน้ำ	O	O
+พอง	O	O
+เน่า	O	O
+เสีย	O	O
+เป็น	O	O
+ปัญหา	O	O
+ที่	O	O
+เกิด	O	O
+ขึ้น	O	O
+มา	O	O
+นาน	O	O
+/s	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+เอง	O	O
+ต้อง	O	O
+ให้	O	O
+ความ	O	O
+ร่วมมือ	O	O
+กับ	O	O
+ทางการ	O	O
+อย่าง	O	O
+เต็มที่	O	O
+นาย	O	O
+พิทักษ์	per_start	O
+/s	per_cont	O
+ธนะมงคล	per_end	O
+/s	O	O
+ผู้จัดการ	O	O
+ทั่วไป	O	O
+ฝ่าย	O	O
+บริหาร	O	O
+/s	O	O
+บริษัท	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+ประจำ	O	O
+จังหวัด	O	O
+ขอนแก่น	O	O
+เปิดเผย	O	O
+ว่า	O	O
+/s	O	O
+ทาง	O	O
+โรงงาน	O	O
+ยัง	O	O
+คง	O	O
+ทำการ	O	O
+ผลิต	O	O
+ตามปกติ	O	O
+/s	O	O
+อนึ่ง	O	O
+/s	O	O
+นาย	O	O
+สมศักดิ์	per_start	O
+/s	per_cont	O
+เทพสุทิน	per_end	O
+/s	O	O
+รัฐมนตรีว่าการ	O	O
+กระทรวง	O	O
+อุตสาหกรรม	O	O
+ได้	O	O
+/s	O	O
+ลงนาม	O	O
+เห็นชอบ	O	O
+ใน	O	O
+คำสั่ง	O	O
+ปิด	O	O
+โรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+โดย	O	O
+ระบุ	O	O
+ความ	O	O
+ผิด	O	O
+ของ	O	O
+โรงงาน	O	O
+ฟินิคซ์	O	O
+ฯ	O	O
+/s	O	O
+ที่	O	O
+ปล่อย	O	O
+ให้	O	O
+น้ำ	O	O
+ทิ้ง	O	O
+ซึ่ง	O	O
+โรงงาน	O	O
+ใช้	O	O
+ใน	O	O
+การ	O	O
+เพาะ	O	O
+ปลูก	O	O
+สวน	O	O
+ป่า	O	O
+ยูคาลิปตัส	O	O
+ตาม	O	O
+โครงการ	O	O
+โปรเจ็กต์	O	O
+กรีน	O	O
+ซึม	O	O
+ลง	O	O
+สู่	O	O
+แหล่ง	O	O
+น้ำ	O	O
+สาธารณะ	O	O
+ด้วย	O	O
+ที่	O	O
+ประชุม	O	O
+คณะ	O	O
+กรรมการ	O	O
+บริษัท	O	O
+/s	O	O
+สามารถเทลคอม	org	O
+/s	O	O
+จำกัด	O	O
+/s	O	O
+(มหาชน)	O	O
+/s	O	O
+หรือ	O	O
+/s	O	O
+SAMTEL	O	O
+/s	O	O
+ครั้ง	O	O
+ที่	O	O
+/s	O	O
+6/2541	O	O
+
