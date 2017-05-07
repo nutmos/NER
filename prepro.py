@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
+import arff
 pre_org_dict = []
 pre_per_dict = []
 sub_per_dict = []
@@ -125,16 +126,27 @@ for i in range(len(data)):
 	dict_pre_per = (word in pre_per_dict)
 	dict_sub_per = (word in sub_per_dict)
 	dict_common = (word in common_dict)
-	word_feature.append((word,tagged,dict_pre_org,dict_pre_per,dict_sub_per,dict_common))
+	word_feature.append([tagged,dict_pre_org,dict_pre_per,dict_sub_per,dict_common])
 	
 useful_feature = []
-useless_word = ('-','-','-','-','-','-')
+useless_word = ['O',False,False,False,False]
 for i in range(len(word_feature)):
-	feature = ()
+	feature = []
 	for j in range(13):
 		if(i+j-6 < 0 or i+j-6 >= len(word_feature)):
-			feature += useless_word
+			feature.extend(useless_word)
 		else:
-			feature += word_feature[i+j-6]
+			feature.extend(word_feature[i+j-6])
+	feature.append(word_feature[i])
 	useful_feature.append(feature)
-#print useful_feature
+#names = []
+#for j in range(13):
+	#names.append('word'+str(j-2))
+	#names.append('tagged'+str(j-6))
+	#names.append('dict_pre_org'+str(j-6))
+	#names.append('dict_pre_per'+str(j-6))
+	#names.append('dict_sub_per'+str(j-6))
+	#names.append('dict_common'+str(j-6))
+#names.append('class')
+#arff.dump(open('test.arff','w'),useful_feature,relation="eiei",names)
+#arff.dump('result.arff', useful_feature, relation="eiei", names=names) 
